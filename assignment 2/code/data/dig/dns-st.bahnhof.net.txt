@@ -1,0 +1,2909 @@
+2023-09-27 12:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 7683
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12775 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Wed Sep 27 12:54:41 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 16.092021 1.031525 0.999642
+2023-09-27 13:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 42291
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12377 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Wed Sep 27 13:54:28 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.925309 2.846126 2.819373
+2023-09-27 14:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 2594
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12715 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Wed Sep 27 14:54:27 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 1.841303 1.780881 1.753875
+2023-09-27 15:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 46419
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12331 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Wed Sep 27 15:54:27 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.118491 2.044278 2.018138
+2023-09-27 16:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 8268
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 2531210 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Wed Sep 27 16:54:35 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 10.418708 2.821009 2.790507
+2023-09-27 17:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 15658
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12525 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Wed Sep 27 17:54:44 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 18.431227 3.177105 3.130596
+2023-09-27 18:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 40058
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12278 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Wed Sep 27 18:54:42 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 16.905785 1.837874 1.809738
+2023-09-27 19:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 22544
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12218 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Wed Sep 27 19:54:27 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.182096 2.107446 2.082877
+2023-09-27 20:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 52761
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12369 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Wed Sep 27 20:54:28 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.583939 2.509528 2.484457
+2023-09-27 21:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 10268
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12453 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Wed Sep 27 21:54:30 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 4.304420 4.225882 4.203284
+2023-09-27 22:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 13772
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12436 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Wed Sep 27 22:54:27 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.166428 2.110498 2.075306
+2023-09-27 23:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 33973
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12495 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Wed Sep 27 23:54:29 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 3.089920 3.015342 2.990225
+2023-09-28 00:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 47400
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12243 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 00:54:27 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 1.612120 1.553490 1.532409
+2023-09-28 01:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 7765
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12590 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 01:54:43 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.737984 2.638197 2.614641
+2023-09-28 02:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 685
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12379 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 02:54:29 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.650527 2.571998 2.546815
+2023-09-28 03:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 58856
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12613 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 03:54:28 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.229515 2.164463 2.109072
+2023-09-28 04:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 48364
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12469 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 04:54:28 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.458257 2.366784 2.299343
+2023-09-28 05:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 39375
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12481 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 05:54:44 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.894105 2.781053 2.717257
+2023-09-28 06:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 36026
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12354 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 06:54:28 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.168567 2.080063 2.030289
+2023-09-28 07:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 2754
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12424 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 07:54:29 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.582974 2.487061 2.431847
+2023-09-28 08:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 6918
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12496 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 08:54:43 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.129438 2.046639 1.990008
+2023-09-28 09:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 20474
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12356 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 09:54:29 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.744795 2.667650 2.639806
+2023-09-28 10:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 13587
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12388 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 10:54:28 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.166487 2.113187 2.084378
+2023-09-28 11:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 44330
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12424 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 11:54:29 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.617885 2.543688 2.519783
+2023-09-28 12:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 35643
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12390 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 12:54:30 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.876355 2.798464 2.769224
+2023-09-28 13:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 44631
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12452 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 13:54:29 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.343645 2.285572 2.251179
+2023-09-28 14:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 50485
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12584 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 14:54:29 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.873916 2.803583 2.778501
+2023-09-28 15:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 1524
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12391 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 15:54:29 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.510286 2.399288 2.356366
+2023-09-28 16:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 16446
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12710 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 16:54:45 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 18.096818 2.995942 2.965274
+2023-09-28 17:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 22968
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12823 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 17:54:28 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.029394 1.967863 1.938903
+2023-09-28 18:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 48644
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12309 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 18:54:30 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 3.554312 3.479001 3.452123
+2023-09-28 19:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 12301
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12733 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 19:54:28 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.040991 1.982979 1.947485
+2023-09-28 20:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 8939
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12680 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 20:54:30 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 3.144277 3.052400 3.020640
+2023-09-28 21:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 47506
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 7981 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 21:54:43 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 16.710829 1.651005 1.625499
+2023-09-28 22:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 38316
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12594 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 22:54:45 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.488787 2.401548 2.376661
+2023-09-28 23:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 31133
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 13097 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Thu Sep 28 23:54:44 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.030897 1.960419 1.939914
+2023-09-29 00:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 51007
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12378 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 00:54:30 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.989420 2.911080 2.879290
+2023-09-29 01:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 21830
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12346 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 01:54:29 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 1.777555 1.725024 1.689639
+2023-09-29 02:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 37965
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12331 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 02:54:30 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.728805 2.655305 2.634479
+2023-09-29 03:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 5834
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 13013 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 03:54:29 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 1.884167 1.832088 1.808456
+2023-09-29 04:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 57307
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12359 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 04:54:30 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.859466 2.750490 2.670601
+2023-09-29 05:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 3648
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12381 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 05:54:31 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.946559 2.864676 2.829907
+2023-09-29 06:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 15649
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12885 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 06:54:30 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.000964 1.936196 1.860342
+2023-09-29 07:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 59748
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12638 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 07:54:31 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.910451 2.816347 2.793046
+2023-09-29 08:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 3386
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12938 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 08:54:30 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.203786 2.110198 2.071746
+2023-09-29 09:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 43023
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12664 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 09:54:31 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 3.526479 3.421879 3.381048
+2023-09-29 10:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 50439
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12491 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 10:54:31 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.990644 2.857603 2.833337
+2023-09-29 11:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 48848
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12465 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 11:54:29 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.063053 2.009276 1.988767
+2023-09-29 12:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 47788
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12909 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 12:54:46 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.988769 2.881785 2.857221
+2023-09-29 13:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 62545
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12534 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 13:54:46 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.866589 2.771742 2.739709
+2023-09-29 14:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 15102
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12585 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 14:54:30 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.381019 2.331512 2.306410
+2023-09-29 15:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 27874
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12768 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 15:54:31 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.766941 2.689239 2.659558
+2023-09-29 16:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 23395
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12343 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 16:54:31 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.757235 2.668135 2.646891
+2023-09-29 17:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 25871
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12699 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 17:54:32 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 3.176273 3.032450 3.000966
+2023-09-29 18:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 50708
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12361 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 18:54:30 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 1.798647 1.752065 1.720335
+2023-09-29 19:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 40249
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12247 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 19:54:30 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.245779 2.099443 2.077222
+2023-09-29 20:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 24097
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12441 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 20:54:32 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 3.007022 2.560591 2.540419
+2023-09-29 21:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 32308
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12785 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 21:54:31 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.283383 2.233257 2.197613
+2023-09-29 22:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 29632
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12599 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 22:54:47 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 18.536731 3.128110 3.091402
+2023-09-29 23:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 34673
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12423 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Fri Sep 29 23:54:30 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 1.636564 1.575120 1.552530
+2023-09-30 00:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 1605
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12437 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 00:54:32 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 3.518579 3.440512 3.415181
+2023-09-30 01:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 6919
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12445 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 01:54:47 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.849868 2.757670 2.736367
+2023-09-30 02:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 22060
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 13129 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 02:54:46 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 16.804289 1.736172 1.713529
+2023-09-30 03:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 44331
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12728 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 03:54:47 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 18.179290 3.078843 3.018910
+2023-09-30 04:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 40538
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12820 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 04:54:47 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 18.123311 2.993980 2.718045
+2023-09-30 05:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 50268
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12449 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 05:54:47 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 18.214706 3.117581 3.065808
+2023-09-30 06:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 4194
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12692 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 06:54:32 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.481272 2.293825 2.167750
+2023-09-30 07:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 60983
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12967 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 07:54:46 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.305567 2.234840 2.203200
+2023-09-30 08:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 1179
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12563 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 08:54:46 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.433037 2.324127 2.229116
+2023-09-30 09:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 8457
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12491 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 09:54:47 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.934399 2.841704 2.817830
+2023-09-30 10:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 61648
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12662 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 10:54:47 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.428413 2.328349 2.290370
+2023-09-30 11:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 62072
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 13261 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 11:54:46 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.148073 2.075126 2.047885
+2023-09-30 12:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 26195
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12728 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 12:54:47 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.942001 2.845974 2.823925
+2023-09-30 13:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 5990
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12514 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 13:54:47 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.339857 2.238764 2.210766
+2023-09-30 14:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 34199
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12680 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 14:54:48 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 18.101387 3.006653 2.987495
+2023-09-30 15:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 46924
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12931 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 15:54:46 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 16.826857 1.754858 1.734251
+2023-09-30 16:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 19497
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12503 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 16:54:47 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.547646 2.444702 2.424448
+2023-09-30 17:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 55718
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12783 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 17:54:32 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.526533 2.437922 2.411594
+2023-09-30 18:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 62335
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12473 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 18:54:51 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 21.695125 6.611410 6.576298
+2023-09-30 19:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 14859
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 352141 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 19:54:37 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 7.242392 1.842810 1.822147
+2023-09-30 20:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 58871
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12570 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 20:54:47 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.512292 2.411665 2.377357
+2023-09-30 21:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 51642
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12871 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 21:54:33 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.709718 2.626683 2.601435
+2023-09-30 22:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 30903
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 379900 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 22:54:42 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 12.707317 2.245226 2.222232
+2023-09-30 23:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 54634
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12429 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sat Sep 30 23:54:47 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.872594 2.767985 2.739879
+2023-10-01 00:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 10162
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12671 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 00:54:48 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 18.064817 2.981831 2.954848
+2023-10-01 01:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 18105
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 13034 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 01:54:47 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.290059 2.195310 2.153084
+2023-10-01 02:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 50485
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12597 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 02:54:32 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.361160 2.273517 2.252135
+2023-10-01 03:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 36573
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12411 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 03:54:32 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 2.480505 2.397375 2.371685
+2023-10-01 04:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 11997
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12670 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 04:54:49 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 18.696584 3.471007 3.354542
+2023-10-01 05:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 31523
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 13205 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 05:54:47 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.146453 2.012744 1.937442
+2023-10-01 06:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 33422
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12577 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 06:54:48 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.787817 2.664924 2.584741
+2023-10-01 07:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 58070
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12713 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 07:54:49 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.990781 2.831201 2.804358
+2023-10-01 08:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 54441
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12621 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 08:54:48 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.194827 2.126256 2.098702
+2023-10-01 09:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 40389
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12722 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 09:54:48 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.757350 2.666222 2.637721
+2023-10-01 10:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 12170
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 13032 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 10:54:47 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.248060 2.169053 2.148694
+2023-10-01 11:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 65043
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12824 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 11:54:49 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.855133 2.763733 2.738176
+2023-10-01 12:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 52686
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 13042 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 12:54:49 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.579821 2.486372 2.457961
+2023-10-01 13:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 34874
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12955 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 13:54:48 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.188921 2.119367 2.095784
+2023-10-01 14:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 35962
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12415 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 14:54:48 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.353902 2.260903 2.229857
+2023-10-01 15:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 60978
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12646 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 15:54:48 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.723988 2.629218 2.600692
+2023-10-01 16:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 23849
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12805 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 16:54:49 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 18.100849 3.019894 2.989932
+2023-10-01 17:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 4626
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12555 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 17:54:50 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 18.327634 3.236551 3.209620
+2023-10-01 18:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 47289
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12781 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 18:54:48 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 16.774189 1.679064 1.636232
+2023-10-01 19:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 28265
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12468 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 19:54:49 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.673851 2.578560 2.548315
+2023-10-01 20:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 23547
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 13280 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 20:54:48 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 16.901537 1.837724 1.816717
+2023-10-01 21:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 29747
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12651 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 21:54:49 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.785948 2.685919 2.662288
+2023-10-01 22:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 58038
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12626 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 22:54:48 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 16.848926 1.728212 1.707269
+2023-10-01 23:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 47693
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12854 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Sun Oct 01 23:54:34 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 3.036212 2.946767 2.917014
+2023-10-02 00:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 16469
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 2110066 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Mon Oct 02 00:54:45 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 14.501448 2.336713 2.309160
+2023-10-02 01:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 5131
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12684 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Mon Oct 02 01:54:48 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 16.860809 1.773839 1.749062
+2023-10-02 02:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 42471
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12874 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Mon Oct 02 02:54:50 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 18.287912 3.162650 3.070143
+2023-10-02 03:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 51614
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12765 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Mon Oct 02 03:54:48 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 16.505857 1.335827 1.303779
+2023-10-02 04:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 330
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12581 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Mon Oct 02 04:54:50 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 18.283320 3.135597 2.987251
+2023-10-02 05:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 45102
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12567 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Mon Oct 02 05:54:49 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.051563 1.935405 1.874501
+2023-10-02 06:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 11874
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12589 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Mon Oct 02 06:54:49 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.831022 2.741147 2.720379
+2023-10-02 07:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 39501
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 2568697 usec
+;; SERVER: 2001:9b0:1:601:250:56ff:feb7:46#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Mon Oct 02 07:54:48 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 15.527452 2.884630 2.862055
+2023-10-02 08:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 25213
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12971 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Mon Oct 02 08:54:49 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.107217 2.037044 1.952458
+2023-10-02 09:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 56014
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12699 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Mon Oct 02 09:54:49 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.381158 2.292374 2.270721
+2023-10-02 10:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 36651
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12769 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Mon Oct 02 10:54:51 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 18.088007 2.995442 2.963268
+2023-10-02 11:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 21014
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12683 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Mon Oct 02 11:54:50 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.304471 2.215777 2.191005
+2023-10-02 12:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 19323
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 13056 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Mon Oct 02 12:54:49 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 16.778610 1.715730 1.685515
+2023-10-02 13:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 58382
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 12986 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Mon Oct 02 13:54:50 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.902431 2.786463 2.760547
+2023-10-02 14:54:01
+https://tools.dice.aalto.fi/dig?server=dns-st.bahnhof.net&name=google.com
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+;; communications error to 2001:9b0:1:601:250:56ff:feb7:46#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @dns-st.bahnhof.net google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 61950
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 13019 usec
+;; SERVER: 79.136.119.20#53(dns-st.bahnhof.net) (UDP)
+;; WHEN: Mon Oct 02 14:54:50 EEST 2023
+;; MSG SIZE  rcvd: 39
+
+;CURL: 17.354254 2.270574 2.250307

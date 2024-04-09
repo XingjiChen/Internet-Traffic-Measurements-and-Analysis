@@ -1,0 +1,1230 @@
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695808442.390810] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=31.6 ms
+[1695808442.549262] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=18.6 ms
+[1695808443.547428] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.0 ms
+[1695808444.548951] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.1 ms
+[1695808445.550370] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.9 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 14.916/19.042/31.577/6.423 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695812045.559724] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.3 ms
+[1695812045.574838] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.5 ms
+[1695812046.577405] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.1 ms
+[1695812047.580017] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.8 ms
+[1695812048.581225] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.8 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4628ms
+rtt min/avg/max/mdev = 14.547/15.105/15.774/0.420 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695815643.772202] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.0 ms
+[1695815643.787606] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.8 ms
+[1695815644.790755] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=16.0 ms
+[1695815645.792059] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.5 ms
+[1695815646.794895] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=16.5 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4773ms
+rtt min/avg/max/mdev = 14.846/15.587/16.548/0.641 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695819243.420138] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.5 ms
+[1695819243.435737] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.1 ms
+[1695819244.437655] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.0 ms
+[1695819245.440250] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.4 ms
+[1695819246.442401] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.4 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4781ms
+rtt min/avg/max/mdev = 14.990/15.259/15.450/0.190 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695822845.847069] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=17.6 ms
+[1695822845.864412] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.8 ms
+[1695822846.865111] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.7 ms
+[1695822847.866286] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.3 ms
+[1695822848.867343] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.9 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5617ms
+rtt min/avg/max/mdev = 14.948/16.071/17.596/0.977 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695826446.309042] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=214 ms
+[1695826446.336343] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=26.5 ms
+[1695826447.455325] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=144 ms
+[1695826448.336210] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=22.6 ms
+[1695826449.331296] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=16.1 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5662ms
+rtt min/avg/max/mdev = 16.144/84.674/214.497/80.350 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695830043.651378] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.3 ms
+[1695830043.666665] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.6 ms
+[1695830044.669015] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.7 ms
+[1695830045.671097] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.8 ms
+[1695830046.672289] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.6 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4839ms
+rtt min/avg/max/mdev = 14.628/15.394/15.763/0.414 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695833643.340534] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.1 ms
+[1695833643.355789] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.8 ms
+[1695833644.357910] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.3 ms
+[1695833645.360454] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.9 ms
+[1695833646.361236] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.4 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4953ms
+rtt min/avg/max/mdev = 14.804/15.475/16.061/0.450 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695837244.646257] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.1 ms
+[1695837244.664000] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.8 ms
+[1695837245.664837] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.7 ms
+[1695837246.666386] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.4 ms
+[1695837247.680092] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=27.5 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4886ms
+rtt min/avg/max/mdev = 15.147/18.084/27.499/4.740 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695840846.588150] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=145 ms
+[1695840846.603224] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.8 ms
+[1695840847.604155] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=14.0 ms
+[1695840848.607282] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.5 ms
+[1695840849.609858] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=16.7 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6361ms
+rtt min/avg/max/mdev = 14.015/41.277/145.401/52.068 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695844443.439061] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.3 ms
+[1695844443.455590] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.2 ms
+[1695844444.457698] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.2 ms
+[1695844445.458194] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=13.9 ms
+[1695844446.461335] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.1 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4963ms
+rtt min/avg/max/mdev = 13.912/14.963/15.345/0.531 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695848045.362599] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=17.0 ms
+[1695848045.379382] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.3 ms
+[1695848046.382425] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=17.4 ms
+[1695848047.381622] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=14.5 ms
+[1695848048.386597] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=17.6 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5535ms
+rtt min/avg/max/mdev = 14.477/16.570/17.598/1.135 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695851642.905019] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.7 ms
+[1695851642.922047] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.6 ms
+[1695851643.923458] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=14.8 ms
+[1695851644.925856] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.2 ms
+[1695851645.927659] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.1 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4546ms
+rtt min/avg/max/mdev = 14.822/15.278/15.662/0.308 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695855244.832431] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.4 ms
+[1695855244.848190] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.1 ms
+[1695855245.849948] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.2 ms
+[1695855246.852081] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.7 ms
+[1695855247.852500] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.9 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4958ms
+rtt min/avg/max/mdev = 14.851/15.267/15.739/0.302 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695858846.257962] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=14.7 ms
+[1695858846.274932] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.4 ms
+[1695858847.277077] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=16.3 ms
+[1695858848.278093] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.3 ms
+[1695858849.281684] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=16.8 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6046ms
+rtt min/avg/max/mdev = 14.707/15.899/16.825/0.789 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695862444.212596] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.0 ms
+[1695862444.229651] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.8 ms
+[1695862445.229199] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=14.2 ms
+[1695862446.235429] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=18.8 ms
+[1695862447.242737] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=24.8 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4467ms
+rtt min/avg/max/mdev = 14.238/17.918/24.799/3.788 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695866044.837064] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=21.3 ms
+[1695866044.854590] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=17.0 ms
+[1695866045.853293] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=14.2 ms
+[1695866046.857819] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=16.9 ms
+[1695866047.865454] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=22.8 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4800ms
+rtt min/avg/max/mdev = 14.233/18.455/22.785/3.139 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695869646.657212] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=19.1 ms
+[1695869646.673750] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.6 ms
+[1695869647.680163] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=20.6 ms
+[1695869648.676023] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.1 ms
+[1695869649.699088] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=36.5 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6250ms
+rtt min/avg/max/mdev = 15.123/21.390/36.528/7.841 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695873243.810365] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=22.4 ms
+[1695873243.883532] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=72.9 ms
+[1695873244.830091] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=17.5 ms
+[1695873245.843372] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=29.3 ms
+[1695873246.830356] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.5 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4592ms
+rtt min/avg/max/mdev = 14.509/31.329/72.905/21.377 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695876844.489803] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=14.9 ms
+[1695876844.503945] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=13.9 ms
+[1695876845.514245] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=22.9 ms
+[1695876846.522566] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=29.7 ms
+[1695876847.511583] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=17.3 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5449ms
+rtt min/avg/max/mdev = 13.901/19.734/29.705/5.890 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695880444.776002] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=17.3 ms
+[1695880444.791791] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.3 ms
+[1695880445.793696] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=14.6 ms
+[1695880446.800237] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=19.5 ms
+[1695880447.798152] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.3 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5222ms
+rtt min/avg/max/mdev = 14.597/16.384/19.498/1.796 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695884044.974493] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=14.0 ms
+[1695884044.990035] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.0 ms
+[1695884045.991795] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.1 ms
+[1695884046.993082] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=14.8 ms
+[1695884047.997431] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=17.0 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5129ms
+rtt min/avg/max/mdev = 14.026/15.163/16.954/0.969 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695887643.689558] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.9 ms
+[1695887643.704759] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.9 ms
+[1695887644.707073] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.4 ms
+[1695887645.708513] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.8 ms
+[1695887646.708487] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.2 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4693ms
+rtt min/avg/max/mdev = 14.232/15.255/15.906/0.622 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695891245.271431] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.9 ms
+[1695891245.289324] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=17.3 ms
+[1695891246.291958] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=17.4 ms
+[1695891247.293001] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=16.8 ms
+[1695891248.292463] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.7 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4785ms
+rtt min/avg/max/mdev = 14.710/16.421/17.364/1.005 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695894844.730286] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.3 ms
+[1695894844.746200] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.3 ms
+[1695894845.748169] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.2 ms
+[1695894846.751156] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=16.0 ms
+[1695894847.751253] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.8 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5663ms
+rtt min/avg/max/mdev = 14.778/15.522/16.293/0.562 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695898443.939106] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.6 ms
+[1695898443.954256] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.9 ms
+[1695898444.956486] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.3 ms
+[1695898445.958505] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=14.9 ms
+[1695898446.959872] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.6 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4988ms
+rtt min/avg/max/mdev = 14.612/15.258/16.629/0.717 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695902044.676752] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.0 ms
+[1695902044.692856] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.6 ms
+[1695902045.694757] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=16.2 ms
+[1695902046.696176] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.3 ms
+[1695902047.698482] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.6 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5812ms
+rtt min/avg/max/mdev = 15.256/15.717/16.184/0.335 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695905643.970521] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=22.1 ms
+[1695905643.985471] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.7 ms
+[1695905644.994854] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=22.1 ms
+[1695905645.995746] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=21.3 ms
+[1695905646.990776] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.5 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4880ms
+rtt min/avg/max/mdev = 14.462/18.913/22.095/3.563 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695909244.870692] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.0 ms
+[1695909244.885825] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.6 ms
+[1695909245.891633] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=17.8 ms
+[1695909246.890246] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.0 ms
+[1695909247.912399] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=35.6 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5776ms
+rtt min/avg/max/mdev = 14.591/19.582/35.571/8.077 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695912843.340196] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.5 ms
+[1695912843.355437] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.7 ms
+[1695912844.356877] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=14.8 ms
+[1695912845.358607] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.2 ms
+[1695912846.404519] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=58.9 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4811ms
+rtt min/avg/max/mdev = 14.696/23.829/58.945/17.559 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695916445.079477] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=17.4 ms
+[1695916445.097600] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.7 ms
+[1695916446.097070] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=14.5 ms
+[1695916447.099753] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.3 ms
+[1695916448.101766] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.3 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6267ms
+rtt min/avg/max/mdev = 14.489/15.826/17.355/1.038 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695920043.151720] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.3 ms
+[1695920043.169685] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=17.4 ms
+[1695920044.170095] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=16.4 ms
+[1695920045.172250] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=16.1 ms
+[1695920046.173992] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.8 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4695ms
+rtt min/avg/max/mdev = 15.828/16.391/17.388/0.537 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695923645.201768] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.4 ms
+[1695923645.217565] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.5 ms
+[1695923646.219056] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=14.2 ms
+[1695923647.221029] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=14.5 ms
+[1695923648.227736] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=19.7 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5795ms
+rtt min/avg/max/mdev = 14.159/15.826/19.672/2.074 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695927244.342554] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=10.2 ms
+[1695927244.354515] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=11.4 ms
+[1695927245.357448] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=11.6 ms
+[1695927246.358274] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=11.0 ms
+[1695927247.360886] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=11.2 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5111ms
+rtt min/avg/max/mdev = 10.244/11.096/11.618/0.476 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695930844.763543] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=17.4 ms
+[1695930844.779219] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.2 ms
+[1695930845.780624] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=14.8 ms
+[1695930846.791220] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=24.0 ms
+[1695930847.783682] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.9 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5019ms
+rtt min/avg/max/mdev = 14.820/17.267/24.038/3.519 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695934443.652345] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=14.9 ms
+[1695934443.821134] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.4 ms
+[1695934444.821977] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.4 ms
+[1695934445.826418] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=17.3 ms
+[1695934446.828324] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=16.9 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4007ms
+rtt min/avg/max/mdev = 14.904/16.180/17.280/0.903 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695938045.099939] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.8 ms
+[1695938045.117731] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.4 ms
+[1695938046.120753] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=17.0 ms
+[1695938047.120399] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=14.9 ms
+[1695938048.122721] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.5 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4635ms
+rtt min/avg/max/mdev = 14.943/16.117/16.956/0.783 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695941643.411986] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=29.2 ms
+[1695941643.427171] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.8 ms
+[1695941644.429725] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=16.1 ms
+[1695941645.431428] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=16.1 ms
+[1695941646.432541] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.5 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4847ms
+rtt min/avg/max/mdev = 14.757/18.344/29.234/5.466 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695945245.355325] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=14.8 ms
+[1695945245.372337] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.5 ms
+[1695945246.372842] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=14.9 ms
+[1695945247.375113] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.2 ms
+[1695945248.378184] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=16.1 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4678ms
+rtt min/avg/max/mdev = 14.833/15.478/16.468/0.662 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695948843.555833] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=17.8 ms
+[1695948843.571076] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.9 ms
+[1695948844.573558] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.6 ms
+[1695948845.576873] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=16.2 ms
+[1695948846.577536] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.5 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4829ms
+rtt min/avg/max/mdev = 14.907/16.004/17.843/1.007 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695952444.104870] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.3 ms
+[1695952444.121693] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.5 ms
+[1695952445.123448] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=14.8 ms
+[1695952446.128771] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=18.5 ms
+[1695952447.140423] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=28.4 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5563ms
+rtt min/avg/max/mdev = 14.825/18.734/28.435/5.008 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695956045.240084] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=24.8 ms
+[1695956045.265974] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=25.3 ms
+[1695956046.260025] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=16.8 ms
+[1695956047.269275] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=24.2 ms
+[1695956048.262209] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.4 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5186ms
+rtt min/avg/max/mdev = 15.444/21.300/25.302/4.269 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695959643.583285] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.4 ms
+[1695959643.658781] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=75.1 ms
+[1695959644.607609] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=22.5 ms
+[1695959645.601153] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=14.9 ms
+[1695959646.616896] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=29.2 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4856ms
+rtt min/avg/max/mdev = 14.932/31.449/75.148/22.465 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695963245.008798] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.9 ms
+[1695963245.027022] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=17.5 ms
+[1695963246.027196] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.5 ms
+[1695963247.028862] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=14.8 ms
+[1695963248.032588] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=17.1 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5392ms
+rtt min/avg/max/mdev = 14.755/16.141/17.479/1.020 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695966843.996470] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.2 ms
+[1695966844.052791] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=56.0 ms
+[1695966845.013823] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=16.2 ms
+[1695966846.012929] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=14.0 ms
+[1695966847.017518] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=18.0 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4779ms
+rtt min/avg/max/mdev = 13.970/23.868/56.020/16.129 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695970445.062202] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=34.5 ms
+[1695970445.091688] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=28.9 ms
+[1695970446.084917] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=20.2 ms
+[1695970447.082937] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.9 ms
+[1695970448.083940] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.1 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6010ms
+rtt min/avg/max/mdev = 15.098/22.908/34.477/7.575 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695974045.533726] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.4 ms
+[1695974045.550733] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.4 ms
+[1695974046.552027] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.5 ms
+[1695974047.554272] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=16.0 ms
+[1695974048.555490] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.2 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4940ms
+rtt min/avg/max/mdev = 15.217/15.697/16.444/0.448 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695977643.042533] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.3 ms
+[1695977643.058050] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.9 ms
+[1695977644.059673] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.1 ms
+[1695977645.062707] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.7 ms
+[1695977646.069557] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=19.9 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4727ms
+rtt min/avg/max/mdev = 14.940/16.383/19.923/1.837 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695981246.886531] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.8 ms
+[1695981246.901509] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.3 ms
+[1695981247.905690] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.8 ms
+[1695981248.909646] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=18.3 ms
+[1695981249.907866] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.0 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5717ms
+rtt min/avg/max/mdev = 14.330/15.843/18.306/1.351 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695984844.901253] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.6 ms
+[1695984844.916401] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.5 ms
+[1695984845.918387] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.0 ms
+[1695984846.921336] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=16.2 ms
+[1695984847.920937] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.2 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5759ms
+rtt min/avg/max/mdev = 14.235/15.105/16.177/0.700 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695988443.961071] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=13.9 ms
+[1695988443.975186] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=13.9 ms
+[1695988444.979231] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=16.3 ms
+[1695988445.984304] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=18.0 ms
+[1695988446.983014] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.7 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4925ms
+rtt min/avg/max/mdev = 13.893/15.369/17.966/1.563 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695992044.676826] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.9 ms
+[1695992044.693306] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.9 ms
+[1695992045.695590] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=16.0 ms
+[1695992046.697325] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.7 ms
+[1695992047.702710] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=19.9 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5470ms
+rtt min/avg/max/mdev = 15.737/16.679/19.874/1.599 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695995644.945500] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.1 ms
+[1695995644.964669] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=17.5 ms
+[1695995645.967040] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=17.6 ms
+[1695995646.968421] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=16.8 ms
+[1695995647.967642] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.6 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5563ms
+rtt min/avg/max/mdev = 14.602/16.515/17.570/1.097 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1695999245.303711] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.3 ms
+[1695999245.322123] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.7 ms
+[1695999246.322648] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=16.3 ms
+[1695999247.324531] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.8 ms
+[1695999248.325191] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.8 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5903ms
+rtt min/avg/max/mdev = 14.778/15.980/16.738/0.669 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696002843.617586] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.8 ms
+[1696002843.635579] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.8 ms
+[1696002844.635757] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.1 ms
+[1696002845.638454] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.7 ms
+[1696002846.639579] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=14.8 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4748ms
+rtt min/avg/max/mdev = 14.806/15.646/16.801/0.687 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696006443.557503] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=17.6 ms
+[1696006443.574981] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=17.2 ms
+[1696006444.574668] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.0 ms
+[1696006445.578047] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=16.8 ms
+[1696006446.577881] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=16.1 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4716ms
+rtt min/avg/max/mdev = 15.000/16.545/17.572/0.916 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696010044.590418] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.2 ms
+[1696010044.609724] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=18.0 ms
+[1696010045.608467] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.0 ms
+[1696010046.611845] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=16.3 ms
+[1696010047.613696] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=15.8 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5469ms
+rtt min/avg/max/mdev = 15.026/16.039/17.970/1.062 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696013644.095737] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.1 ms
+[1696013644.113126] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.0 ms
+[1696013645.149093] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=50.4 ms
+[1696013646.135639] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=34.4 ms
+[1696013647.121557] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=18.3 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4152ms
+rtt min/avg/max/mdev = 15.126/26.840/50.391/13.706 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696017246.815039] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.0 ms
+[1696017246.835944] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=19.3 ms
+[1696017247.893470] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=74.8 ms
+[1696017248.893937] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=74.0 ms
+[1696017249.903101] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=81.8 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5945ms
+rtt min/avg/max/mdev = 16.020/53.203/81.840/29.154 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696020843.462156] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.3 ms
+[1696020843.478638] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.1 ms
+[1696020844.522802] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=57.5 ms
+[1696020845.540406] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=72.9 ms
+[1696020846.562258] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=93.0 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4011ms
+rtt min/avg/max/mdev = 15.054/50.940/92.965/30.924 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696024445.522044] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=14.2 ms
+[1696024445.537970] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.5 ms
+[1696024446.538548] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=14.1 ms
+[1696024447.542331] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=16.4 ms
+[1696024448.547259] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=19.5 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6234ms
+rtt min/avg/max/mdev = 14.109/15.926/19.469/1.965 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696028044.731994] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.5 ms
+[1696028044.746926] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.5 ms
+[1696028045.747664] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=14.8 ms
+[1696028046.768067] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=33.9 ms
+[1696028047.778664] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=43.1 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4673ms
+rtt min/avg/max/mdev = 14.520/24.381/43.108/11.900 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696031643.929205] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.9 ms
+[1696031643.943780] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.0 ms
+[1696031644.967339] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=36.1 ms
+[1696031645.977684] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=44.9 ms
+[1696031646.967546] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=33.4 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4160ms
+rtt min/avg/max/mdev = 13.975/29.044/44.871/11.777 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696035244.624996] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=17.8 ms
+[1696035244.654470] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=29.2 ms
+[1696035245.645155] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=18.0 ms
+[1696035246.687381] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=58.1 ms
+[1696035247.767211] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=136 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5350ms
+rtt min/avg/max/mdev = 17.754/51.884/136.311/44.705 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696038846.579516] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=14.6 ms
+[1696038846.595061] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.1 ms
+[1696038847.634336] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=52.9 ms
+[1696038848.677335] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=94.8 ms
+[1696038849.702975] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=119 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6022ms
+rtt min/avg/max/mdev = 14.647/59.344/119.338/42.068 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696042446.351254] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=21.5 ms
+[1696042446.367792] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.0 ms
+[1696042447.435337] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=80.9 ms
+[1696042448.547474] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=192 ms
+[1696042449.633895] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=277 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5551ms
+rtt min/avg/max/mdev = 14.961/117.198/276.998/101.985 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696046044.739633] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=20.5 ms
+[1696046044.759674] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=18.7 ms
+[1696046045.786661] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=44.5 ms
+[1696046046.823858] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=79.6 ms
+[1696046047.974293] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=228 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4257ms
+rtt min/avg/max/mdev = 18.733/78.307/228.223/78.116 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696049645.439611] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=46.7 ms
+[1696049645.455861] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.6 ms
+[1696049646.490413] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=47.7 ms
+[1696049647.526188] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=81.8 ms
+[1696049648.566341] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=121 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5221ms
+rtt min/avg/max/mdev = 14.632/62.282/120.581/36.065 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696053243.882896] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.1 ms
+[1696053243.950519] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=28.1 ms
+[1696053244.981034] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=56.9 ms
+[1696053246.071054] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=145 ms
+[1696053247.063355] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=137 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 16.064/76.584/145.242/54.263 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696056844.783296] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.3 ms
+[1696056844.800297] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.4 ms
+[1696056845.828552] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=43.5 ms
+[1696056846.843200] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=57.0 ms
+[1696056847.851219] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=63.3 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5983ms
+rtt min/avg/max/mdev = 15.309/39.091/63.257/20.034 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696060444.018485] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.0 ms
+[1696060444.048044] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=29.3 ms
+[1696060445.099501] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=79.0 ms
+[1696060446.050907] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=29.2 ms
+[1696060447.108227] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=84.7 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4923ms
+rtt min/avg/max/mdev = 15.046/47.458/84.729/28.623 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696064043.432831] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.5 ms
+[1696064043.449840] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.8 ms
+[1696064044.461920] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=27.0 ms
+[1696064045.532666] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=95.9 ms
+[1696064046.518633] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=79.6 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4905ms
+rtt min/avg/max/mdev = 16.459/47.154/95.917/33.772 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696067645.835073] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.9 ms
+[1696067645.851157] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.6 ms
+[1696067646.878565] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=40.2 ms
+[1696067647.946759] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=108 ms
+[1696067648.885625] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=44.7 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6088ms
+rtt min/avg/max/mdev = 15.613/44.803/107.577/33.606 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696071243.886512] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.1 ms
+[1696071243.903390] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.4 ms
+[1696071244.906970] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=16.8 ms
+[1696071245.916118] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=25.0 ms
+[1696071246.987418] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=94.9 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4517ms
+rtt min/avg/max/mdev = 15.357/33.620/94.900/30.835 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696074845.760702] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.3 ms
+[1696074845.780741] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=19.1 ms
+[1696074846.787659] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=24.3 ms
+[1696074847.787472] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=22.2 ms
+[1696074848.795190] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=28.0 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4811ms
+rtt min/avg/max/mdev = 15.312/21.783/28.003/4.347 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696078443.058504] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.4 ms
+[1696078443.075057] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.7 ms
+[1696078444.101740] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=40.7 ms
+[1696078445.134024] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=71.7 ms
+[1696078446.140909] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=77.2 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4596ms
+rtt min/avg/max/mdev = 15.716/44.355/77.200/26.243 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696082044.366065] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.8 ms
+[1696082044.383605] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.5 ms
+[1696082045.392276] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=23.2 ms
+[1696082046.395436] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=25.2 ms
+[1696082047.459801] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=88.3 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5515ms
+rtt min/avg/max/mdev = 15.754/33.800/88.287/27.488 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696085643.901636] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.6 ms
+[1696085643.917210] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.0 ms
+[1696085644.937432] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=33.1 ms
+[1696085645.975878] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=69.9 ms
+[1696085646.956194] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=48.9 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5291ms
+rtt min/avg/max/mdev = 15.019/36.497/69.891/20.887 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696089248.325388] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.0 ms
+[1696089248.341423] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.3 ms
+[1696089249.356607] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=28.9 ms
+[1696089250.387037] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=57.8 ms
+[1696089251.409444] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=78.8 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6106ms
+rtt min/avg/max/mdev = 15.294/39.361/78.817/25.017 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696092843.551850] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.5 ms
+[1696092843.721903] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.0 ms
+[1696092844.724589] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=16.0 ms
+[1696092845.782131] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=71.6 ms
+[1696092846.743247] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=32.0 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 14.954/30.027/71.615/21.761 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696096445.307933] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.0 ms
+[1696096445.322805] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.4 ms
+[1696096446.329296] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=18.9 ms
+[1696096447.334390] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=23.3 ms
+[1696096448.375954] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=62.3 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5181ms
+rtt min/avg/max/mdev = 14.380/26.964/62.285/17.918 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696100044.569402] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.8 ms
+[1696100044.586211] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.2 ms
+[1696100045.606552] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=34.7 ms
+[1696100046.659727] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=86.5 ms
+[1696100047.633401] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=58.7 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5216ms
+rtt min/avg/max/mdev = 15.796/42.367/86.537/27.084 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696103643.503078] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.8 ms
+[1696103643.520200] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.7 ms
+[1696103644.539423] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=33.0 ms
+[1696103645.597476] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=89.2 ms
+[1696103646.565866] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=55.8 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5097ms
+rtt min/avg/max/mdev = 15.689/41.902/89.228/27.855 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696107244.222049] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.2 ms
+[1696107244.239004] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.6 ms
+[1696107245.253936] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=28.9 ms
+[1696107246.269915] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=43.6 ms
+[1696107247.320668] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=92.2 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5902ms
+rtt min/avg/max/mdev = 15.578/39.303/92.161/28.334 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696110845.214493] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.6 ms
+[1696110845.230814] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.8 ms
+[1696110846.232204] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.6 ms
+[1696110847.297930] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=79.4 ms
+[1696110848.376541] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=156 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5995ms
+rtt min/avg/max/mdev = 15.560/56.437/155.886/55.509 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696114443.730981] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.1 ms
+[1696114443.748542] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.0 ms
+[1696114444.750822] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=16.3 ms
+[1696114445.763080] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=27.0 ms
+[1696114446.802702] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=65.0 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4584ms
+rtt min/avg/max/mdev = 15.139/27.893/65.042/19.078 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696118043.986219] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.6 ms
+[1696118044.001956] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.2 ms
+[1696118045.002885] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.4 ms
+[1696118046.004996] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=16.7 ms
+[1696118047.007638] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=18.7 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4605ms
+rtt min/avg/max/mdev = 15.242/16.516/18.656/1.232 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696121643.754789] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.1 ms
+[1696121643.770501] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.9 ms
+[1696121644.800494] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=42.8 ms
+[1696121645.815965] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=57.7 ms
+[1696121646.801702] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=42.2 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5390ms
+rtt min/avg/max/mdev = 14.926/34.742/57.685/16.655 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696125247.394332] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=17.8 ms
+[1696125247.409576] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.4 ms
+[1696125248.514450] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=118 ms
+[1696125249.588530] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=191 ms
+[1696125250.685227] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=285 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6389ms
+rtt min/avg/max/mdev = 14.402/125.111/284.945/103.587 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696128843.421882] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.6 ms
+[1696128843.520935] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=21.0 ms
+[1696128844.520824] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=19.0 ms
+[1696128845.588574] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=84.9 ms
+[1696128846.594471] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=89.1 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 15.631/45.926/89.149/33.619 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696132446.008970] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.1 ms
+[1696132446.024346] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.7 ms
+[1696132447.071340] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=60.1 ms
+[1696132448.136914] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=124 ms
+[1696132449.216770] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=202 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5974ms
+rtt min/avg/max/mdev = 14.747/83.220/202.248/71.676 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696136044.923671] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=19.1 ms
+[1696136044.940283] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.4 ms
+[1696136045.950411] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=24.6 ms
+[1696136046.973159] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=45.9 ms
+[1696136048.050587] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=121 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5634ms
+rtt min/avg/max/mdev = 16.380/45.440/121.198/39.276 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696139643.741657] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.0 ms
+[1696139643.756779] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.8 ms
+[1696139644.808525] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=65.0 ms
+[1696139645.814176] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=67.5 ms
+[1696139646.835727] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=87.1 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4987ms
+rtt min/avg/max/mdev = 14.760/50.051/87.095/29.335 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696143244.134501] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.4 ms
+[1696143244.152903] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=17.0 ms
+[1696143245.155620] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=18.3 ms
+[1696143246.206265] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=66.7 ms
+[1696143247.194565] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=53.4 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5551ms
+rtt min/avg/max/mdev = 16.408/34.359/66.661/21.378 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696146843.552592] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.4 ms
+[1696146843.568930] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.6 ms
+[1696146844.616623] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=61.4 ms
+[1696146845.677869] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=121 ms
+[1696146846.613760] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=55.1 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5021ms
+rtt min/avg/max/mdev = 15.439/53.650/120.661/38.631 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696150445.340166] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.2 ms
+[1696150445.354745] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.0 ms
+[1696150446.376356] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=34.1 ms
+[1696150447.416147] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=72.1 ms
+[1696150448.372355] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=27.3 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5323ms
+rtt min/avg/max/mdev = 13.981/32.732/72.108/21.006 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696154044.907868] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=14.7 ms
+[1696154044.926369] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.9 ms
+[1696154045.926894] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.7 ms
+[1696154046.930918] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=18.8 ms
+[1696154048.007633] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=94.2 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5216ms
+rtt min/avg/max/mdev = 14.719/32.073/94.240/31.113 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696157643.777808] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.5 ms
+[1696157643.794464] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.7 ms
+[1696157644.854655] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=74.3 ms
+[1696157645.899314] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=116 ms
+[1696157646.893558] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=109 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4975ms
+rtt min/avg/max/mdev = 15.477/66.093/116.247/43.612 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696161243.470733] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.6 ms
+[1696161243.488374] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=16.5 ms
+[1696161244.504122] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=30.5 ms
+[1696161245.547739] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=72.1 ms
+[1696161246.552188] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=74.4 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5119ms
+rtt min/avg/max/mdev = 15.629/41.818/74.377/26.203 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696164844.353365] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=22.2 ms
+[1696164844.370663] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.3 ms
+[1696164845.374160] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=16.9 ms
+[1696164846.380713] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=22.1 ms
+[1696164847.381358] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=21.2 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5420ms
+rtt min/avg/max/mdev = 15.264/19.528/22.177/2.876 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696168445.692279] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.3 ms
+[1696168445.707676] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.1 ms
+[1696168446.769862] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=75.9 ms
+[1696168447.852722] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=157 ms
+[1696168448.741428] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=44.3 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4654ms
+rtt min/avg/max/mdev = 15.081/61.522/157.060/52.782 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696172045.235923] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.3 ms
+[1696172045.251701] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.1 ms
+[1696172046.256558] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=17.9 ms
+[1696172047.300974] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=60.5 ms
+[1696172048.394012] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=152 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6094ms
+rtt min/avg/max/mdev = 15.120/52.173/152.038/52.821 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696175643.697951] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=23.5 ms
+[1696175643.791450] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=93.1 ms
+[1696175644.763815] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=64.0 ms
+[1696175645.790864] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=89.4 ms
+[1696175646.826763] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=124 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4612ms
+rtt min/avg/max/mdev = 23.504/78.842/124.187/33.623 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696179245.386515] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.1 ms
+[1696179245.401779] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.8 ms
+[1696179246.404802] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=16.3 ms
+[1696179247.472594] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=82.2 ms
+[1696179248.451839] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=59.7 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5387ms
+rtt min/avg/max/mdev = 14.777/37.831/82.200/27.966 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696182843.395876] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.6 ms
+[1696182843.411730] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.6 ms
+[1696182844.467738] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=69.2 ms
+[1696182845.482131] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=80.7 ms
+[1696182846.473379] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=70.8 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4850ms
+rtt min/avg/max/mdev = 15.559/50.376/80.733/28.700 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696186444.636833] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.4 ms
+[1696186444.650819] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=13.7 ms
+[1696186445.653108] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=14.0 ms
+[1696186446.688415] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=47.9 ms
+[1696186447.693340] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=51.2 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5696ms
+rtt min/avg/max/mdev = 13.738/28.675/51.242/17.134 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696190042.923342] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.7 ms
+[1696190042.940317] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.6 ms
+[1696190043.957788] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=31.6 ms
+[1696190045.010807] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=83.2 ms
+[1696190045.992633] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=64.1 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4589ms
+rtt min/avg/max/mdev = 15.556/42.010/83.159/27.134 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696193646.090101] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.3 ms
+[1696193646.105801] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.6 ms
+[1696193647.167552] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=75.1 ms
+[1696193648.155552] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=61.4 ms
+[1696193649.167687] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=71.5 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5500ms
+rtt min/avg/max/mdev = 14.574/47.559/75.094/27.025 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696197243.242193] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=18.2 ms
+[1696197243.264892] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=22.3 ms
+[1696197244.260261] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=15.2 ms
+[1696197245.261686] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=15.2 ms
+[1696197246.316176] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=68.3 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5177ms
+rtt min/avg/max/mdev = 15.228/27.841/68.269/20.379 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696200843.751666] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.6 ms
+[1696200843.767075] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.9 ms
+[1696200844.821603] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=68.0 ms
+[1696200845.848565] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=93.3 ms
+[1696200846.815961] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=59.1 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4712ms
+rtt min/avg/max/mdev = 14.939/50.176/93.287/30.632 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696204445.141889] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.8 ms
+[1696204445.191592] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=49.3 ms
+[1696204446.169696] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=25.6 ms
+[1696204447.163161] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=17.8 ms
+[1696204448.227357] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=80.7 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5830ms
+rtt min/avg/max/mdev = 16.843/38.055/80.663/24.314 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696208042.342386] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=30.9 ms
+[1696208042.369755] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=27.1 ms
+[1696208043.382256] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=37.7 ms
+[1696208044.433671] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=87.9 ms
+[1696208045.461432] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=114 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4311ms
+rtt min/avg/max/mdev = 27.078/59.555/114.212/35.058 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696211645.070909] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.8 ms
+[1696211645.102867] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=31.4 ms
+[1696211646.094153] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=20.4 ms
+[1696211647.098704] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=23.8 ms
+[1696211648.168977] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=92.3 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5722ms
+rtt min/avg/max/mdev = 15.761/36.742/92.317/28.254 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696215243.467551] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.9 ms
+[1696215243.596476] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=53.5 ms
+[1696215244.624087] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=79.1 ms
+[1696215245.678354] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=132 ms
+[1696215246.743398] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=195 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 15.861/95.094/195.371/62.690 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696218844.277172] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.4 ms
+[1696218844.293014] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.5 ms
+[1696218845.325210] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=45.2 ms
+[1696218846.328175] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=45.6 ms
+[1696218847.366427] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=82.6 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5486ms
+rtt min/avg/max/mdev = 15.389/40.866/82.634/24.818 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696222444.915343] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.1 ms
+[1696222444.931946] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.9 ms
+[1696222445.943617] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=25.5 ms
+[1696222446.975793] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=56.5 ms
+[1696222447.999464] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=78.4 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5682ms
+rtt min/avg/max/mdev = 15.149/38.282/78.384/25.062 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696226044.073517] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=14.8 ms
+[1696226044.087047] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=13.0 ms
+[1696226045.103771] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=28.1 ms
+[1696226046.112483] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=34.6 ms
+[1696226047.147423] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=67.8 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4337ms
+rtt min/avg/max/mdev = 12.956/31.647/67.831/19.823 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696229643.982934] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.4 ms
+[1696229644.004272] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=20.8 ms
+[1696229645.011714] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=27.8 ms
+[1696229646.066069] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=81.4 ms
+[1696229647.079650] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=93.8 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4296ms
+rtt min/avg/max/mdev = 15.410/47.844/93.798/32.947 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696233245.836655] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.8 ms
+[1696233245.851697] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=14.4 ms
+[1696233246.896502] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=57.2 ms
+[1696233247.904091] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=63.6 ms
+[1696233248.879623] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=38.0 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4804ms
+rtt min/avg/max/mdev = 14.388/37.806/63.588/20.376 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696236843.677915] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=14.6 ms
+[1696236843.693949] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.7 ms
+[1696236844.733671] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=53.4 ms
+[1696236845.757733] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=75.6 ms
+[1696236846.737187] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=53.9 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4927ms
+rtt min/avg/max/mdev = 14.602/42.649/75.581/23.824 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696240443.570879] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=17.9 ms
+[1696240443.591680] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=19.6 ms
+[1696240444.628062] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=54.0 ms
+[1696240445.645853] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=70.2 ms
+[1696240446.617785] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=40.3 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4132ms
+rtt min/avg/max/mdev = 17.947/40.413/70.221/20.052 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696244046.084696] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=15.9 ms
+[1696244046.101522] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=15.5 ms
+[1696244047.127673] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=39.5 ms
+[1696244048.171631] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=82.2 ms
+[1696244049.188937] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=97.6 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6005ms
+rtt min/avg/max/mdev = 15.460/50.118/97.563/33.940 ms
+PING ns1.bahnhof.net (195.178.160.2) 56(84) bytes of data.
+[1696247644.033388] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=1 ttl=54 time=16.8 ms
+[1696247644.052448] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=2 ttl=54 time=17.5 ms
+[1696247645.062328] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=3 ttl=54 time=25.1 ms
+[1696247646.059757] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=4 ttl=54 time=20.9 ms
+[1696247647.068269] 64 bytes from ns1.bahnhof.net (195.178.160.2): icmp_seq=5 ttl=54 time=28.1 ms
+
+--- ns1.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5131ms
+rtt min/avg/max/mdev = 16.765/21.671/28.123/4.377 ms

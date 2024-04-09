@@ -1,0 +1,614 @@
+chenx16@cavalieri:~$ cd/work/courses/unix/T/ELEC/E7130/
+bash: cd/work/courses/unix/T/ELEC/E7130/: No such file or directory
+chenx16@cavalieri:~$ cd//work/courses/unix/T/ELEC/E7130
+bash: cd//work/courses/unix/T/ELEC/E7130: No such file or directory
+chenx16@cavalieri:~$ cd/work/courses/unix/T/ELEC/E7130
+bash: cd/work/courses/unix/T/ELEC/E7130: No such file or directory
+chenx16@cavalieri:~$ cd/work/courses/unix/T/ELEC/E7130/
+bash: cd/work/courses/unix/T/ELEC/E7130/: No such file or directory
+chenx16@cavalieri:~$ cd /work/courses/unix/T/ELEC/E7130/
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130$ cd general/trace/tstat/2017_04_11_18_00.out/
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ ls
+000  022  044  066  088  110  132  154  176  198  220  242  264  286  308  330  352  374  396  418                log_tcp_nocomplete
+001  023  045  067  089  111  133  155  177  199  221  243  265  287  309  331  353  375  397  419                log_udp_complete
+002  024  046  068  090  112  134  156  178  200  222  244  266  288  310  332  354  376  398  420                log_video_complete
+003  025  047  069  091  113  135  157  179  201  223  245  267  289  311  333  355  377  399  421
+004  026  048  070  092  114  136  158  180  202  224  246  268  290  312  334  356  378  400  422
+005  027  049  071  093  115  137  159  181  203  225  247  269  291  313  335  357  379  401  423
+006  028  050  072  094  116  138  160  182  204  226  248  270  292  314  336  358  380  402  424
+007  029  051  073  095  117  139  161  183  205  227  249  271  293  315  337  359  381  403  425
+008  030  052  074  096  118  140  162  184  206  228  250  272  294  316  338  360  382  404  426
+009  031  053  075  097  119  141  163  185  207  229  251  273  295  317  339  361  383  405  427
+010  032  054  076  098  120  142  164  186  208  230  252  274  296  318  340  362  384  406  428
+011  033  055  077  099  121  143  165  187  209  231  253  275  297  319  341  363  385  407  429
+012  034  056  078  100  122  144  166  188  210  232  254  276  298  320  342  364  386  408  430
+013  035  057  079  101  123  145  167  189  211  233  255  277  299  321  343  365  387  409  431
+014  036  058  080  102  124  146  168  190  212  234  256  278  300  322  344  366  388  410  432
+015  037  059  081  103  125  147  169  191  213  235  257  279  301  323  345  367  389  411  433
+016  038  060  082  104  126  148  170  192  214  236  258  280  302  324  346  368  390  412  434
+017  039  061  083  105  127  149  171  193  215  237  259  281  303  325  347  369  391  413  LAST
+018  040  062  084  106  128  150  172  194  216  238  260  282  304  326  348  370  392  414  log_chat_complete
+019  041  063  085  107  129  151  173  195  217  239  261  283  305  327  349  371  393  415  log_chat_messages
+020  042  064  086  108  130  152  174  196  218  240  262  284  306  328  350  372  394  416  log_mm_complete
+021  043  065  087  109  131  153  175  197  219  241  263  285  307  329  351  373  395  417  log_tcp_complete
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ ls -lrt
+total 2195028
+-rw-r--r-- 1 puhuri domain users          0 Oct 11  2017 log_mm_complete
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 000
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 001
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 002
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 003
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 004
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 005
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 006
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 007
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 008
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 009
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 010
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 011
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 012
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 013
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 014
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 015
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 016
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 017
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 018
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 019
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 020
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 021
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 022
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 023
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 024
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 025
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 026
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 027
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 028
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 029
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 030
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 031
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 032
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 033
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 034
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 035
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 036
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 037
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 038
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 039
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 040
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 041
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 042
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 043
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 044
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 045
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 046
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 047
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 048
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 049
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 050
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 051
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 052
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 053
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 054
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 055
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 056
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 057
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 058
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 059
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 060
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 061
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 062
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 063
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 064
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 065
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 066
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 067
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 068
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 069
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 070
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 071
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 072
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 073
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 074
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 075
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 076
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 077
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 078
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 079
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 080
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 081
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 082
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 083
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 084
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 085
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 086
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 087
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 088
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 089
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 090
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 091
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 092
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 093
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 094
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 095
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 096
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 097
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 098
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 099
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 100
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 101
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 102
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 103
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 104
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 105
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 106
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 107
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 108
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 109
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 110
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 111
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 112
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 113
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 114
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 115
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 116
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 117
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 118
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 119
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 120
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 121
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 122
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 123
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 124
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 125
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 126
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 127
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 128
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 129
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 130
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 131
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 132
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 133
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 134
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 135
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 136
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 137
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 138
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 139
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 140
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 141
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 142
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 143
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 144
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 145
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 146
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 147
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 148
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 149
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 150
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 151
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 152
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 153
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 154
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 155
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 156
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 157
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 158
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 159
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 160
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 161
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 162
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 163
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 164
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 165
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 166
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 167
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 168
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 169
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 170
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 171
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 172
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 173
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 174
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 175
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 176
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 177
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 178
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 179
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 180
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 181
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 182
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 183
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 184
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 185
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 186
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 187
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 188
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 189
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 190
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 191
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 192
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 193
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 194
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 195
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 196
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 197
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 198
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 199
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 200
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 201
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 202
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 203
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 204
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 205
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 206
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 207
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 208
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 209
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 210
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 211
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 212
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 213
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 214
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 215
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 216
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 217
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 218
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 219
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 220
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 221
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 222
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 223
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 224
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 225
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 226
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 227
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 228
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 229
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 230
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 231
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 232
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 233
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 234
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 235
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 236
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 237
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 238
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 239
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 240
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 241
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 242
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 243
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 244
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 245
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 246
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 247
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 248
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 249
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 250
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 251
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 252
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 253
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 254
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 255
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 256
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 257
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 258
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 259
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 260
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 261
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 262
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 263
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 264
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 265
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 266
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 267
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 268
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 269
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 270
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 271
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 272
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 273
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 274
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 275
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 276
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 277
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 278
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 279
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 280
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 281
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 282
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 283
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 284
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 285
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 286
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 287
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 288
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 289
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 290
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 291
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 292
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 293
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 294
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 295
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 296
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 297
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 298
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 299
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 300
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 301
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 302
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 303
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 304
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 305
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 306
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 307
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 308
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 309
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 310
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 311
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 312
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 313
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 314
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 315
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 316
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 317
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 318
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 319
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 320
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 321
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 322
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 323
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 324
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 325
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 326
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 327
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 328
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 329
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 330
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 331
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 332
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 333
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 334
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 335
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 336
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 337
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 338
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 339
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 340
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 341
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 342
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 343
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 344
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 345
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 346
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 347
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 348
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 349
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 350
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 351
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 352
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 353
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 354
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 355
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 356
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 357
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 358
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 359
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 360
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 361
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 362
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 363
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 364
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 365
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 366
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 367
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 368
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 369
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 370
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 371
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 372
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 373
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 374
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 375
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 376
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 377
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 378
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 379
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 380
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 381
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 382
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 383
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 384
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 385
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 386
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 387
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 388
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 389
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 390
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 391
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 392
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 393
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 394
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 395
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 396
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 397
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 398
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 399
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 400
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 401
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 402
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 403
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 404
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 405
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 406
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 407
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 408
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 409
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 410
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 411
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 412
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 413
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 414
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 415
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 416
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 417
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 418
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 419
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 420
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 421
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 422
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 423
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 424
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 425
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 426
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 427
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 428
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 429
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 430
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 431
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 432
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 433
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 434
+drwxr-xr-x 2 puhuri domain users      28672 Oct 11  2017 LAST
+-rw-r--r-- 1 puhuri domain users  483758374 Oct 11  2017 log_tcp_complete
+-rw-r--r-- 1 puhuri domain users  713681762 Oct 11  2017 log_tcp_nocomplete
+-rw-r--r-- 1 puhuri domain users 1027196947 Oct 11  2017 log_udp_complete
+-rw-r--r-- 1 puhuri domain users        315 Oct 11  2017 log_chat_complete
+-rw-r--r-- 1 puhuri domain users         59 Oct 11  2017 log_chat_messages
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ awk '{print $3, $7, $10, $17, $21, $24}' log_tcp_complete | head -n 1
+c_pkts_all:3 c_bytes_uniq:7 c_pkts_retx:10 s_pkts_all:17 s_bytes_uniq:21 s_pkts_retx:24
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ awk 'NR==1 {print $3, $7, $10, $17, $21, $24}' log_tcp_complete
+c_pkts_all:3 c_bytes_uniq:7 c_pkts_retx:10 s_pkts_all:17 s_bytes_uniq:21 s_pkts_retx:24
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ awk -F ',' 'NR > 1 { sum3 += $3; sum7 += $7; sum10 += $10; sum17 += $17; sum21 += $21; sum24 += $24; }
+            END {
+                avg3 = sum3 / (NR - 1);
+                avg7 = sum7 / (NR - 1);
+                avg10 = sum10 / (NR - 1);
+                avg17 = sum17 / (NR - 1);
+                avg21 = sum21 / (NR - 1);
+                avg24 = sum24 / (NR - 1);
+               
+                print "Average of Column 3:", avg3;
+                print "Average of Column 7:", avg7;
+                print "Average of Column 10:", avg10;
+                print "Average of Column 17:", avg17;
+                print "Average of Column 21:", avg21;
+                print "Average of Column 24:", avg24;
+            }' input.csv
+awk: fatal: cannot open file `input.csv' for reading: No such file or directory
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ $ awk -F ',' 'NR > 1 { sum3 += $3; sum7 += $7; sum10 += $10; sum17 += $17; sum21 += $21; sum24 += $24; }
+            END {
+                avg3 = sum3 / (NR - 1);
+                avg7 = sum7 / (NR - 1);
+                avg10 = sum10 / (NR - 1);
+                avg17 = sum17 / (NR - 1);
+                avg21 = sum21 / (NR - 1);
+                avg24 = sum24 / (NR - 1);
+               
+                print "Average of Column 3:", avg3;
+                print "Average of Column 7:", avg7;
+                print "Average of Column 10:", avg10;
+                print "Average of Column 17:", avg17;
+                print "Average of Column 21:", avg21;
+                print "Average of Column 24:", avg24;
+            }' log_tcp_complete
+bash: $: command not found
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ awk -F ',' 'NR > 1 { sum += $3; count++ } END { if (count > 0) print "Average of Column 3:", sum / count }' log_tcp_complete
+
+Average of Column 3: 0
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ awk 'NR > 1 { sum += $3; count++ } END { if (count > 0) print "Average of Column 3:", sum / count }' log_tcp_complete
+Average of Column 3: 93.5731
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ awk 'NR > 1 { sum += $7; count++ } END { if (count > 0) print "Average of Column 7:", sum / count }' log_tcp_complete
+Average of Column 7: 36741.2
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ awk 'NR > 1 { sum += $10; count++ } END { if (count > 0) print "Average of Column 10:", sum / count }' log_tcp_complete
+Average of Column 10: 0.491827
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ awk 'NR > 1 { sum += $17; count++ } END { if (count > 0) print "Average of Column 17:", sum / count }' log_tcp_complete
+Average of Column 17: 178.716
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ awk 'NR > 1 { sum += $21; count++ } END { if (count > 0) print "Average of Column 21:", sum / count }' log_tcp_complete
+Average of Column 21: 214088
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ awk 'NR > 1 { sum += $24; count++ } END { if (count > 0) print "Average of Column 24:", sum / count }' log_tcp_complete
+Average of Column 24: 2.2859
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ awk -F ',' 'NR > 1 {
+    if ($7 != 0) {
+        ratio = $10 / $7;
+        if (ratio > 0.01) count01++;
+        if (ratio > 0.10) count10++;
+        if (ratio > 0.20) count20++;
+    }
+    total++;
+}
+END {
+    if (total > 0) {
+        percent01 = (count01 / total) * 100;
+        percent10 = (count10 / total) * 100;
+        percent20 = (count20 / total) * 100;
+        printf("Percentage exceeding 0.01: %.2f%%\n", percent01);
+        printf("Percentage exceeding 0.10: %.2f%%\n", percent10);
+        printf("Percentage exceeding 0.20: %.2f%%\n", percent20);
+    }
+}' log_tcp_complete
+awk: cmd. line:3: (FILENAME=log_tcp_complete FNR=2) fatal: division by zero attempted
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ wk ',' 'NR > 1 {
+    if ($7 != 0) {
+        ratio = $10 / $7;
+        if (ratio > 0.01) count01++;
+        if (ratio > 0.10) count10++;
+        if (ratio > 0.20) count20++;
+    }
+    total++;
+}
+END {
+    if (total > 0) {
+        percent01 = (count01 / total) * 100;
+        percent10 = (count10 / total) * 100;
+        percent20 = (count20 / total) * 100;
+        printf("Percentage exceeding 0.01: %.2f%%\n", percent01);
+        printf("Percentage exceeding 0.10: %.2f%%\n", percent10);
+        printf("Percentage exceeding 0.20: %.2f%%\n", percent20);
+    }
+}' log_tcp_complete
+bash: wk: command not found
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ awk 'NR > 1 {
+    if ($7 != 0) {
+        ratio = $10 / $7;
+        if (ratio > 0.01) count01++;
+        if (ratio > 0.10) count10++;
+        if (ratio > 0.20) count20++;
+    }
+    total++;
+}
+END {
+    if (total > 0) {
+        percent01 = (count01 / total) * 100;
+        percent10 = (count10 / total) * 100;
+        percent20 = (count20 / total) * 100;
+        printf("Percentage exceeding 0.01: %.2f%%\n", percent01);
+        printf("Percentage exceeding 0.10: %.2f%%\n", percent10);
+        printf("Percentage exceeding 0.20: %.2f%%\n", percent20);
+    }
+}' log_tcp_complete
+Percentage exceeding 0.01: 1.71%
+Percentage exceeding 0.10: 0.50%
+Percentage exceeding 0.20: 0.30%
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ awk 'NR > 1 {
+    if ($3 > max3) max3 = $3;
+    if ($9 > max9) max9 = $9;
+    if ($17 > max17) max17 = $17;
+    if ($23 > max23) max23 = $23;
+    if ($31 > max31) max31 = $31;
+}
+END {
+    printf("Maximum of Column 3: %s\n", max3);
+    printf("Maximum of Column 9: %s\n", max9);
+    printf("Maximum of Column 17: %s\n", max17);
+    printf("Maximum of Column 23: %s\n", max23);
+    printf("Maximum of Column 31: %s\n", max31);
+}' log_tcp_complete
+Maximum of Column 3: 1700014
+Maximum of Column 9: 313220528
+Maximum of Column 17: 2791706
+Maximum of Column 23: 3835783508
+Maximum of Column 31: 72901107.834000
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$ ^C
+chenx16@cavalieri:/work/courses/unix/T/ELEC/E7130/general/trace/tstat/2017_04_11_18_00.out$

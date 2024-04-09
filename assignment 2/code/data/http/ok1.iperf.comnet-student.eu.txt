@@ -1,0 +1,496 @@
+2023-09-27 12:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 53 10.0M   53 5486k    0     0  4808k      0  0:00:02  0:00:01  0:00:01 4804k100 10.0M  100 10.0M    0     0  8258k      0  0:00:01  0:00:01 --:--:-- 8251k
+2023-09-27 13:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4177k      0  0:00:02  0:00:02 --:--:-- 4177k
+2023-09-27 14:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10.0M  100 10.0M    0     0  6522k      0  0:00:01  0:00:01 --:--:-- 6522k
+2023-09-27 15:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  5213k      0  0:00:01  0:00:01 --:--:-- 5211k
+2023-09-27 16:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4174k      0  0:00:02  0:00:02 --:--:-- 4176k
+2023-09-27 17:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  6 10.0M    6  627k    0     0   209k      0  0:00:48  0:00:02  0:00:46  209k 55 10.0M   55 5720k    0     0  1405k      0  0:00:07  0:00:04  0:00:03 1405k100 10.0M  100 10.0M    0     0  2229k      0  0:00:04  0:00:04 --:--:-- 2229k
+2023-09-27 18:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  5838k      0  0:00:01  0:00:01 --:--:-- 5838k
+2023-09-27 19:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4992k      0  0:00:02  0:00:02 --:--:-- 4992k
+2023-09-27 20:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4873k      0  0:00:02  0:00:02 --:--:-- 4876k
+2023-09-27 21:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0100 10.0M  100 10.0M    0     0  2641k      0  0:00:03  0:00:03 --:--:-- 2641k
+2023-09-27 22:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4897k      0  0:00:02  0:00:02 --:--:-- 4899k
+2023-09-27 23:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 66 10.0M   66 6758k    0     0  2574k      0  0:00:03  0:00:02  0:00:01 2573k100 10.0M  100 10.0M    0     0  3795k      0  0:00:02  0:00:02 --:--:-- 3793k
+2023-09-28 00:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  9 10.0M    9  960k    0     0   740k      0  0:00:13  0:00:01  0:00:12  739k100 10.0M  100 10.0M    0     0  6970k      0  0:00:01  0:00:01 --:--:-- 6965k
+2023-09-28 01:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 27 10.0M   27 2848k    0     0  1354k      0  0:00:07  0:00:02  0:00:05 1353k100 10.0M  100 10.0M    0     0  4563k      0  0:00:02  0:00:02 --:--:-- 4561k
+2023-09-28 02:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4680k      0  0:00:02  0:00:02 --:--:-- 4680k
+2023-09-28 03:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 93 10.0M   93 9606k    0     0  3535k      0  0:00:02  0:00:02 --:--:-- 3534k100 10.0M  100 10.0M    0     0  3696k      0  0:00:02  0:00:02 --:--:-- 3695k
+2023-09-28 04:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 21 10.0M   21 2170k    0     0  1071k      0  0:00:09  0:00:02  0:00:07 1071k100 10.0M  100 10.0M    0     0  3875k      0  0:00:02  0:00:02 --:--:-- 3874k
+2023-09-28 05:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  9 10.0M    9  947k    0     0   438k      0  0:00:23  0:00:02  0:00:21  438k100 10.0M  100 10.0M    0     0  3671k      0  0:00:02  0:00:02 --:--:-- 3670k
+2023-09-28 06:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 21 10.0M   21 2184k    0     0  1164k      0  0:00:08  0:00:01  0:00:07 1163k100 10.0M  100 10.0M    0     0  4122k      0  0:00:02  0:00:02 --:--:-- 4122k
+2023-09-28 07:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  3737k      0  0:00:02  0:00:02 --:--:-- 3737k
+2023-09-28 08:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 67 10.0M   67 6955k    0     0  2921k      0  0:00:03  0:00:02  0:00:01 2919k100 10.0M  100 10.0M    0     0  3893k      0  0:00:02  0:00:02 --:--:-- 3893k
+2023-09-28 09:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100 10.0M  100 10.0M    0     0  4392k      0  0:00:02  0:00:02 --:--:-- 4392k
+2023-09-28 10:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 49 10.0M   49 5105k    0     0  2469k      0  0:00:04  0:00:02  0:00:02 2467k100 10.0M  100 10.0M    0     0  4718k      0  0:00:02  0:00:02 --:--:-- 4716k
+2023-09-28 11:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4782k      0  0:00:02  0:00:02 --:--:-- 4782k
+2023-09-28 12:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4208k      0  0:00:02  0:00:02 --:--:-- 4208k
+2023-09-28 13:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100 10.0M  100 10.0M    0     0  4396k      0  0:00:02  0:00:02 --:--:-- 4396k
+2023-09-28 14:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100 10.0M  100 10.0M    0     0  4179k      0  0:00:02  0:00:02 --:--:-- 4177k
+2023-09-28 15:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 46 10.0M   46 4752k    0     0  2018k      0  0:00:05  0:00:02  0:00:03 2017k100 10.0M  100 10.0M    0     0  3708k      0  0:00:02  0:00:02 --:--:-- 3707k
+2023-09-28 16:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0 86 10.0M   86 8898k    0     0  2919k      0  0:00:03  0:00:03 --:--:-- 2918k100 10.0M  100 10.0M    0     0  3259k      0  0:00:03  0:00:03 --:--:-- 3258k
+2023-09-28 17:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  5069k      0  0:00:02  0:00:02 --:--:-- 5069k
+2023-09-28 18:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100 10.0M  100 10.0M    0     0  3342k      0  0:00:03  0:00:03 --:--:-- 3342k
+2023-09-28 19:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  5153k      0  0:00:01  0:00:01 --:--:-- 5150k
+2023-09-28 20:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 81 10.0M   81 8364k    0     0  3169k      0  0:00:03  0:00:02  0:00:01 3168k100 10.0M  100 10.0M    0     0  3826k      0  0:00:02  0:00:02 --:--:-- 3825k
+2023-09-28 21:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  5943k      0  0:00:01  0:00:01 --:--:-- 5939k
+2023-09-28 22:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 27 10.0M   27 2809k    0     0  1489k      0  0:00:06  0:00:01  0:00:05 1489k100 10.0M  100 10.0M    0     0  5084k      0  0:00:02  0:00:02 --:--:-- 5084k
+2023-09-28 23:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  5435k      0  0:00:01  0:00:01 --:--:-- 5432k
+2023-09-29 00:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100 10.0M  100 10.0M    0     0  4105k      0  0:00:02  0:00:02 --:--:-- 4104k
+2023-09-29 01:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  6282k      0  0:00:01  0:00:01 --:--:-- 6282k
+2023-09-29 02:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4348k      0  0:00:02  0:00:02 --:--:-- 4350k
+2023-09-29 03:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  5824k      0  0:00:01  0:00:01 --:--:-- 5824k
+2023-09-29 04:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 39 10.0M   39 4001k    0     0  1689k      0  0:00:06  0:00:02  0:00:04 1688k100 10.0M  100 10.0M    0     0  3615k      0  0:00:02  0:00:02 --:--:-- 3614k
+2023-09-29 05:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 90 10.0M   90 9217k    0     0  3280k      0  0:00:03  0:00:02  0:00:01 3279k100 10.0M  100 10.0M    0     0  3566k      0  0:00:02  0:00:02 --:--:-- 3565k
+2023-09-29 06:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 32 10.0M   32 3281k    0     0  1699k      0  0:00:06  0:00:01  0:00:05 1698k100 10.0M  100 10.0M    0     0  4233k      0  0:00:02  0:00:02 --:--:-- 4233k
+2023-09-29 07:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 93 10.0M   93 9609k    0     0  3504k      0  0:00:02  0:00:02 --:--:-- 3503k100 10.0M  100 10.0M    0     0  3654k      0  0:00:02  0:00:02 --:--:-- 3653k
+2023-09-29 08:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4060k      0  0:00:02  0:00:02 --:--:-- 4060k
+2023-09-29 09:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0 85 10.0M   85 8745k    0     0  2573k      0  0:00:03  0:00:03 --:--:-- 2572k100 10.0M  100 10.0M    0     0  2937k      0  0:00:03  0:00:03 --:--:-- 2936k
+2023-09-29 10:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4041k      0  0:00:02  0:00:02 --:--:-- 4041k
+2023-09-29 11:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  5336k      0  0:00:01  0:00:01 --:--:-- 5333k
+2023-09-29 12:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4172k      0  0:00:02  0:00:02 --:--:-- 4172k
+2023-09-29 13:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4353k      0  0:00:02  0:00:02 --:--:-- 4353k
+2023-09-29 14:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100 10.0M  100 10.0M    0     0  4217k      0  0:00:02  0:00:02 --:--:-- 4215k
+2023-09-29 15:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4425k      0  0:00:02  0:00:02 --:--:-- 4425k
+2023-09-29 16:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4536k      0  0:00:02  0:00:02 --:--:-- 4536k
+2023-09-29 17:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 40 10.0M   40 4151k    0     0  1643k      0  0:00:06  0:00:02  0:00:04 1642k100 10.0M  100 10.0M    0     0  3859k      0  0:00:02  0:00:02 --:--:-- 3858k
+2023-09-29 18:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10.0M  100 10.0M    0     0  6202k      0  0:00:01  0:00:01 --:--:-- 6202k
+2023-09-29 19:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4436k      0  0:00:02  0:00:02 --:--:-- 4436k
+2023-09-29 20:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4807k      0  0:00:02  0:00:02 --:--:-- 4807k
+2023-09-29 21:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 66 10.0M   66 6791k    0     0  3304k      0  0:00:03  0:00:02  0:00:01 3303k100 10.0M  100 10.0M    0     0  4834k      0  0:00:02  0:00:02 --:--:-- 4832k
+2023-09-29 22:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100 10.0M  100 10.0M    0     0  3830k      0  0:00:02  0:00:02 --:--:-- 3829k
+2023-09-29 23:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  6168k      0  0:00:01  0:00:01 --:--:-- 6164k
+2023-09-30 00:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100 10.0M  100 10.0M    0     0  3246k      0  0:00:03  0:00:03 --:--:-- 3246k
+2023-09-30 01:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 29 10.0M   29 3011k    0     0  1187k      0  0:00:08  0:00:02  0:00:06 1187k100 10.0M  100 10.0M    0     0  3843k      0  0:00:02  0:00:02 --:--:-- 3842k
+2023-09-30 02:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10.0M  100 10.0M    0     0  6240k      0  0:00:01  0:00:01 --:--:-- 6240k
+2023-09-30 03:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0 38 10.0M   38 3988k    0     0  1232k      0  0:00:08  0:00:03  0:00:05 1231k100 10.0M  100 10.0M    0     0  2772k      0  0:00:03  0:00:03 --:--:-- 2772k
+2023-09-30 04:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 68 10.0M   68 7042k    0     0  2590k      0  0:00:03  0:00:02  0:00:01 2590k100 10.0M  100 10.0M    0     0  2878k      0  0:00:03  0:00:03 --:--:-- 2878k
+2023-09-30 05:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0 77 10.0M   77 7963k    0     0  2686k      0  0:00:03  0:00:02  0:00:01 2685k100 10.0M  100 10.0M    0     0  3274k      0  0:00:03  0:00:03 --:--:-- 3274k
+2023-09-30 06:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 88 10.0M   88 9024k    0     0  3490k      0  0:00:02  0:00:02 --:--:-- 3490k100 10.0M  100 10.0M    0     0  3845k      0  0:00:02  0:00:02 --:--:-- 3843k
+2023-09-30 07:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 23 10.0M   23 2408k    0     0  1107k      0  0:00:09  0:00:02  0:00:07 1106k100 10.0M  100 10.0M    0     0  3792k      0  0:00:02  0:00:02 --:--:-- 3792k
+2023-09-30 08:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 49 10.0M   49 5099k    0     0  2291k      0  0:00:04  0:00:02  0:00:02 2290k100 10.0M  100 10.0M    0     0  4000k      0  0:00:02  0:00:02 --:--:-- 3998k
+2023-09-30 09:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100 10.0M  100 10.0M    0     0  4184k      0  0:00:02  0:00:02 --:--:-- 4183k
+2023-09-30 10:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 46 10.0M   46 4748k    0     0  1307k      0  0:00:07  0:00:03  0:00:04 1307k 46 10.0M   46 4749k    0     0  1057k      0  0:00:09  0:00:04  0:00:05 1057k 51 10.0M   51 5236k    0     0  1055k      0  0:00:09  0:00:04  0:00:05 1055k 70 10.0M   70 7238k    0     0  1221k      0  0:00:08  0:00:05  0:00:03 1504k100 10.0M  100 10.0M    0     0  1538k      0  0:00:06  0:00:06 --:--:-- 2182k
+2023-09-30 11:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4776k      0  0:00:02  0:00:02 --:--:-- 4776k
+2023-09-30 12:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  1 10.0M    1  163k    0     0  73706      0  0:02:22  0:00:02  0:02:20 73674100 10.0M  100 10.0M    0     0  4231k      0  0:00:02  0:00:02 --:--:-- 4229k
+2023-09-30 13:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 13 10.0M   13 1354k    0     0   679k      0  0:00:15  0:00:01  0:00:14  679k100 10.0M  100 10.0M    0     0  4699k      0  0:00:02  0:00:02 --:--:-- 4701k
+2023-09-30 14:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  3858k      0  0:00:02  0:00:02 --:--:-- 3859k
+2023-09-30 15:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  5858k      0  0:00:01  0:00:01 --:--:-- 5854k
+2023-09-30 16:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4604k      0  0:00:02  0:00:02 --:--:-- 4604k
+2023-09-30 17:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4990k      0  0:00:02  0:00:02 --:--:-- 4990k
+2023-09-30 18:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0 34 10.0M   34 3529k    0     0   580k      0  0:00:17  0:00:06  0:00:11  739k100 10.0M  100 10.0M    0     0  1651k      0  0:00:06  0:00:06 --:--:-- 2634k
+2023-09-30 19:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 97 10.0M   97  9.7M    0     0  5549k      0  0:00:01  0:00:01 --:--:-- 5546k100 10.0M  100 10.0M    0     0  5638k      0  0:00:01  0:00:01 --:--:-- 5635k
+2023-09-30 19:58:43
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 10.0M  100 10.0M    0     0  18.5M      0 --:--:-- --:--:-- --:--:-- 18.5M
+2023-09-30 20:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4463k      0  0:00:02  0:00:02 --:--:-- 4465k
+2023-09-30 21:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100 10.0M  100 10.0M    0     0  4553k      0  0:00:02  0:00:02 --:--:-- 4553k
+2023-09-30 22:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4688k      0  0:00:02  0:00:02 --:--:-- 4688k
+2023-09-30 23:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4327k      0  0:00:02  0:00:02 --:--:-- 4329k
+2023-10-01 00:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 34 10.0M   34 3484k    0     0  1356k      0  0:00:07  0:00:02  0:00:05 1355k100 10.0M  100 10.0M    0     0  3654k      0  0:00:02  0:00:02 --:--:-- 3653k
+2023-10-01 01:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4625k      0  0:00:02  0:00:02 --:--:-- 4625k
+2023-10-01 02:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  5074k      0  0:00:02  0:00:02 --:--:-- 5074k
+2023-10-01 03:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  5205k      0  0:00:01  0:00:01 --:--:-- 5203k
+2023-10-01 04:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 53 10.0M   53 5520k    0     0  1955k      0  0:00:05  0:00:02  0:00:03 1955k 72 10.0M   72 7446k    0     0  1956k      0  0:00:05  0:00:03  0:00:02 1955k 92 10.0M   92 9476k    0     0  1971k      0  0:00:05  0:00:04  0:00:01 1971k100 10.0M  100 10.0M    0     0  2079k      0  0:00:04  0:00:04 --:--:-- 2560k
+2023-10-01 05:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4344k      0  0:00:02  0:00:02 --:--:-- 4344k
+2023-10-01 06:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 61 10.0M   61 6262k    0     0  2568k      0  0:00:03  0:00:02  0:00:01 2567k100 10.0M  100 10.0M    0     0  3781k      0  0:00:02  0:00:02 --:--:-- 3779k
+2023-10-01 07:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 30 10.0M   30 3084k    0     0  1228k      0  0:00:08  0:00:02  0:00:06 1228k100 10.0M  100 10.0M    0     0  3178k      0  0:00:03  0:00:03 --:--:-- 3179k
+2023-10-01 08:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 21 10.0M   21 2228k    0     0  1097k      0  0:00:09  0:00:02  0:00:07 1096k100 10.0M  100 10.0M    0     0  4680k      0  0:00:02  0:00:02 --:--:-- 4680k
+2023-10-01 09:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 33 10.0M   33 3393k    0     0  1450k      0  0:00:07  0:00:02  0:00:05 1450k100 10.0M  100 10.0M    0     0  3978k      0  0:00:02  0:00:02 --:--:-- 3976k
+2023-10-01 10:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4857k      0  0:00:02  0:00:02 --:--:-- 4857k
+2023-10-01 11:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 93 10.0M   93 9526k    0     0  3778k      0  0:00:02  0:00:02 --:--:-- 3777k100 10.0M  100 10.0M    0     0  4020k      0  0:00:02  0:00:02 --:--:-- 4018k
+2023-10-01 12:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4105k      0  0:00:02  0:00:02 --:--:-- 4105k
+2023-10-01 13:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 67 10.0M   67 6939k    0     0  3492k      0  0:00:02  0:00:01  0:00:01 3490k100 10.0M  100 10.0M    0     0  4995k      0  0:00:02  0:00:02 --:--:-- 4995k
+2023-10-01 14:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4710k      0  0:00:02  0:00:02 --:--:-- 4710k
+2023-10-01 15:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4432k      0  0:00:02  0:00:02 --:--:-- 4434k
+2023-10-01 16:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 59 10.0M   59 6077k    0     0  2341k      0  0:00:04  0:00:02  0:00:02 2341k100 10.0M  100 10.0M    0     0  3768k      0  0:00:02  0:00:02 --:--:-- 3768k
+2023-10-01 17:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  1 10.0M    1  121k    0     0  46977      0  0:03:43  0:00:02  0:03:41 46959100 10.0M  100 10.0M    0     0  3610k      0  0:00:02  0:00:02 --:--:-- 3609k
+2023-10-01 18:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 74 10.0M   74 7601k    0     0  3532k      0  0:00:02  0:00:02 --:--:-- 3532k100 10.0M  100 10.0M    0     0  4183k      0  0:00:02  0:00:02 --:--:-- 4181k
+2023-10-01 19:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4387k      0  0:00:02  0:00:02 --:--:-- 4387k
+2023-10-01 20:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  5344k      0  0:00:01  0:00:01 --:--:-- 5341k
+2023-10-01 21:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4385k      0  0:00:02  0:00:02 --:--:-- 4387k
+2023-10-01 22:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  9 10.0M    9  958k    0     0   659k      0  0:00:15  0:00:01  0:00:14  658k100 10.0M  100 10.0M    0     0  6062k      0  0:00:01  0:00:01 --:--:-- 6062k
+2023-10-01 23:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100 10.0M  100 10.0M    0     0  3987k      0  0:00:02  0:00:02 --:--:-- 3985k
+2023-10-02 00:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4684k      0  0:00:02  0:00:02 --:--:-- 4684k
+2023-10-02 01:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  6027k      0  0:00:01  0:00:01 --:--:-- 6027k
+2023-10-02 02:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 38 10.0M   38 3967k    0     0  1463k      0  0:00:06  0:00:02  0:00:04 1463k100 10.0M  100 10.0M    0     0  3043k      0  0:00:03  0:00:03 --:--:-- 3043k
+2023-10-02 03:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0 43 10.0M   43 4483k    0     0  3009k      0  0:00:03  0:00:01  0:00:02 3007k100 10.0M  100 10.0M    0     0  4348k      0  0:00:02  0:00:02 --:--:-- 4350k
+2023-10-02 04:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0 62 10.0M   62 6444k    0     0  2265k      0  0:00:04  0:00:02  0:00:02 2264k100 10.0M  100 10.0M    0     0  3232k      0  0:00:03  0:00:03 --:--:-- 3233k
+2023-10-02 05:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 59 10.0M   59 6111k    0     0  2969k      0  0:00:03  0:00:02  0:00:01 2967k100 10.0M  100 10.0M    0     0  4207k      0  0:00:02  0:00:02 --:--:-- 4205k
+2023-10-02 06:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 46 10.0M   46 4788k    0     0  2108k      0  0:00:04  0:00:02  0:00:02 2108k100 10.0M  100 10.0M    0     0  4315k      0  0:00:02  0:00:02 --:--:-- 4313k
+2023-10-02 07:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4079k      0  0:00:02  0:00:02 --:--:-- 4079k
+2023-10-02 08:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 57 10.0M   57 5863k    0     0  2623k      0  0:00:03  0:00:02  0:00:01 2622k100 10.0M  100 10.0M    0     0  4094k      0  0:00:02  0:00:02 --:--:-- 4092k
+2023-10-02 09:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4800k      0  0:00:02  0:00:02 --:--:-- 4800k
+2023-10-02 10:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0 63 10.0M   63 6471k    0     0  2521k      0  0:00:04  0:00:02  0:00:02 2520k100 10.0M  100 10.0M    0     0  3825k      0  0:00:02  0:00:02 --:--:-- 3823k
+2023-10-02 11:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  5145k      0  0:00:01  0:00:01 --:--:-- 5143k
+2023-10-02 12:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  6217k      0  0:00:01  0:00:01 --:--:-- 6213k
+2023-10-02 13:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4288k      0  0:00:02  0:00:02 --:--:-- 4288k
+2023-10-02 14:54:01
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0100 10.0M  100 10.0M    0     0  4620k      0  0:00:02  0:00:02 --:--:-- 4623k

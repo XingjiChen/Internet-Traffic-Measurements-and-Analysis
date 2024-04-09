@@ -1,0 +1,1230 @@
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695808442.530723] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=339 ms
+[1695808442.858024] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1695808443.858489] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1695808444.859985] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=326 ms
+[1695808445.861747] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=327 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4004ms
+rtt min/avg/max/mdev = 326.350/329.090/339.193/5.055 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695812044.961934] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695812045.287546] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695812046.288696] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1695812047.286908] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=324 ms
+[1695812048.295828] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=332 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5454ms
+rtt min/avg/max/mdev = 323.851/326.356/332.448/3.094 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695815643.919504] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1695815644.259968] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=328 ms
+[1695815645.258305] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1695815646.259702] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=327 ms
+[1695815647.259243] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=326 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4001ms
+rtt min/avg/max/mdev = 325.529/326.548/327.830/0.824 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695819243.557252] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1695819243.885591] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1695819244.887623] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=328 ms
+[1695819245.888567] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=328 ms
+[1695819246.888958] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=326 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4915ms
+rtt min/avg/max/mdev = 326.393/327.176/327.584/0.446 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695822843.971311] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1695822844.299283] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1695822845.300088] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1695822846.300568] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=327 ms
+[1695822847.301021] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=327 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5455ms
+rtt min/avg/max/mdev = 326.670/326.923/327.275/0.226 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695826445.063068] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=350 ms
+[1695826445.411876] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=348 ms
+[1695826446.446838] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=382 ms
+[1695826447.421488] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=355 ms
+[1695826448.482932] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=415 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5876ms
+rtt min/avg/max/mdev = 348.386/370.188/415.162/25.551 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695830043.791234] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695830044.118727] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1695830045.117720] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=325 ms
+[1695830046.118267] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=325 ms
+[1695830047.118905] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=325 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4692ms
+rtt min/avg/max/mdev = 324.764/325.258/325.901/0.398 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695833643.990236] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1695833644.317427] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1695833645.317153] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=325 ms
+[1695833646.318499] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=325 ms
+[1695833647.319560] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=326 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5183ms
+rtt min/avg/max/mdev = 324.516/325.420/326.182/0.627 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695837243.754000] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695837244.079649] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695837245.080424] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1695837246.080593] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=326 ms
+[1695837247.081079] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=326 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5366ms
+rtt min/avg/max/mdev = 325.072/325.375/325.643/0.227 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695840846.299787] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=439 ms
+[1695840846.625676] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695840847.628620] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1695840848.627300] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=324 ms
+[1695840849.630482] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=326 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6596ms
+rtt min/avg/max/mdev = 324.297/348.153/438.921/45.389 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695844443.578607] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=328 ms
+[1695844443.905051] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1695844444.905533] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=325 ms
+[1695844445.910467] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=329 ms
+[1695844446.910930] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=328 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4677ms
+rtt min/avg/max/mdev = 325.138/327.032/328.597/1.240 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695848045.063485] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1695848045.390240] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1695848046.392582] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1695848047.393220] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=326 ms
+[1695848048.395608] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=327 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5635ms
+rtt min/avg/max/mdev = 325.679/326.268/326.773/0.395 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695851643.193595] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695851643.520477] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1695851644.521150] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=325 ms
+[1695851645.524369] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=327 ms
+[1695851646.523998] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=326 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4557ms
+rtt min/avg/max/mdev = 324.942/325.820/327.195/0.843 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695855244.226553] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=328 ms
+[1695855244.555597] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=328 ms
+[1695855245.558230] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=329 ms
+[1695855246.557272] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=327 ms
+[1695855247.557730] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=326 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5392ms
+rtt min/avg/max/mdev = 326.333/327.846/329.063/0.945 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695858846.424005] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1695858846.749991] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695858847.751998] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1695858848.752766] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=325 ms
+[1695858849.754894] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=325 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5641ms
+rtt min/avg/max/mdev = 324.996/325.434/325.949/0.343 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695862444.059032] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695862444.406768] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=347 ms
+[1695862445.388606] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1695862446.393349] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=330 ms
+[1695862447.390303] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=325 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5137ms
+rtt min/avg/max/mdev = 324.569/330.793/347.076/8.376 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695866044.076863] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695866044.424349] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=347 ms
+[1695866045.405679] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1695866046.405071] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=324 ms
+[1695866047.409598] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=327 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5308ms
+rtt min/avg/max/mdev = 324.041/330.013/347.149/8.632 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695869644.182917] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695869644.508574] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695869645.514944] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=330 ms
+[1695869646.524407] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=337 ms
+[1695869647.522369] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=334 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5535ms
+rtt min/avg/max/mdev = 325.116/330.257/337.418/4.752 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695873244.005629] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1695873244.333716] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=328 ms
+[1695873245.337283] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=329 ms
+[1695873246.336316] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=326 ms
+[1695873247.339127] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=327 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4924ms
+rtt min/avg/max/mdev = 326.199/327.410/329.079/0.948 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695876844.796377] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1695876845.123361] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1695876846.128048] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=330 ms
+[1695876847.135178] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=336 ms
+[1695876848.137298] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=337 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5475ms
+rtt min/avg/max/mdev = 326.284/331.319/337.178/4.678 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695880445.072658] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=328 ms
+[1695880445.398103] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695880446.401475] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1695880447.415106] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=339 ms
+[1695880448.405465] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=328 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5792ms
+rtt min/avg/max/mdev = 324.970/329.386/339.243/5.061 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695884045.143167] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695884045.468969] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695884046.471310] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1695884047.472015] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=326 ms
+[1695884048.471932] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=324 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4641ms
+rtt min/avg/max/mdev = 324.359/325.080/325.800/0.546 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695887643.976186] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695887644.303805] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1695887645.302890] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1695887646.302393] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=325 ms
+[1695887647.303197] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=325 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4700ms
+rtt min/avg/max/mdev = 324.890/325.576/327.066/0.801 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695891244.675817] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1695891245.003017] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1695891246.003391] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1695891247.003094] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=326 ms
+[1695891248.005106] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=328 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5299ms
+rtt min/avg/max/mdev = 326.248/326.820/327.775/0.560 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695894844.873573] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695894845.198547] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695894846.199643] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=325 ms
+[1695894847.200800] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=325 ms
+[1695894848.201265] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=325 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5371ms
+rtt min/avg/max/mdev = 324.594/325.064/325.372/0.338 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695898444.226101] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=330 ms
+[1695898444.553158] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1695898445.555972] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=328 ms
+[1695898446.556504] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=327 ms
+[1695898447.557422] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=326 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5133ms
+rtt min/avg/max/mdev = 326.320/327.597/330.022/1.371 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695902046.709346] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1695902047.034971] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695902048.037409] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1695902049.036366] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=326 ms
+[1695902050.035880] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=325 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6573ms
+rtt min/avg/max/mdev = 325.066/326.062/327.316/0.956 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695905645.426684] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=332 ms
+[1695905645.752429] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695905646.756903] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=328 ms
+[1695905647.759324] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=329 ms
+[1695905648.760460] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=329 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5361ms
+rtt min/avg/max/mdev = 325.067/328.503/331.989/2.203 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695909245.675364] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695909246.001152] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695909247.005930] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=329 ms
+[1695909248.014057] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=337 ms
+[1695909249.014968] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=337 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5446ms
+rtt min/avg/max/mdev = 324.999/330.697/337.052/5.299 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695912843.481832] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695912843.808209] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695912844.809620] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=325 ms
+[1695912845.811647] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=326 ms
+[1695912846.891699] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=405 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4811ms
+rtt min/avg/max/mdev = 324.852/341.039/404.622/31.792 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695916445.246829] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1695916445.574995] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1695916446.575086] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=325 ms
+[1695916447.576313] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=325 ms
+[1695916448.578777] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=326 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5823ms
+rtt min/avg/max/mdev = 324.688/325.620/326.643/0.656 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695920044.568588] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1695920044.897367] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=328 ms
+[1695920045.896081] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=325 ms
+[1695920046.900065] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=328 ms
+[1695920047.899907] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=327 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5407ms
+rtt min/avg/max/mdev = 325.417/327.113/328.215/1.018 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695923645.402885] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1695923645.728098] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=324 ms
+[1695923646.729906] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=325 ms
+[1695923647.731966] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=325 ms
+[1695923648.737515] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=329 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5430ms
+rtt min/avg/max/mdev = 324.412/325.776/328.762/1.571 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695927244.478845] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=324 ms
+[1695927244.804427] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=322 ms
+[1695927245.805353] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=321 ms
+[1695927246.807163] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=321 ms
+[1695927247.808731] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=322 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4978ms
+rtt min/avg/max/mdev = 321.427/322.007/323.924/0.960 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695930844.161228] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695930844.487449] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695930845.489744] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=325 ms
+[1695930846.490700] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=325 ms
+[1695930847.492251] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=325 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5232ms
+rtt min/avg/max/mdev = 324.523/324.902/325.285/0.272 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695934443.505570] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1695934443.834084] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1695934444.835283] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1695934445.837207] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=327 ms
+[1695934446.840389] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=328 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4970ms
+rtt min/avg/max/mdev = 326.645/327.290/328.337/0.581 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695938044.508646] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1695938044.837156] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=328 ms
+[1695938045.837601] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1695938046.839514] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=327 ms
+[1695938047.840682] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=327 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5622ms
+rtt min/avg/max/mdev = 326.562/327.176/327.985/0.494 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695941643.560753] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1695941643.889030] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1695941644.891063] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1695941645.892385] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=327 ms
+[1695941646.894915] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=328 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4699ms
+rtt min/avg/max/mdev = 326.959/327.362/327.971/0.347 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695945244.767764] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1695945245.095714] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1695945246.095677] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1695945247.096995] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=327 ms
+[1695945248.096741] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=326 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5408ms
+rtt min/avg/max/mdev = 326.327/326.753/327.334/0.365 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695948843.695682] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1695948844.021774] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695948845.021980] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=325 ms
+[1695948846.023507] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=326 ms
+[1695948847.024443] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=326 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4533ms
+rtt min/avg/max/mdev = 325.273/325.586/325.887/0.218 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695952445.892768] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=399 ms
+[1695952446.219306] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695952447.225611] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=331 ms
+[1695952448.220523] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=325 ms
+[1695952449.221921] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=326 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5887ms
+rtt min/avg/max/mdev = 324.907/341.039/398.680/28.906 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695956044.652022] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695956044.978550] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1695956045.981478] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1695956046.981099] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=326 ms
+[1695956048.009045] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=352 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5668ms
+rtt min/avg/max/mdev = 324.698/331.035/351.684/10.353 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695959643.919407] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1695959644.285285] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=365 ms
+[1695959645.269836] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=349 ms
+[1695959646.248637] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=327 ms
+[1695959647.248645] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=327 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4767ms
+rtt min/avg/max/mdev = 326.807/339.061/365.466/15.801 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695963244.714502] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1695963245.042137] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1695963246.043239] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1695963247.043417] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=326 ms
+[1695963248.050195] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=332 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5511ms
+rtt min/avg/max/mdev = 326.363/327.955/332.147/2.117 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695966844.139898] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=333 ms
+[1695966844.474454] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=334 ms
+[1695966845.468982] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=328 ms
+[1695966846.486707] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=344 ms
+[1695966847.471180] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=327 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4632ms
+rtt min/avg/max/mdev = 326.724/333.027/343.978/6.164 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695970446.377185] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695970446.701463] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=324 ms
+[1695970447.706190] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1695970448.800542] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=420 ms
+[1695970449.832271] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=450 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6728ms
+rtt min/avg/max/mdev = 323.669/368.832/449.825/54.616 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695974044.926459] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=34 time=325 ms
+[1695974045.253304] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=34 time=325 ms
+[1695974046.253862] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=34 time=325 ms
+[1695974047.255075] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=34 time=325 ms
+[1695974048.255590] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=34 time=325 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5562ms
+rtt min/avg/max/mdev = 324.852/325.156/325.379/0.194 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695977643.462800] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1695977643.791655] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=328 ms
+[1695977644.791789] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1695977645.794405] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=327 ms
+[1695977646.824223] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=355 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4854ms
+rtt min/avg/max/mdev = 326.229/332.384/355.063/11.350 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695981245.122752] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1695981245.450403] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1695981246.450734] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1695981247.452325] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=326 ms
+[1695981248.454070] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=326 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5590ms
+rtt min/avg/max/mdev = 325.849/326.284/327.047/0.421 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695984845.582028] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=328 ms
+[1695984845.911601] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=328 ms
+[1695984846.911145] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1695984847.911688] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=325 ms
+[1695984848.917033] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=329 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5552ms
+rtt min/avg/max/mdev = 325.472/327.335/329.027/1.346 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695988444.098598] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1695988444.423937] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695988445.425260] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=325 ms
+[1695988446.425439] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=324 ms
+[1695988447.427568] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=325 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4765ms
+rtt min/avg/max/mdev = 323.790/325.146/327.441/1.217 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695992045.140017] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=328 ms
+[1695992045.468774] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1695992046.484286] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=341 ms
+[1695992047.474514] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=330 ms
+[1695992048.474234] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=327 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5067ms
+rtt min/avg/max/mdev = 327.257/330.665/341.012/5.251 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695995645.086962] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1695995645.412122] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1695995646.414404] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=325 ms
+[1695995647.416632] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=326 ms
+[1695995648.416741] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=325 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5272ms
+rtt min/avg/max/mdev = 324.541/325.145/325.687/0.397 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1695999245.602764] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1695999245.931707] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=328 ms
+[1695999246.931602] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1695999247.931944] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=325 ms
+[1695999248.935180] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=327 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5609ms
+rtt min/avg/max/mdev = 325.214/326.302/327.589/0.849 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696002843.902507] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696002844.229065] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1696002845.230179] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1696002846.230805] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=326 ms
+[1696002847.231711] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=326 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4456ms
+rtt min/avg/max/mdev = 325.324/325.829/326.836/0.521 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696006444.037229] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696006444.366046] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1696006445.367392] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1696006446.369323] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=327 ms
+[1696006447.372108] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=328 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4638ms
+rtt min/avg/max/mdev = 326.608/327.175/327.927/0.481 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696010044.767162] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=328 ms
+[1696010045.104469] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=337 ms
+[1696010046.096205] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=328 ms
+[1696010047.097522] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=329 ms
+[1696010048.096924] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=328 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5359ms
+rtt min/avg/max/mdev = 327.639/329.823/337.024/3.621 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696013643.812385] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=328 ms
+[1696013644.140712] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=328 ms
+[1696013645.177831] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=365 ms
+[1696013646.171537] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=359 ms
+[1696013647.161345] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=347 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5068ms
+rtt min/avg/max/mdev = 327.692/345.206/364.832/15.361 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696017244.789471] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696017245.118248] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1696017246.118937] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1696017247.122486] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=330 ms
+[1696017248.201485] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=408 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5679ms
+rtt min/avg/max/mdev = 327.062/343.937/408.262/32.174 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696020843.179798] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696020843.505428] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1696020844.554407] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=373 ms
+[1696020845.676363] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=494 ms
+[1696020846.619016] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=435 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4430ms
+rtt min/avg/max/mdev = 325.039/390.749/493.697/65.290 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696024446.036860] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=330 ms
+[1696024446.364131] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1696024447.363536] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=325 ms
+[1696024448.373165] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=334 ms
+[1696024449.376393] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=335 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5878ms
+rtt min/avg/max/mdev = 325.233/330.193/335.142/3.787 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696028044.877738] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1696028045.204021] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1696028046.204126] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=325 ms
+[1696028047.232331] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=353 ms
+[1696028048.231110] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=352 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4221ms
+rtt min/avg/max/mdev = 325.417/336.334/353.202/13.257 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696031643.632504] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=328 ms
+[1696031643.962753] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=330 ms
+[1696031644.985753] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=352 ms
+[1696031646.036681] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=402 ms
+[1696031646.973598] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=339 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4567ms
+rtt min/avg/max/mdev = 328.200/350.082/401.676/27.111 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696035245.909239] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=328 ms
+[1696035246.240035] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=330 ms
+[1696035247.295550] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=384 ms
+[1696035248.389759] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=478 ms
+[1696035249.402068] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=490 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5745ms
+rtt min/avg/max/mdev = 327.795/401.914/490.185/70.145 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696038845.010817] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1696038845.367556] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=356 ms
+[1696038846.372029] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=359 ms
+[1696038847.338793] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=325 ms
+[1696038848.384093] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=368 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5242ms
+rtt min/avg/max/mdev = 324.511/346.585/368.044/18.346 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696042444.748940] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=330 ms
+[1696042445.083999] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=335 ms
+[1696042446.084960] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=335 ms
+[1696042447.097138] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=347 ms
+[1696042448.156282] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=405 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5325ms
+rtt min/avg/max/mdev = 330.003/350.425/405.493/28.083 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696046044.429808] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=329 ms
+[1696046044.759633] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=330 ms
+[1696046045.786659] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=356 ms
+[1696046046.811513] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=379 ms
+[1696046047.899579] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=465 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5218ms
+rtt min/avg/max/mdev = 328.844/371.716/465.140/50.314 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696049643.698754] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=329 ms
+[1696049644.043592] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=344 ms
+[1696049645.023891] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=324 ms
+[1696049646.038632] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=338 ms
+[1696049647.080648] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=379 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5077ms
+rtt min/avg/max/mdev = 323.861/343.087/379.410/19.512 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696053243.731056] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1696053244.059462] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=328 ms
+[1696053245.098587] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=367 ms
+[1696053246.127576] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=396 ms
+[1696053247.198696] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=467 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5162ms
+rtt min/avg/max/mdev = 325.703/376.644/466.751/52.020 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696056844.930275] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=328 ms
+[1696056845.259285] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=328 ms
+[1696056846.273210] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=342 ms
+[1696056847.268303] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=335 ms
+[1696056848.312404] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=379 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5258ms
+rtt min/avg/max/mdev = 327.510/342.336/379.262/19.182 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696060445.700149] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=340 ms
+[1696060446.039371] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=339 ms
+[1696060447.046209] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=345 ms
+[1696060448.063571] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=362 ms
+[1696060449.058145] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=357 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6315ms
+rtt min/avg/max/mdev = 338.636/348.535/362.227/9.336 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696064043.731089] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=328 ms
+[1696064044.064284] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=332 ms
+[1696064045.081141] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=350 ms
+[1696064046.085789] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=354 ms
+[1696064047.114302] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=383 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4770ms
+rtt min/avg/max/mdev = 327.840/349.518/383.052/19.539 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696067646.338244] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=329 ms
+[1696067646.673694] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=335 ms
+[1696067647.735134] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=395 ms
+[1696067648.704436] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=363 ms
+[1696067649.701206] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=358 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5994ms
+rtt min/avg/max/mdev = 328.513/355.906/394.984/23.622 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696071244.026735] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696071244.354115] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1696071245.355749] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1696071246.375598] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=345 ms
+[1696071247.401409] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=370 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4350ms
+rtt min/avg/max/mdev = 326.591/339.182/369.775/16.905 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696074845.158889] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=330 ms
+[1696074845.491130] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=332 ms
+[1696074846.494851] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=334 ms
+[1696074847.502280] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=340 ms
+[1696074848.501778] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=338 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5004ms
+rtt min/avg/max/mdev = 330.316/334.988/340.141/3.750 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696078443.634433] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=339 ms
+[1696078443.970851] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=335 ms
+[1696078444.996848] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=360 ms
+[1696078446.053604] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=415 ms
+[1696078447.017183] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=379 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4736ms
+rtt min/avg/max/mdev = 334.728/365.341/414.644/29.179 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696082044.733614] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696082045.061793] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1696082046.065453] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=330 ms
+[1696082047.145477] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=409 ms
+[1696082048.109053] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=373 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5590ms
+rtt min/avg/max/mdev = 326.617/353.231/409.297/33.115 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696085644.039932] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=328 ms
+[1696085644.369029] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=328 ms
+[1696085645.389388] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=347 ms
+[1696085646.436949] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=393 ms
+[1696085647.410069] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=365 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5149ms
+rtt min/avg/max/mdev = 327.958/352.350/393.433/24.651 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696089248.630100] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=328 ms
+[1696089248.957706] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1696089249.973200] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=340 ms
+[1696089250.963434] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=329 ms
+[1696089251.992123] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=352 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5419ms
+rtt min/avg/max/mdev = 326.157/335.019/351.874/9.636 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696092844.991197] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696092845.323303] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=332 ms
+[1696092846.332797] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=341 ms
+[1696092847.329311] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=337 ms
+[1696092848.331482] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=339 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4725ms
+rtt min/avg/max/mdev = 326.916/335.222/341.395/5.234 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696096443.568968] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696096443.895878] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1696096444.898213] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1696096445.900796] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=328 ms
+[1696096446.906394] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=332 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5097ms
+rtt min/avg/max/mdev = 326.386/328.266/332.399/2.179 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696100044.858831] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696100045.186406] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1696100046.225768] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=365 ms
+[1696100047.249045] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=388 ms
+[1696100048.242476] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=381 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4735ms
+rtt min/avg/max/mdev = 326.257/357.614/387.957/26.180 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696103643.785347] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=328 ms
+[1696103644.113191] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1696103645.142505] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=355 ms
+[1696103646.172028] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=384 ms
+[1696103647.195038] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=407 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5093ms
+rtt min/avg/max/mdev = 326.329/359.990/406.758/31.563 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696107244.861598] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1696107245.188615] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1696107246.236014] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=373 ms
+[1696107247.286112] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=423 ms
+[1696107248.285250] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=422 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5502ms
+rtt min/avg/max/mdev = 326.213/374.035/422.630/42.972 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696110845.813093] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1696110846.141069] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1696110847.167744] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=352 ms
+[1696110848.233327] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=417 ms
+[1696110849.261906] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=445 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6010ms
+rtt min/avg/max/mdev = 325.747/373.380/445.362/49.065 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696114443.871869] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1696114444.200033] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1696114445.199097] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1696114446.217601] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=344 ms
+[1696114447.227738] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=354 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4443ms
+rtt min/avg/max/mdev = 325.340/334.961/353.501/11.601 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696118043.693555] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1696118044.019392] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1696118045.020610] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=326 ms
+[1696118046.023763] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=329 ms
+[1696118047.022971] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=328 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4702ms
+rtt min/avg/max/mdev = 325.298/326.746/328.503/1.194 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696121643.902033] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1696121644.228800] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1696121645.267669] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=365 ms
+[1696121646.280199] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=377 ms
+[1696121647.271170] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=368 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5104ms
+rtt min/avg/max/mdev = 324.756/352.176/377.236/22.210 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696125244.923440] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696125245.495609] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=571 ms
+[1696125246.427586] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=503 ms
+[1696125247.250377] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=326 ms
+[1696125248.332804] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=408 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5628ms
+rtt min/avg/max/mdev = 325.786/427.058/570.765/97.008 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696128843.279784] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=342 ms
+[1696128843.609609] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=329 ms
+[1696128844.609337] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=328 ms
+[1696128845.651688] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=368 ms
+[1696128846.704395] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=419 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4820ms
+rtt min/avg/max/mdev = 327.816/357.368/419.018/34.097 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696132443.975640] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=333 ms
+[1696132444.302787] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1696132445.304985] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=328 ms
+[1696132446.311856] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=335 ms
+[1696132447.304843] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=328 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5605ms
+rtt min/avg/max/mdev = 326.208/329.988/334.983/3.400 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696136045.229418] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=329 ms
+[1696136045.560264] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=330 ms
+[1696136046.585999] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=354 ms
+[1696136047.598158] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=365 ms
+[1696136048.696941] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=462 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5484ms
+rtt min/avg/max/mdev = 328.929/368.032/461.833/48.882 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696139644.025211] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=328 ms
+[1696139644.355735] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=329 ms
+[1696139645.410954] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=382 ms
+[1696139646.395009] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=365 ms
+[1696139647.418815] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=387 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4577ms
+rtt min/avg/max/mdev = 327.695/358.157/387.443/25.559 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696143244.635670] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696143244.960508] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=324 ms
+[1696143245.969183] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=331 ms
+[1696143247.038967] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=399 ms
+[1696143248.005489] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=366 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5770ms
+rtt min/avg/max/mdev = 324.495/349.656/399.086/28.835 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696146843.691538] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=332 ms
+[1696146844.023339] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=331 ms
+[1696146845.062846] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=369 ms
+[1696146846.063185] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=369 ms
+[1696146847.056616] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=362 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4745ms
+rtt min/avg/max/mdev = 330.677/352.744/369.345/17.518 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696150445.042447] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1696150445.368170] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=324 ms
+[1696150446.379024] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=333 ms
+[1696150447.440776] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=394 ms
+[1696150448.394479] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=347 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5522ms
+rtt min/avg/max/mdev = 324.440/344.850/393.621/25.580 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696154046.369952] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696154046.695580] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1696154047.709689] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=338 ms
+[1696154048.746084] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=373 ms
+[1696154049.735559] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=362 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5833ms
+rtt min/avg/max/mdev = 325.159/345.048/373.417/19.437 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696157644.061528] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696157644.389451] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1696157645.458726] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=394 ms
+[1696157646.501824] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=436 ms
+[1696157647.446037] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=379 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4971ms
+rtt min/avg/max/mdev = 326.420/372.345/436.030/41.845 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696161243.611565] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696161243.940323] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1696161244.963799] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=349 ms
+[1696161245.991144] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=375 ms
+[1696161247.008769] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=391 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4973ms
+rtt min/avg/max/mdev = 326.938/353.980/391.460/25.753 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696164844.054396] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1696164844.380861] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1696164845.387228] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=331 ms
+[1696164846.397714] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=340 ms
+[1696164847.389386] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=330 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5640ms
+rtt min/avg/max/mdev = 325.778/330.718/340.132/5.149 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696168445.085434] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1696168445.412613] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1696168446.420883] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=333 ms
+[1696168447.466845] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=378 ms
+[1696168448.435522] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=345 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5401ms
+rtt min/avg/max/mdev = 325.265/341.557/377.835/19.504 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696172045.402396] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=333 ms
+[1696172045.726799] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=324 ms
+[1696172046.728569] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=324 ms
+[1696172047.780006] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=374 ms
+[1696172048.808394] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=401 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5696ms
+rtt min/avg/max/mdev = 323.863/351.330/401.282/31.162 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696175643.308107] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=353 ms
+[1696175643.641064] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=332 ms
+[1696175644.714841] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=405 ms
+[1696175645.874548] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=563 ms
+[1696175646.741680] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=429 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4814ms
+rtt min/avg/max/mdev = 332.466/416.411/563.217/81.166 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696179245.079936] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1696179245.406098] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=326 ms
+[1696179246.424531] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=342 ms
+[1696179247.441834] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=358 ms
+[1696179248.498807] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=413 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5894ms
+rtt min/avg/max/mdev = 325.334/352.887/413.319/32.558 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696182843.671764] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696182844.013148] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=341 ms
+[1696182845.028640] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=356 ms
+[1696182846.057693] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=385 ms
+[1696182847.087750] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=415 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4829ms
+rtt min/avg/max/mdev = 327.094/364.709/414.760/31.542 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696186444.798542] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=33 time=330 ms
+[1696186445.125590] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=33 time=326 ms
+[1696186446.126396] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=33 time=326 ms
+[1696186447.171300] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=33 time=371 ms
+[1696186448.168798] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=33 time=368 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5215ms
+rtt min/avg/max/mdev = 326.134/344.322/370.744/20.596 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696190043.063985] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=33 time=330 ms
+[1696190043.391102] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=33 time=327 ms
+[1696190044.424663] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=33 time=359 ms
+[1696190045.465016] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=33 time=398 ms
+[1696190046.440041] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=33 time=372 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4725ms
+rtt min/avg/max/mdev = 326.595/357.141/397.726/26.494 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696193644.336142] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=33 time=327 ms
+[1696193644.665532] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=33 time=329 ms
+[1696193645.665437] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=33 time=328 ms
+[1696193646.685530] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=33 time=347 ms
+[1696193647.717614] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=33 time=378 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5596ms
+rtt min/avg/max/mdev = 327.496/341.586/377.536/19.374 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696197245.073429] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=33 time=327 ms
+[1696197245.402028] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=33 time=327 ms
+[1696197246.436399] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=33 time=360 ms
+[1696197247.486853] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=33 time=409 ms
+[1696197248.481557] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=33 time=402 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5648ms
+rtt min/avg/max/mdev = 327.254/365.163/408.796/35.119 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696200843.445790] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=33 time=327 ms
+[1696200843.773074] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=33 time=327 ms
+[1696200844.788561] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=33 time=341 ms
+[1696200845.834894] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=33 time=386 ms
+[1696200846.841332] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=33 time=391 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4911ms
+rtt min/avg/max/mdev = 326.782/354.257/390.834/28.258 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696204445.453195] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=33 time=328 ms
+[1696204445.780791] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=33 time=327 ms
+[1696204446.784457] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=33 time=329 ms
+[1696204447.819944] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=33 time=364 ms
+[1696204448.877327] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=33 time=420 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5605ms
+rtt min/avg/max/mdev = 327.153/353.573/419.848/35.956 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696208042.495404] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=342 ms
+[1696208042.827380] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=332 ms
+[1696208043.852287] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=356 ms
+[1696208044.904617] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=407 ms
+[1696208045.928867] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=430 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4461ms
+rtt min/avg/max/mdev = 331.663/373.155/430.066/38.477 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696211646.854931] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=370 ms
+[1696211647.195878] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=340 ms
+[1696211648.247892] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=393 ms
+[1696211649.297703] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=442 ms
+[1696211650.315037] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=459 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5905ms
+rtt min/avg/max/mdev = 340.436/400.907/458.795/44.148 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696215243.639234] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=332 ms
+[1696215244.008563] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=369 ms
+[1696215245.030272] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=390 ms
+[1696215246.076402] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=436 ms
+[1696215247.142886] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=502 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4097ms
+rtt min/avg/max/mdev = 331.792/405.726/502.324/58.801 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696218844.722712] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=325 ms
+[1696218845.047907] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1696218846.099504] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=376 ms
+[1696218847.112956] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=389 ms
+[1696218848.101107] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=376 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5423ms
+rtt min/avg/max/mdev = 324.687/358.166/388.558/27.408 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696222445.078368] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696222445.406150] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1696222446.431669] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=351 ms
+[1696222447.408327] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=327 ms
+[1696222448.468926] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=385 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5451ms
+rtt min/avg/max/mdev = 326.545/343.344/385.379/23.035 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696226043.571135] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=324 ms
+[1696226043.901227] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=329 ms
+[1696226044.909251] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=337 ms
+[1696226045.921346] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=348 ms
+[1696226046.936095] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=362 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5153ms
+rtt min/avg/max/mdev = 324.339/339.920/361.516/13.348 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696229643.842433] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=326 ms
+[1696229644.168950] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=325 ms
+[1696229645.170541] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=327 ms
+[1696229646.258213] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=415 ms
+[1696229647.235380] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=392 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5433ms
+rtt min/avg/max/mdev = 325.408/356.999/414.999/38.547 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696233245.100378] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696233245.428973] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1696233246.436607] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=333 ms
+[1696233247.484044] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=379 ms
+[1696233248.474361] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=369 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5766ms
+rtt min/avg/max/mdev = 327.158/347.224/379.409/22.396 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696236844.118545] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696236844.449379] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=329 ms
+[1696236845.477048] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=355 ms
+[1696236846.481766] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=359 ms
+[1696236847.483390] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=360 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4690ms
+rtt min/avg/max/mdev = 326.874/346.083/359.504/14.757 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696240443.292089] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696240443.619740] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=327 ms
+[1696240444.656721] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=363 ms
+[1696240445.688851] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=394 ms
+[1696240446.673017] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=377 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4843ms
+rtt min/avg/max/mdev = 326.989/357.531/393.808/26.665 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696244046.236191] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696244046.564635] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=328 ms
+[1696244047.622729] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=385 ms
+[1696244048.611493] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=372 ms
+[1696244049.629255] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=388 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5333ms
+rtt min/avg/max/mdev = 326.888/360.004/388.303/27.138 ms
+PING southeast-2.dns-au.st (52.63.82.137) 56(84) bytes of data.
+[1696247644.181558] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=1 ttl=35 time=327 ms
+[1696247644.510975] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=2 ttl=35 time=329 ms
+[1696247645.533390] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=3 ttl=35 time=350 ms
+[1696247646.524451] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=4 ttl=35 time=340 ms
+[1696247647.535709] 64 bytes from ec2-52-63-82-137.ap-southeast-2.compute.amazonaws.com (52.63.82.137): icmp_seq=5 ttl=35 time=349 ms
+
+--- southeast-2.dns-au.st ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5137ms
+rtt min/avg/max/mdev = 326.646/338.932/350.096/9.879 ms

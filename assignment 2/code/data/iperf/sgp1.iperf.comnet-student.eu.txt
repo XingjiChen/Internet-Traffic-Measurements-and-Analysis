@@ -1,0 +1,981 @@
+2023-09-30 17:31:35
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 37676 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   713 KBytes  5.83 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.22 MBytes  35.4 Mbits/sec    0   1.73 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  82.4 MBytes  69.1 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  82.0 MBytes  67.0 Mbits/sec                  receiver
+
+iperf Done.
+2023-09-30 17:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 37708 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   744 KBytes  6.09 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  3.98 MBytes  33.4 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.09 MBytes       
+[  5]   3.00-4.00   sec  12.5 MBytes   105 Mbits/sec    0   6.09 MBytes       
+[  5]   4.00-5.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.09 MBytes       
+[  5]   5.00-6.00   sec  11.2 MBytes  94.3 Mbits/sec    0   6.09 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.09 MBytes       
+[  5]   7.00-8.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.09 MBytes       
+[  5]   8.00-9.00   sec  12.5 MBytes   105 Mbits/sec    0   6.09 MBytes       
+[  5]   9.00-10.00  sec  8.75 MBytes  73.4 Mbits/sec    0   6.09 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  86.0 MBytes  72.1 Mbits/sec    0             sender
+[  5]   0.00-10.27  sec  85.2 MBytes  69.6 Mbits/sec                  receiver
+
+iperf Done.
+2023-09-30 18:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 37752 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   701 KBytes  5.74 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  3.63 MBytes  30.4 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.5 Mbits/sec    0   6.03 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.3 Mbits/sec    0   6.03 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.03 MBytes       
+[  5]   5.00-6.00   sec  10.0 MBytes  83.8 Mbits/sec    0   6.03 MBytes       
+[  5]   6.00-7.00   sec  12.5 MBytes   105 Mbits/sec    0   6.03 MBytes       
+[  5]   7.00-8.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.03 MBytes       
+[  5]   8.00-9.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.03 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.03 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  86.8 MBytes  72.8 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  86.5 MBytes  70.6 Mbits/sec                  receiver
+
+iperf Done.
+2023-09-30 19:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 37796 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   594 KBytes  4.86 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  3.63 MBytes  30.4 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.05 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.3 Mbits/sec    0   6.05 MBytes       
+[  5]   4.00-5.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.05 MBytes       
+[  5]   5.00-6.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.05 MBytes       
+[  5]   6.00-7.00   sec  12.5 MBytes   105 Mbits/sec    0   6.05 MBytes       
+[  5]   7.00-8.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.05 MBytes       
+[  5]   8.00-9.00   sec  11.2 MBytes  94.3 Mbits/sec    0   6.05 MBytes       
+[  5]   9.00-10.00  sec  11.2 MBytes  94.4 Mbits/sec    0   6.05 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  88.0 MBytes  73.8 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  87.5 MBytes  71.4 Mbits/sec                  receiver
+
+iperf Done.
+2023-09-30 20:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 37848 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   516 KBytes  4.23 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.46 MBytes  37.4 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.04 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.04 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.04 MBytes       
+[  5]   5.00-6.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.04 MBytes       
+[  5]   6.00-7.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.04 MBytes       
+[  5]   7.00-8.00   sec  11.2 MBytes  94.3 Mbits/sec    0   6.04 MBytes       
+[  5]   8.00-9.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.04 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.04 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  86.2 MBytes  72.3 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  85.3 MBytes  69.6 Mbits/sec                  receiver
+
+iperf Done.
+2023-09-30 21:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 37894 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   530 KBytes  4.34 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.63 MBytes  38.9 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.01 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.01 MBytes       
+[  5]   4.00-5.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.01 MBytes       
+[  5]   5.00-6.00   sec  12.5 MBytes   105 Mbits/sec    0   6.01 MBytes       
+[  5]   6.00-7.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.01 MBytes       
+[  5]   7.00-8.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.01 MBytes       
+[  5]   8.00-9.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.01 MBytes       
+[  5]   9.00-10.00  sec  11.2 MBytes  94.3 Mbits/sec    0   6.01 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  85.2 MBytes  71.4 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  85.2 MBytes  69.5 Mbits/sec                  receiver
+
+iperf Done.
+2023-09-30 22:36:22
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 37922 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   731 KBytes  5.99 Mbits/sec    0    124 KBytes       
+[  5]   1.00-2.00   sec  3.98 MBytes  33.4 Mbits/sec    0   1.94 MBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.05 MBytes       
+[  5]   3.00-4.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.05 MBytes       
+[  5]   4.00-5.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.05 MBytes       
+[  5]   5.00-6.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.05 MBytes       
+[  5]   6.00-7.00   sec  10.0 MBytes  83.8 Mbits/sec    0   6.05 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.05 MBytes       
+[  5]   8.00-9.00   sec  11.2 MBytes  94.3 Mbits/sec    0   6.05 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.05 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  84.7 MBytes  71.0 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  83.8 MBytes  68.4 Mbits/sec                  receiver
+
+iperf Done.
+2023-09-30 22:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 37954 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   727 KBytes  5.95 Mbits/sec    0    124 KBytes       
+[  5]   1.00-2.00   sec  3.80 MBytes  31.9 Mbits/sec    0   1.41 MBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.02 MBytes       
+[  5]   3.00-4.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.02 MBytes       
+[  5]   4.00-5.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.02 MBytes       
+[  5]   5.00-6.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.02 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.02 MBytes       
+[  5]   7.00-8.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.02 MBytes       
+[  5]   8.00-9.00   sec  12.5 MBytes   105 Mbits/sec    0   6.02 MBytes       
+[  5]   9.00-10.00  sec  8.75 MBytes  73.3 Mbits/sec    0   6.02 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  83.3 MBytes  69.8 Mbits/sec    0             sender
+[  5]   0.00-10.27  sec  82.5 MBytes  67.4 Mbits/sec                  receiver
+
+iperf Done.
+2023-09-30 22:56:38
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 37966 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   658 KBytes  5.38 Mbits/sec    0    124 KBytes       
+[  5]   1.00-2.00   sec  3.81 MBytes  31.9 Mbits/sec    0   1.94 MBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  11.2 MBytes  94.3 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  85.7 MBytes  71.9 Mbits/sec    0             sender
+[  5]   0.00-10.31  sec  85.4 MBytes  69.5 Mbits/sec                  receiver
+
+iperf Done.
+2023-09-30 23:15:45
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 37986 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   745 KBytes  6.10 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.10 MBytes  34.4 Mbits/sec    0   1.76 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.01 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.01 MBytes       
+[  5]   4.00-5.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.01 MBytes       
+[  5]   5.00-6.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.01 MBytes       
+[  5]   6.00-7.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.01 MBytes       
+[  5]   7.00-8.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.01 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.01 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.01 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  83.6 MBytes  70.1 Mbits/sec    0             sender
+[  5]   0.00-10.29  sec  83.6 MBytes  68.2 Mbits/sec                  receiver
+
+iperf Done.
+2023-09-30 23:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38026 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   682 KBytes  5.58 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  3.83 MBytes  32.1 Mbits/sec    0   1.41 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.05 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.05 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.05 MBytes       
+[  5]   5.00-6.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.05 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.05 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.05 MBytes       
+[  5]   8.00-9.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.05 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.05 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  85.7 MBytes  71.9 Mbits/sec    0             sender
+[  5]   0.00-10.27  sec  85.0 MBytes  69.4 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 00:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38074 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   744 KBytes  6.09 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  2.91 MBytes  24.4 Mbits/sec    0    997 KBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  81.1 MBytes  68.1 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  80.9 MBytes  66.0 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 01:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38122 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   601 KBytes  4.92 Mbits/sec    1    116 KBytes       
+[  5]   1.00-2.00   sec  3.63 MBytes  30.4 Mbits/sec    0   1.64 MBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  83.0 MBytes  69.6 Mbits/sec    1             sender
+[  5]   0.00-10.29  sec  82.6 MBytes  67.4 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 02:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38170 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   583 KBytes  4.77 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.82 MBytes  40.4 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.02 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.02 MBytes       
+[  5]   4.00-5.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.02 MBytes       
+[  5]   5.00-6.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.02 MBytes       
+[  5]   6.00-7.00   sec  12.5 MBytes   105 Mbits/sec    0   6.02 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   9.00-10.00  sec  11.2 MBytes  94.4 Mbits/sec    0   6.02 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  87.9 MBytes  73.7 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  87.9 MBytes  71.7 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 03:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38218 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   501 KBytes  4.10 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.40 MBytes  36.9 Mbits/sec    0   1.72 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.8 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  83.6 MBytes  70.2 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  82.4 MBytes  67.3 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 04:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38266 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   646 KBytes  5.29 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  2.69 MBytes  22.6 Mbits/sec    0    950 KBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  6.25 MBytes  52.4 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  6.25 MBytes  52.5 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  6.25 MBytes  52.4 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  6.25 MBytes  52.4 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  62.1 MBytes  52.1 Mbits/sec    0             sender
+[  5]   0.00-10.33  sec  62.0 MBytes  50.4 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 05:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38314 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   516 KBytes  4.23 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  3.35 MBytes  28.1 Mbits/sec    0   1.07 MBytes       
+[  5]   2.00-3.00   sec  6.25 MBytes  52.4 Mbits/sec    0   6.02 MBytes       
+[  5]   3.00-4.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.02 MBytes       
+[  5]   4.00-5.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.02 MBytes       
+[  5]   5.00-6.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.02 MBytes       
+[  5]   6.00-7.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   7.00-8.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.02 MBytes       
+[  5]   8.00-9.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.02 MBytes       
+[  5]   9.00-10.00  sec  8.75 MBytes  73.4 Mbits/sec    0   6.02 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  70.1 MBytes  58.8 Mbits/sec    0             sender
+[  5]   0.00-10.40  sec  69.6 MBytes  56.1 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 06:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38366 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   752 KBytes  6.16 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  3.88 MBytes  32.6 Mbits/sec    0   1.21 MBytes       
+[  5]   2.00-3.00   sec  5.00 MBytes  41.9 Mbits/sec    0   5.16 MBytes       
+[  5]   3.00-4.00   sec  6.25 MBytes  52.5 Mbits/sec    0   5.16 MBytes       
+[  5]   4.00-5.00   sec  6.25 MBytes  52.4 Mbits/sec    0   5.16 MBytes       
+[  5]   5.00-6.00   sec  7.50 MBytes  62.9 Mbits/sec    0   5.16 MBytes       
+[  5]   6.00-7.00   sec  6.25 MBytes  52.4 Mbits/sec    0   5.16 MBytes       
+[  5]   7.00-8.00   sec  8.75 MBytes  73.4 Mbits/sec    0   5.16 MBytes       
+[  5]   8.00-9.00   sec  7.50 MBytes  62.9 Mbits/sec    0   5.16 MBytes       
+[  5]   9.00-10.00  sec  8.75 MBytes  73.4 Mbits/sec    0   5.16 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  60.9 MBytes  51.1 Mbits/sec    0             sender
+[  5]   0.00-10.38  sec  60.6 MBytes  49.0 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 07:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38414 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   594 KBytes  4.86 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  3.33 MBytes  27.9 Mbits/sec    0   1.27 MBytes       
+[  5]   2.00-3.00   sec  5.00 MBytes  41.9 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  3.75 MBytes  31.5 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  6.25 MBytes  52.4 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  6.25 MBytes  52.4 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  6.25 MBytes  52.4 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  6.25 MBytes  52.4 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  6.25 MBytes  52.4 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  52.7 MBytes  44.2 Mbits/sec    0             sender
+[  5]   0.00-10.37  sec  52.0 MBytes  42.1 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 08:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38462 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   532 KBytes  4.35 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.58 MBytes  38.4 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.01 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.01 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.01 MBytes       
+[  5]   5.00-6.00   sec  8.75 MBytes  73.4 Mbits/sec   10   1.43 MBytes       
+[  5]   6.00-7.00   sec  7.50 MBytes  62.9 Mbits/sec    0   4.21 MBytes       
+[  5]   7.00-8.00   sec  8.75 MBytes  73.4 Mbits/sec    0   4.21 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   4.21 MBytes       
+[  5]   9.00-10.00  sec  7.50 MBytes  62.9 Mbits/sec    0   4.21 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  76.3 MBytes  64.0 Mbits/sec   10             sender
+[  5]   0.00-10.28  sec  76.3 MBytes  62.3 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 09:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38510 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   706 KBytes  5.78 Mbits/sec    0    124 KBytes       
+[  5]   1.00-2.00   sec  3.74 MBytes  31.4 Mbits/sec    0   1.94 MBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  83.2 MBytes  69.8 Mbits/sec    0             sender
+[  5]   0.00-10.34  sec  82.4 MBytes  66.9 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 10:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38558 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   725 KBytes  5.94 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.58 MBytes  38.4 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.5 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  8.75 MBytes  73.3 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  10.0 MBytes  83.8 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  8.75 MBytes  73.4 Mbits/sec    1   4.20 MBytes       
+[  5]   9.00-10.00  sec  7.50 MBytes  62.9 Mbits/sec    0   4.20 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  80.3 MBytes  67.3 Mbits/sec    1             sender
+[  5]   0.00-10.29  sec  80.3 MBytes  65.4 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 11:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38606 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   731 KBytes  5.99 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  3.92 MBytes  32.9 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.04 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.04 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.04 MBytes       
+[  5]   5.00-6.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.04 MBytes       
+[  5]   6.00-7.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.04 MBytes       
+[  5]   7.00-8.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.04 MBytes       
+[  5]   8.00-9.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.04 MBytes       
+[  5]   9.00-10.00  sec  12.5 MBytes   105 Mbits/sec    0   6.04 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  85.9 MBytes  72.0 Mbits/sec    0             sender
+[  5]   0.00-10.27  sec  85.1 MBytes  69.5 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 12:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38654 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   611 KBytes  5.00 Mbits/sec    0    124 KBytes       
+[  5]   1.00-2.00   sec  4.82 MBytes  40.4 Mbits/sec    0   1.94 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  11.2 MBytes  94.3 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  85.4 MBytes  71.6 Mbits/sec    0             sender
+[  5]   0.00-10.27  sec  84.7 MBytes  69.2 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 13:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38702 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   744 KBytes  6.09 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.16 MBytes  34.9 Mbits/sec    0   1.76 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  84.9 MBytes  71.2 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  84.1 MBytes  68.7 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 14:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38750 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   717 KBytes  5.87 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.16 MBytes  34.9 Mbits/sec    0   1.76 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.07 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.07 MBytes       
+[  5]   4.00-5.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.07 MBytes       
+[  5]   5.00-6.00   sec  12.5 MBytes   105 Mbits/sec    0   6.07 MBytes       
+[  5]   6.00-7.00   sec  8.75 MBytes  73.3 Mbits/sec    0   6.07 MBytes       
+[  5]   7.00-8.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.07 MBytes       
+[  5]   8.00-9.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.07 MBytes       
+[  5]   9.00-10.00  sec  11.2 MBytes  94.4 Mbits/sec    0   6.07 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  84.9 MBytes  71.2 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  83.9 MBytes  68.5 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 15:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38798 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   550 KBytes  4.51 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  3.63 MBytes  30.4 Mbits/sec    0    905 KBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.03 MBytes       
+[  5]   3.00-4.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.03 MBytes       
+[  5]   4.00-5.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.03 MBytes       
+[  5]   5.00-6.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.03 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.03 MBytes       
+[  5]   7.00-8.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.03 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.03 MBytes       
+[  5]   9.00-10.00  sec  11.2 MBytes  94.3 Mbits/sec    0   6.03 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  82.9 MBytes  69.5 Mbits/sec    0             sender
+[  5]   0.00-10.27  sec  82.2 MBytes  67.1 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 16:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38846 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   744 KBytes  6.09 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  2.97 MBytes  24.9 Mbits/sec    0    905 KBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  82.4 MBytes  69.2 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  82.2 MBytes  67.1 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 17:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38894 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   686 KBytes  5.61 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  3.86 MBytes  32.4 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.02 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.02 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   5.00-6.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.02 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   8.00-9.00   sec  11.2 MBytes  94.3 Mbits/sec    0   6.02 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  87.0 MBytes  73.0 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  87.0 MBytes  71.0 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 18:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38942 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   744 KBytes  6.09 Mbits/sec    0    124 KBytes       
+[  5]   1.00-2.00   sec  2.02 MBytes  16.9 Mbits/sec    0    461 KBytes       
+[  5]   2.00-3.00   sec  3.09 MBytes  25.9 Mbits/sec    0    557 KBytes       
+[  5]   3.00-4.00   sec  1.19 MBytes  9.96 Mbits/sec    0    653 KBytes       
+[  5]   4.00-5.00   sec  2.50 MBytes  21.0 Mbits/sec    0    779 KBytes       
+[  5]   5.00-6.00   sec  3.75 MBytes  31.5 Mbits/sec    0    915 KBytes       
+[  5]   6.00-7.00   sec  0.00 Bytes  0.00 bits/sec    5    789 KBytes       
+[  5]   7.00-8.00   sec  2.50 MBytes  21.0 Mbits/sec    0    747 KBytes       
+[  5]   8.00-9.00   sec  3.75 MBytes  31.5 Mbits/sec    0    824 KBytes       
+[  5]   9.00-10.00  sec  2.50 MBytes  21.0 Mbits/sec    0    875 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  22.0 MBytes  18.5 Mbits/sec    5             sender
+[  5]   0.00-10.28  sec  19.7 MBytes  16.0 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 19:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 38990 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   706 KBytes  5.77 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.10 MBytes  34.4 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.02 MBytes       
+[  5]   3.00-4.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   4.00-5.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.02 MBytes       
+[  5]   5.00-6.00   sec  10.0 MBytes  83.8 Mbits/sec    0   6.02 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.02 MBytes       
+[  5]   7.00-8.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.02 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   9.00-10.00  sec  11.2 MBytes  94.3 Mbits/sec    0   6.02 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  88.5 MBytes  74.3 Mbits/sec    0             sender
+[  5]   0.00-10.29  sec  87.8 MBytes  71.6 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 20:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39038 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   735 KBytes  6.02 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.28 MBytes  35.9 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  12.5 MBytes   105 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.8 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  85.0 MBytes  71.3 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  85.0 MBytes  69.3 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 21:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39086 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   532 KBytes  4.35 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.63 MBytes  38.9 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.02 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.02 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   5.00-6.00   sec  11.2 MBytes  94.3 Mbits/sec    0   6.02 MBytes       
+[  5]   6.00-7.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   8.00-9.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.02 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  86.4 MBytes  72.5 Mbits/sec    0             sender
+[  5]   0.00-10.30  sec  86.0 MBytes  70.1 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 22:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39134 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   744 KBytes  6.09 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.22 MBytes  35.4 Mbits/sec    0   1.72 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.01 MBytes       
+[  5]   3.00-4.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.01 MBytes       
+[  5]   4.00-5.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.01 MBytes       
+[  5]   5.00-6.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.01 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.01 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.01 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.01 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.01 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  82.4 MBytes  69.2 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  82.2 MBytes  67.1 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-01 23:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39182 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   744 KBytes  6.09 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.22 MBytes  35.4 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  86.2 MBytes  72.3 Mbits/sec    0             sender
+[  5]   0.00-10.29  sec  86.1 MBytes  70.2 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-02 00:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39230 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   706 KBytes  5.78 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  3.41 MBytes  28.6 Mbits/sec    0   1.28 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.02 MBytes       
+[  5]   3.00-4.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   5.00-6.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.3 Mbits/sec    0   6.02 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.02 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  82.9 MBytes  69.5 Mbits/sec    0             sender
+[  5]   0.00-10.29  sec  82.2 MBytes  67.1 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-02 01:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39278 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   735 KBytes  6.02 Mbits/sec    0    124 KBytes       
+[  5]   1.00-2.00   sec  4.70 MBytes  39.4 Mbits/sec    0   1.94 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.04 MBytes       
+[  5]   3.00-4.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.04 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.04 MBytes       
+[  5]   5.00-6.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.04 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.04 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.04 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.04 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.04 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  84.2 MBytes  70.6 Mbits/sec    0             sender
+[  5]   0.00-10.27  sec  83.9 MBytes  68.5 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-02 02:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39326 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   501 KBytes  4.10 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec   669 KBytes  5.48 Mbits/sec    0    153 KBytes       
+[  5]   2.00-3.00   sec   730 KBytes  5.97 Mbits/sec    0    177 KBytes       
+[  5]   3.00-4.00   sec   790 KBytes  6.48 Mbits/sec    0    215 KBytes       
+[  5]   4.00-5.00   sec   973 KBytes  7.97 Mbits/sec    0    249 KBytes       
+[  5]   5.00-6.00   sec  1.13 MBytes  9.46 Mbits/sec    0    301 KBytes       
+[  5]   6.00-7.00   sec  1.31 MBytes  11.0 Mbits/sec    0    362 KBytes       
+[  5]   7.00-8.00   sec  1.54 MBytes  13.0 Mbits/sec    0    424 KBytes       
+[  5]   8.00-9.00   sec  1.84 MBytes  15.4 Mbits/sec    0    508 KBytes       
+[  5]   9.00-10.00  sec  2.14 MBytes  17.9 Mbits/sec    0    604 KBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  11.5 MBytes  9.67 Mbits/sec    0             sender
+[  5]   0.00-10.29  sec  10.1 MBytes  8.22 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-02 03:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39374 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   683 KBytes  5.59 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  2.97 MBytes  24.9 Mbits/sec    0   1.03 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  77.4 MBytes  64.9 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  77.4 MBytes  63.2 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-02 04:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39422 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   489 KBytes  4.01 Mbits/sec    0    102 KBytes       
+[  5]   1.00-2.00   sec  4.46 MBytes  37.4 Mbits/sec    0   1.59 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  78.7 MBytes  66.0 Mbits/sec    0             sender
+[  5]   0.00-10.34  sec  78.6 MBytes  63.8 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-02 05:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39470 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   629 KBytes  5.15 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  3.51 MBytes  29.4 Mbits/sec    0   1.04 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  72.9 MBytes  61.1 Mbits/sec    0             sender
+[  5]   0.00-10.32  sec  72.9 MBytes  59.2 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-02 06:54:01
+2023-10-02 07:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39568 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   748 KBytes  6.13 Mbits/sec    0    124 KBytes       
+[  5]   1.00-2.00   sec  4.16 MBytes  34.9 Mbits/sec    0   1.82 MBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.04 MBytes       
+[  5]   3.00-4.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.04 MBytes       
+[  5]   4.00-5.00   sec  11.2 MBytes  94.3 Mbits/sec    0   6.04 MBytes       
+[  5]   5.00-6.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.04 MBytes       
+[  5]   6.00-7.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.04 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.04 MBytes       
+[  5]   8.00-9.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.04 MBytes       
+[  5]   9.00-10.00  sec  8.75 MBytes  73.4 Mbits/sec    0   6.04 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  83.6 MBytes  70.2 Mbits/sec    0             sender
+[  5]   0.00-10.27  sec  83.2 MBytes  67.9 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-02 08:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39616 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   697 KBytes  5.71 Mbits/sec    0    122 KBytes       
+[  5]   1.00-2.00   sec  1.48 MBytes  12.4 Mbits/sec    0    346 KBytes       
+[  5]   2.00-3.00   sec  1.60 MBytes  13.4 Mbits/sec    0    409 KBytes       
+[  5]   3.00-4.00   sec  1.78 MBytes  14.9 Mbits/sec    0    482 KBytes       
+[  5]   4.00-5.00   sec  2.08 MBytes  17.4 Mbits/sec    0    576 KBytes       
+[  5]   5.00-6.00   sec  2.43 MBytes  20.4 Mbits/sec    0    675 KBytes       
+[  5]   6.00-7.00   sec  2.50 MBytes  21.0 Mbits/sec    0    810 KBytes       
+[  5]   7.00-8.00   sec  2.50 MBytes  21.0 Mbits/sec    0    950 KBytes       
+[  5]   8.00-9.00   sec  3.75 MBytes  31.5 Mbits/sec    0   1.09 MBytes       
+[  5]   9.00-10.00  sec  3.75 MBytes  31.5 Mbits/sec    0   1.28 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  22.6 MBytes  18.9 Mbits/sec    0             sender
+[  5]   0.00-10.27  sec  21.2 MBytes  17.3 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-02 09:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39664 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   563 KBytes  4.61 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.69 MBytes  39.4 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  10.0 MBytes  83.8 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  86.5 MBytes  72.6 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  86.5 MBytes  70.6 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-02 10:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39712 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   686 KBytes  5.62 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  3.86 MBytes  32.4 Mbits/sec    0   1.75 MBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  11.2 MBytes  94.3 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  84.5 MBytes  70.9 Mbits/sec    0             sender
+[  5]   0.00-10.27  sec  83.3 MBytes  68.0 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-02 11:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39760 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   563 KBytes  4.61 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  4.93 MBytes  41.4 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  12.5 MBytes   105 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  88.0 MBytes  73.8 Mbits/sec    0             sender
+[  5]   0.00-10.27  sec  87.8 MBytes  71.7 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-02 12:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39808 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   778 KBytes  6.37 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  3.09 MBytes  25.9 Mbits/sec    0   1.28 MBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.08 MBytes       
+[  5]   3.00-4.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.08 MBytes       
+[  5]   4.00-5.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.08 MBytes       
+[  5]   5.00-6.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.08 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.08 MBytes       
+[  5]   7.00-8.00   sec  10.0 MBytes  83.8 Mbits/sec    0   6.08 MBytes       
+[  5]   8.00-9.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.08 MBytes       
+[  5]   9.00-10.00  sec  10.0 MBytes  83.9 Mbits/sec    0   6.08 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  82.6 MBytes  69.3 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  82.3 MBytes  67.2 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-02 13:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39856 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   573 KBytes  4.69 Mbits/sec    0    124 KBytes       
+[  5]   1.00-2.00   sec  3.63 MBytes  30.4 Mbits/sec    0   1.71 MBytes       
+[  5]   2.00-3.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   3.00-4.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   4.00-5.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   5.00-6.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   6.00-7.00   sec  10.0 MBytes  83.9 Mbits/sec    0   6.00 MBytes       
+[  5]   7.00-8.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+[  5]   8.00-9.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.00 MBytes       
+[  5]   9.00-10.00  sec  11.2 MBytes  94.4 Mbits/sec    0   6.00 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  85.4 MBytes  71.7 Mbits/sec    0             sender
+[  5]   0.00-10.27  sec  85.3 MBytes  69.7 Mbits/sec                  receiver
+
+iperf Done.
+2023-10-02 14:54:01
+Connecting to host sgp1.iperf.comnet-student.eu, port 5201
+[  5] local 172.17.175.205 port 39904 connected to 188.166.241.168 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.00   sec   704 KBytes  5.77 Mbits/sec    0    113 KBytes       
+[  5]   1.00-2.00   sec  3.98 MBytes  33.4 Mbits/sec    0   1.77 MBytes       
+[  5]   2.00-3.00   sec  7.50 MBytes  62.9 Mbits/sec    0   6.01 MBytes       
+[  5]   3.00-4.00   sec  12.5 MBytes   105 Mbits/sec    0   6.01 MBytes       
+[  5]   4.00-5.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.01 MBytes       
+[  5]   5.00-6.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.01 MBytes       
+[  5]   6.00-7.00   sec  11.2 MBytes  94.4 Mbits/sec    0   6.01 MBytes       
+[  5]   7.00-8.00   sec  8.75 MBytes  73.4 Mbits/sec    0   6.01 MBytes       
+[  5]   8.00-9.00   sec  12.5 MBytes   105 Mbits/sec    0   6.01 MBytes       
+[  5]   9.00-10.00  sec  8.75 MBytes  73.4 Mbits/sec    0   6.01 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  85.9 MBytes  72.1 Mbits/sec    0             sender
+[  5]   0.00-10.28  sec  85.9 MBytes  70.1 Mbits/sec                  receiver
+
+iperf Done.

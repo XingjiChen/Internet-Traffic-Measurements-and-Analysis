@@ -1,0 +1,3032 @@
+2023-09-27 12:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 61983
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 6c2a125c764df456010000006513fbe1f4a66f966ea1da7d (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322285 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Wed Sep 27 12:54:41 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 16.410200 1.044784 0.999718
+2023-09-27 13:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 10004
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: be540b60f191b27c01000000651409e43b6807e83fb1e273 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 306800 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Wed Sep 27 13:54:29 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.191081 2.841170 2.819277
+2023-09-27 14:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 7187
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 6308479ab1f36ff201000000651417f32de534d018eb30a5 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307191 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Wed Sep 27 14:54:28 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.124918 1.780938 1.753953
+2023-09-27 15:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 57964
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 48d1df5a4fd643f801000000651426032decdc8e42f7c54b (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307074 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Wed Sep 27 15:54:27 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.392769 2.043346 2.018237
+2023-09-27 16:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 52975
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: ad59010193bf3b99010000006514341b737ba73b97fc66d5 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 2855592 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Wed Sep 27 16:54:35 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 10.717499 2.818339 2.787209
+2023-09-27 17:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 26726
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 72241581537a3e030100000065144234d59fde66a1ba4eb5 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322146 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Wed Sep 27 17:54:44 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.715431 3.166330 3.133076
+2023-09-27 18:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 46642
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: d4b81b5fa5ad109c0100000065145043e5856e7c6f85416d (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322289 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Wed Sep 27 18:54:43 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.213660 1.829305 1.809320
+2023-09-27 19:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 45213
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: ab95668e91abdf260100000065145e433d1455bc8992d3ad (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 310898 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Wed Sep 27 19:54:27 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.454801 2.103614 2.083038
+2023-09-27 20:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 45981
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 9426329d27a9402c0100000065146c54794690d185fd8d5c (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 313635 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Wed Sep 27 20:54:28 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.866877 2.513852 2.484891
+2023-09-27 21:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 58211
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: b0ec8c0d2a773b8e0100000065147a6657c4ddef323315fe (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 312036 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Wed Sep 27 21:54:30 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 4.583724 4.236082 4.204645
+2023-09-27 22:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 11930
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 8d38c3359106672001000000651488747905aa35f71d9e9b (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 311857 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Wed Sep 27 22:54:28 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.460528 2.110535 2.075281
+2023-09-27 23:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 63088
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: b7c21b1dccc457fe01000000651496854ad390d669060395 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307375 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Wed Sep 27 23:54:29 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.363665 3.011800 2.990796
+2023-09-28 00:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 11245
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 34aa9a54097f26cf010000006514a4930679c239b35e480c (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307526 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 00:54:27 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 1.901954 1.558731 1.532510
+2023-09-28 01:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 49305
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 80f4b6fd200eb66d010000006514b2b38ede5e52c8316d7f (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323054 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 01:54:44 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.027488 2.642843 2.614616
+2023-09-28 02:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 40333
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: e453f2ce9067a535010000006514c0b5ed74f76e4aeaa856 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 309806 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 02:54:29 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.923917 2.566371 2.545763
+2023-09-28 03:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 38040
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 73486a4c4de3a175010000006514cec4c4c7646095b84caa (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 310056 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 03:54:29 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.537176 2.164185 2.108673
+2023-09-28 04:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 46111
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 1c9b7eabc0efe57b010000006514dcd40785097e5ff5b1fa (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 308243 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 04:54:29 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.731262 2.356002 2.299934
+2023-09-28 05:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 37881
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: e3a426d8ba32ccd0010000006514eaf4c5d2468e261a00d1 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322316 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 05:54:44 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.181420 2.781094 2.717325
+2023-09-28 06:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 48685
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 1ab07cbd471d332b010000006514f8f4c0653c580a6292a9 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 310142 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 06:54:29 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.472748 2.092974 2.030705
+2023-09-28 07:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 32766
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: eb74056a83c012540100000065150705858fc5e64e653289 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307086 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 07:54:29 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.838523 2.486966 2.431577
+2023-09-28 08:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 59630
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 872b435cbe6229120100000065151523c919557fca0a3364 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322373 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 08:54:43 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.441614 2.045758 1.989169
+2023-09-28 09:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 55473
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 99f301322ad7698901000000651523256c41ae0830fd5e71 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 308348 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 09:54:29 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.012272 2.664742 2.643618
+2023-09-28 10:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 24841
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: e35dd9a7d5911a160100000065153135aab17d8aae74af1c (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 308449 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 10:54:29 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.454808 2.105688 2.085946
+2023-09-28 11:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 8093
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: e1dc5ed4e62a79040100000065153f46dfa300ca2edc41a9 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 309694 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 11:54:30 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.883128 2.540399 2.516643
+2023-09-28 12:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 38395
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: c9ec4cbd6178a9420100000065154d569e116c50badbc8a3 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307299 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 12:54:30 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.371982 2.794668 2.769144
+2023-09-28 13:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 64837
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 3d7594c8bb9167340100000065155b65dee11aba6ff609a4 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 306976 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 13:54:29 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.632363 2.282012 2.251787
+2023-09-28 14:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 41596
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 021b8025d7f390b00100000065156975be635a815de54986 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307355 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 14:54:30 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.154739 2.803646 2.778500
+2023-09-28 15:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 28605
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 0076ff78f8fc3a710100000065157785ad40a777c31607d9 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 309687 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 15:54:29 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.756377 2.398206 2.355434
+2023-09-28 16:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 25883
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 91cb87937010a7e801000000651585a5867030a634749633 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322330 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 16:54:45 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.423232 2.995798 2.965157
+2023-09-28 17:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 6230
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 951e51bab2f398fa01000000651593a5998e699b2b449890 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307044 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 17:54:29 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.330924 1.968921 1.939560
+2023-09-28 18:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 15582
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 6211af198534d7c4010000006515a1b6913a6b2df5546dac (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307099 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 18:54:30 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.819891 3.474066 3.451652
+2023-09-28 19:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 17883
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 2aeb3e2fb5ddf1ec010000006515afc5571a7c06bee52608 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307433 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 19:54:29 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.321709 1.975908 1.947546
+2023-09-28 20:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 15510
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: f0b583dec600a312010000006515bdd7ab6f2d5bd6123d69 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 308334 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 20:54:31 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.403171 3.052400 3.020640
+2023-09-28 21:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 1155
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 122b80a8353407a5010000006515cbf3e523e0ecf8ef6c84 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 318565 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 21:54:44 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.022851 1.645344 1.622983
+2023-09-28 22:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 61807
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 0d6f090f56451c24010000006515da05bb26a1fade77fa7c (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322531 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 22:54:45 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.781484 2.404707 2.373393
+2023-09-28 23:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 61802
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 99e12052d68eb168010000006515e814897000ed28a321b4 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323649 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Thu Sep 28 23:54:44 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.341461 1.972529 1.940033
+2023-09-29 00:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 34028
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: c01a9ea4e94af0b6010000006515f616c2ed38274c6af635 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307052 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 00:54:30 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.252674 2.899284 2.880281
+2023-09-29 01:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 22655
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 495a0b7bfe5764b1010000006516042568a75e1ed90c788e (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 308260 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 01:54:29 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.072888 1.713123 1.689608
+2023-09-29 02:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 24222
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: dbab8ab7025164d50100000065161237a911265dc02e4da0 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 308256 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 02:54:31 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.010142 2.665596 2.634461
+2023-09-29 03:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 34754
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: df8a526f6d26a25b01000000651620453feac10aeef72319 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307156 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 03:54:30 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.180158 1.838351 1.809021
+2023-09-29 04:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 61342
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 2fba017d931521c30100000065162e562d3d59bdc5424516 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307841 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 04:54:30 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.112062 2.747805 2.671499
+2023-09-29 05:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 58138
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 3c41fe2e40be127f0100000065163c67963b2ed3b382cc27 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 309784 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 05:54:31 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.218775 2.862168 2.827323
+2023-09-29 06:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 55757
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: c2b1e41f4b0464760100000065164a76e1ebffb0691cec2e (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307132 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 06:54:30 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.382792 1.936722 1.858179
+2023-09-29 07:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 10420
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 46fd5fcea6382b6f010000006516588750e23c33ea865b3d (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 306997 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 07:54:31 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.168012 2.821102 2.792607
+2023-09-29 08:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 1517
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 53c068e0e5a1250a010000006516669611fd0df647a15a06 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 308317 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 08:54:30 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.533235 2.109910 2.071546
+2023-09-29 09:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 9918
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 95b8a5b2e3e7d7ba01000000651674a7179ff7e13edb2082 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 309877 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 09:54:31 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.852322 3.423712 3.382608
+2023-09-29 10:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 32379
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 86bdc9f78e07fc7401000000651682b756167c3a9a8ed30f (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 306752 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 10:54:31 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.210996 2.857465 2.833109
+2023-09-29 11:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 49314
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 86219362323e42b601000000651690c69406527b656b2ee9 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 309827 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 11:54:30 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.359958 2.014758 1.988414
+2023-09-29 12:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 52247
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: ea2c4b6b0a0c87990100000065169ee6b352c8aac8db5cd8 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323951 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 12:54:47 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.328664 2.878717 2.861946
+2023-09-29 13:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 13764
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: abe5e6e2cd714582010000006516acf6743f8c948a650ce9 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322474 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 13:54:47 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.148616 2.766665 2.739943
+2023-09-29 14:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 28909
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: d8151b24966cb7d9010000006516baf66ea498d6ecb41091 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307908 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 14:54:31 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.682685 2.338470 2.306401
+2023-09-29 15:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 63459
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 7916bf54ccbff5a4010000006516c907b33edb2f9229b314 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 310158 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 15:54:31 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.035796 2.684364 2.660421
+2023-09-29 16:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 32620
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 02377e897bd9b4ab010000006516d717e14021453ea39291 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 309547 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 16:54:32 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.011883 2.665096 2.641340
+2023-09-29 17:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 63285
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 6dc5814c245db423010000006516e5286b2dc96564bed718 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307455 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 17:54:32 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.371926 3.025031 2.996016
+2023-09-29 18:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 13526
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 174dbab06bb50d94010000006516f336dee9593e80a8dcaa (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 309818 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 18:54:30 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.087568 1.738668 1.716905
+2023-09-29 19:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 62454
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 16f64b9ad7fd395c0100000065170146ae2ceb7d69f7a74f (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 308234 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 19:54:30 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.443048 2.087750 2.064658
+2023-09-29 20:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 9902
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: a238bd1b8d48bb360100000065170f575cf48dafc7622f4f (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307152 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 20:54:31 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.904933 2.562185 2.536146
+2023-09-29 21:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 45320
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 1b4e58fbf12076040100000065171d6781373a5c71ed7dc9 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 309931 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 21:54:31 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.571421 2.225720 2.199358
+2023-09-29 22:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 9942
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: a977e7a742efaa710100000065172b874cdbacaf14470b79 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323628 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 22:54:47 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.502974 3.123523 3.094905
+2023-09-29 23:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 51347
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 47c873fa07a8908a0100000065173986881c067c9eb34732 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 308024 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Fri Sep 29 23:54:30 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 1.920620 1.578826 1.548524
+2023-09-30 00:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 63133
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 80f2bc2c44fe64c00100000065174798d757f8271fe841d6 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307463 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 00:54:33 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.779909 3.434548 3.414326
+2023-09-30 01:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 59391
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: f7f83e2dbf831a3101000000651755b78f08a69c5094094c (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322033 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 01:54:47 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.140331 2.768079 2.735244
+2023-09-30 02:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 13057
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 197e48b1e15b1ee601000000651763c6280ece5c969ea450 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323479 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 02:54:46 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.124794 1.736680 1.714010
+2023-09-30 03:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 35719
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 236d0321f8cd702e01000000651771d76f3df224d9752259 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323629 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 03:54:47 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.474963 3.077463 3.017362
+2023-09-30 04:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 24851
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 4d9a6d75c28f804d0100000065177fe7e6bf79ad857913b9 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323701 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 04:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.421540 2.935820 2.714891
+2023-09-30 05:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 49539
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: fcfabceacdeffc2c0100000065178df76f1daff8762b0c2c (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323588 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 05:54:47 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.504225 3.116680 3.064633
+2023-09-30 06:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 4587
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 211bcf4d356ea20a0100000065179bf8c964cd704ce7241a (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 308404 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 06:54:32 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.686746 2.313477 2.167970
+2023-09-30 07:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 37755
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 923b47fc48c79944010000006517aa16686d578e0f9ae1f4 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323543 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 07:54:46 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.619035 2.234606 2.204245
+2023-09-30 08:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 63625
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: e9bdd1ce7b1ec8b3010000006517b82682b56760b5478cd9 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 325164 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 08:54:47 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.722319 2.323760 2.228969
+2023-09-30 09:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 23235
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 6fce86d5376501c1010000006517c63741ee0891d865ff25 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322529 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 09:54:47 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.217848 2.841780 2.817989
+2023-09-30 10:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 33543
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 883f106a9fa5000b010000006517d44715128deda48a7d1c (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323603 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 10:54:47 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.760658 2.325519 2.287709
+2023-09-30 11:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 14972
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: a4e85d8999b0ce1e010000006517e25664ecdf80f2e4bdcf (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322562 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 11:54:46 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.502177 2.073422 2.048655
+2023-09-30 12:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 7357
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 9c109ee272391867010000006517f0677f1b031474664a72 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322795 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 12:54:47 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.412747 2.847041 2.825274
+2023-09-30 13:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 32107
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 6affc993ac9880a0010000006517fe77ad824db6cfa8e56a (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322694 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 13:54:47 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.601687 2.229661 2.211284
+2023-09-30 14:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 42976
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 607e23f712f9cb350100000065180c8836cc79b08ff04f1f (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 325577 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 14:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.400189 3.021072 2.987959
+2023-09-30 15:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 54991
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: b8362f9b872b153e0100000065181a96d30ee020e1761d82 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 325571 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 15:54:46 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.139565 1.761811 1.733918
+2023-09-30 16:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 1708
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 84aeebecad47f33301000000651828a7d001f2bfc381893b (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 324217 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 16:54:47 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.839050 2.454214 2.426844
+2023-09-30 17:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 61939
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 432e0ae5a6e6ce0a01000000651836a884b946a88116c27d (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 308562 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 17:54:32 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.787144 2.434702 2.412033
+2023-09-30 18:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 19755
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 6a39b6fc095daf8201000000651844cb1d78f3e672099b63 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323870 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 18:54:52 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 21.975623 6.599727 6.576006
+2023-09-30 19:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 46656
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 1558beea84ac65e301000000651852cdb941a7f2a6610ad6 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 646954 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 19:54:37 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 7.534665 1.845506 1.821101
+2023-09-30 20:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 6686
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: fef67c419b4f75e801000000651860e79833bba4856bb67d (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322797 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 20:54:47 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.796087 2.407480 2.378427
+2023-09-30 21:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 46801
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: c5f1a3fe245f32950100000065186ee90044e89e0c55799d (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307209 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 21:54:33 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.975234 2.630302 2.601501
+2023-09-30 22:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 45802
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 8a669b606da4b73b0100000065187d025e5bd367d69963c9 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 697317 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 22:54:42 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 13.004314 2.247311 2.221197
+2023-09-30 23:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 64800
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 6083d689dbd167be0100000065188b174d1cb2052f8f164d (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322383 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sat Sep 30 23:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.142455 2.761109 2.737102
+2023-10-01 00:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 63869
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: cbcc1ad0d24fe01401000000651899299c4fbd5b121ac4fd (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323538 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 00:54:49 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.365004 2.982111 2.952290
+2023-10-01 01:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 9329
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 4aed119992f859ca010000006518a73734f62484d9254d6e (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322426 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 01:54:47 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.580657 2.186465 2.153807
+2023-10-01 02:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 62091
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: a32cf20dfa3e0871010000006518b538b1c7f08d111f7aea (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307361 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 02:54:32 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.618111 2.273977 2.255459
+2023-10-01 03:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 10815
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 54a415977c8e7747010000006518c348dd1c6e4ac889410e (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 309795 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 03:54:33 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 2.752762 2.396557 2.370630
+2023-10-01 04:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 30963
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 854040bd7a2a0373010000006518d1690a21a581954d9db6 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 321904 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 04:54:49 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.992867 3.471784 3.355575
+2023-10-01 05:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 17017
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: bd42e6aa8162cfcc010000006518df7708ac5f4307d99353 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 324230 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 05:54:47 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.535999 2.013175 1.937647
+2023-10-01 06:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 56431
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 27cff9618d1b93df010000006518ed88a139a01773f105fb (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 321889 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 06:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.069846 2.664619 2.584554
+2023-10-01 07:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 5502
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 05dfe1cede9e2ea8010000006518fb99dd2436ffe794cca1 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322785 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 07:54:49 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.229935 2.831187 2.804460
+2023-10-01 08:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 25582
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 6709490e648b517b01000000651909a829989315afb42662 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323656 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 08:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.506606 2.126062 2.098444
+2023-10-01 09:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 8363
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: cad847920860976a01000000651917b859a575ee20d43563 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 324121 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 09:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.046605 2.666800 2.638451
+2023-10-01 10:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 2728
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: f07b6f382ee7b90a01000000651925c86161ce1a78787871 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322745 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 10:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.561153 2.179364 2.149321
+2023-10-01 11:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 40781
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: ac206f7d45a843f701000000651933d95fba82c5e36b3654 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322450 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 11:54:49 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.148068 2.760243 2.736381
+2023-10-01 12:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 47429
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 678855d7deb68e2601000000651941e9669448e823b20701 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 324014 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 12:54:49 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.193576 2.489857 2.458574
+2023-10-01 13:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 4372
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 4e9835aff3409db40100000065194ff862379ee9df0c85a9 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323592 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 13:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.545101 2.117534 2.096782
+2023-10-01 14:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 17372
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 4a9fc02ca79d53b70100000065195e080e0de82f282ffb46 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 324007 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 14:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.626085 2.248611 2.228476
+2023-10-01 15:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 39753
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 3b4a1c9e5e0844f50100000065196c18f8afd3e491c38bf6 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 324089 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 15:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.011308 2.631169 2.598801
+2023-10-01 16:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 55830
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 6238dfc1cd46d7400100000065197a2ac919ac83b02860b9 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322305 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 16:54:50 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.394552 3.014916 2.989939
+2023-10-01 17:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 34619
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 0a44a9af1ec5a75d010000006519883a081ccdef4d7ae252 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322217 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 17:54:50 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.615542 3.236802 3.209668
+2023-10-01 18:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 32389
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: d662891163e049150100000065199648791ca8571e48173f (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323884 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 18:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.118946 1.679064 1.635022
+2023-10-01 19:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 29061
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 273849c5ae41d0ca010000006519a459c1b11a3b6c4ed9b5 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322220 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 19:54:49 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.959641 2.584553 2.548816
+2023-10-01 20:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 19475
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 399ed2fd903cb39b010000006519b26876d7ebb7dbb9e6d2 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322120 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 20:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.228756 1.856847 1.818659
+2023-10-01 21:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 53558
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 711041c26b58a789010000006519c079fcf506a80c192bd6 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 324254 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 21:54:49 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.073505 2.694629 2.662311
+2023-10-01 22:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 18562
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: fd30a1e200d91a44010000006519ce880176e9db400fab1f (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323863 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 22:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.099332 1.723946 1.703012
+2023-10-01 23:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 64405
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: f2522da3dbe3fe5d010000006519dc8a55f3010aa371328d (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 307388 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Sun Oct 01 23:54:34 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 3.309681 2.947874 2.917035
+2023-10-02 00:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 42489
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 56234e82cf2e9154010000006519eaa68b0cd71e1ebe7a6c (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 2405762 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Mon Oct 02 00:54:46 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 14.796452 2.332011 2.309539
+2023-10-02 01:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 16795
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: a21057409855c8f1010000006519f8b89040e6c3b00d1df8 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 324683 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Mon Oct 02 01:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.148991 1.773966 1.748415
+2023-10-02 02:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 33555
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: ffb348424e83d41901000000651a06ca6b47d90a41a90d28 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 324957 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Mon Oct 02 02:54:50 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.581776 3.162977 3.070452
+2023-10-02 03:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 32691
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: bb265260aa31fb1901000000651a14d877902beed4f5307f (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323675 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Mon Oct 02 03:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 16.724916 1.335278 1.303370
+2023-10-02 04:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 11177
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: daadaf28db39d07401000000651a22ea108773759a4e7251 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 324140 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Mon Oct 02 04:54:50 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.576842 3.135705 2.987385
+2023-10-02 05:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 34451
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: f06a256249833fb401000000651a30f9a58240296c5466c0 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323183 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Mon Oct 02 05:54:49 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.361925 1.938032 1.877162
+2023-10-02 06:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 5571
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 853b564226cd50c001000000651a3f09c8b46f9c9e7e982a (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 323858 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Mon Oct 02 06:54:50 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.126734 2.746667 2.720486
+2023-10-02 07:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 7410
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: b9d2c2a13c24854d01000000651a4d1811fa93d7f765fd67 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 2879924 usec
+;; SERVER: 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Mon Oct 02 07:54:48 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 15.820979 2.895820 2.861807
+2023-10-02 08:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 5819
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 4bfe5620327c68c301000000651a5b2941710eae155c7d5b (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322488 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Mon Oct 02 08:54:49 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.407626 2.025103 1.952251
+2023-10-02 09:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 60303
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 01f009498cebc99a01000000651a693966fda9b47656c20c (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322527 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Mon Oct 02 09:54:49 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.682904 2.294447 2.269328
+2023-10-02 10:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 49163
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 89db4cf4c9318e5001000000651a774bdf52871d4398694c (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322571 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Mon Oct 02 10:54:51 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.376234 2.989851 2.965118
+2023-10-02 11:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 23443
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: bb59e7788a940c8101000000651a855a1e1dbe0f116696fa (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322747 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Mon Oct 02 11:54:50 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.605740 2.216477 2.188589
+2023-10-02 12:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 30950
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: c9cc8433dd70b15101000000651a9369cba6c2dc2f81b784 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322461 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Mon Oct 02 12:54:49 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.120962 1.706056 1.682100
+2023-10-02 13:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 36974
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: c14d78c010706b3901000000651aa17adfb288aa07f0ef45 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 322484 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Mon Oct 02 13:54:51 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 18.171360 2.792627 2.759591
+2023-10-02 14:54:01
+https://tools.dice.aalto.fi/dig?server=southeast-2.dns-au.st&name=google.com
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+;; communications error to 2406:da1c:306:4700:d0cf:a4f8:f1c7:249e#53: timed out
+
+; <<>> DiG 9.18.16-1~deb12u1-Debian <<>> -u @southeast-2.dns-au.st google.com
+; (2 servers found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: REFUSED, id: 65181
+;; flags: qr rd; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+;; WARNING: recursion requested but not available
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+; COOKIE: 00b8f35afa4ed13b01000000651aaf8a05bbe53f87b66193 (good)
+;; QUESTION SECTION:
+;google.com.			IN	A
+
+;; Query time: 324060 usec
+;; SERVER: 52.63.82.137#53(southeast-2.dns-au.st) (UDP)
+;; WHEN: Mon Oct 02 14:54:50 EEST 2023
+;; MSG SIZE  rcvd: 67
+
+;CURL: 17.652320 2.277049 2.249758

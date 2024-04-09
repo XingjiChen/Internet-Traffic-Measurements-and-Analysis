@@ -1,0 +1,1229 @@
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695808442.391345] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.6 ms
+[1695808442.706200] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.0 ms
+[1695808443.707632] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.0 ms
+[1695808444.711405] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=17.3 ms
+[1695808445.711218] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 14.970/15.667/17.279/0.846 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695812045.260879] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.6 ms
+[1695812045.276599] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.0 ms
+[1695812046.278369] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.1 ms
+[1695812047.278820] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=13.8 ms
+[1695812048.281370] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=14.9 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5108ms
+rtt min/avg/max/mdev = 13.832/14.898/15.574/0.577 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695815643.354200] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=14.8 ms
+[1695815643.372072] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=17.6 ms
+[1695815644.372355] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.8 ms
+[1695815645.375414] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=16.4 ms
+[1695815646.377132] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4496ms
+rtt min/avg/max/mdev = 14.809/16.218/17.612/0.921 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695819243.859821] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.8 ms
+[1695819243.875849] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.5 ms
+[1695819244.877429] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.0 ms
+[1695819245.881419] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=17.4 ms
+[1695819246.879859] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=14.3 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4722ms
+rtt min/avg/max/mdev = 14.335/15.583/17.351/1.006 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695822844.269469] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.4 ms
+[1695822844.285602] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.5 ms
+[1695822845.287362] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.3 ms
+[1695822846.290423] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=16.5 ms
+[1695822847.291335] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.2 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5116ms
+rtt min/avg/max/mdev = 15.295/15.750/16.460/0.476 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695826445.624683] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=71.4 ms
+[1695826445.677592] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=52.6 ms
+[1695826446.733693] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=107 ms
+[1695826447.661181] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=32.4 ms
+[1695826448.644843] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=14.9 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5752ms
+rtt min/avg/max/mdev = 14.930/55.603/106.670/31.805 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695830043.930785] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.5 ms
+[1695830043.950578] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=19.4 ms
+[1695830044.948258] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=14.6 ms
+[1695830045.951610] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=16.7 ms
+[1695830046.950490] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=14.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4420ms
+rtt min/avg/max/mdev = 14.480/16.122/19.378/1.807 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695833643.779021] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.4 ms
+[1695833643.796094] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.5 ms
+[1695833644.796471] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.5 ms
+[1695833645.797480] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.0 ms
+[1695833646.800082] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.8 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4700ms
+rtt min/avg/max/mdev = 14.999/15.647/16.486/0.497 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695837244.346926] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=14.8 ms
+[1695837244.364335] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.8 ms
+[1695837245.365194] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.6 ms
+[1695837246.366934] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.7 ms
+[1695837247.367654] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.1 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5147ms
+rtt min/avg/max/mdev = 14.771/15.594/16.797/0.687 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695840847.186437] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.2 ms
+[1695840847.201284] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.3 ms
+[1695840848.202443] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=13.7 ms
+[1695840849.205975] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.6 ms
+[1695840850.206918] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.4 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4946ms
+rtt min/avg/max/mdev = 13.691/14.835/15.570/0.713 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695844443.716087] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.8 ms
+[1695844443.731440] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.7 ms
+[1695844444.733594] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=14.8 ms
+[1695844445.733753] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=13.8 ms
+[1695844446.735816] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=14.6 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4258ms
+rtt min/avg/max/mdev = 13.802/14.747/15.816/0.641 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695848045.663397] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=17.0 ms
+[1695848045.681395] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.6 ms
+[1695848046.684862] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=17.8 ms
+[1695848047.685648] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=16.5 ms
+[1695848048.687216] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5337ms
+rtt min/avg/max/mdev = 16.461/16.855/17.777/0.492 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695851643.053315] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=14.0 ms
+[1695851643.070444] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.1 ms
+[1695851644.071729] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.4 ms
+[1695851645.072900] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.1 ms
+[1695851646.074477] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.0 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4692ms
+rtt min/avg/max/mdev = 14.024/15.117/16.102/0.670 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695855244.531676] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.1 ms
+[1695855244.549303] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.7 ms
+[1695855245.549868] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.2 ms
+[1695855246.551441] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.2 ms
+[1695855247.554058] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5052ms
+rtt min/avg/max/mdev = 15.068/15.534/16.747/0.619 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695858844.792878] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.8 ms
+[1695858844.808661] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.3 ms
+[1695858845.812817] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=17.4 ms
+[1695858846.812261] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=14.9 ms
+[1695858847.814848] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.1 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5725ms
+rtt min/avg/max/mdev = 14.942/15.911/17.379/0.830 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695862444.212120] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.3 ms
+[1695862444.229772] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=17.4 ms
+[1695862445.229214] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.1 ms
+[1695862446.235485] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=19.9 ms
+[1695862447.242799] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=25.7 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4755ms
+rtt min/avg/max/mdev = 15.138/18.676/25.728/3.923 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695866043.922490] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.5 ms
+[1695866043.971353] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=48.6 ms
+[1695866044.944334] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=19.2 ms
+[1695866045.953735] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=26.8 ms
+[1695866046.942956] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=14.2 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4878ms
+rtt min/avg/max/mdev = 14.165/24.858/48.579/12.652 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695869644.471285] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.9 ms
+[1695869644.488404] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.5 ms
+[1695869645.492999] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=19.4 ms
+[1695869646.492288] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=16.7 ms
+[1695869647.492867] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.4 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5433ms
+rtt min/avg/max/mdev = 15.379/16.989/19.412/1.323 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695873244.147665] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=17.5 ms
+[1695873244.162549] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.6 ms
+[1695873245.165293] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.5 ms
+[1695873246.166475] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=14.6 ms
+[1695873247.170736] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=17.2 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4506ms
+rtt min/avg/max/mdev = 14.561/15.862/17.498/1.256 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695876845.384752] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=20.4 ms
+[1695876845.399736] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.5 ms
+[1695876846.415576] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=28.4 ms
+[1695876847.408816] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=19.9 ms
+[1695876848.413615] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=23.3 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5107ms
+rtt min/avg/max/mdev = 14.509/21.306/28.407/4.545 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695880443.296488] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.5 ms
+[1695880443.342283] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=45.4 ms
+[1695880444.314553] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.4 ms
+[1695880445.316343] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.6 ms
+[1695880446.317363] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=14.7 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5019ms
+rtt min/avg/max/mdev = 14.656/21.305/45.370/12.036 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695884044.683425] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.2 ms
+[1695884044.699226] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.2 ms
+[1695884045.701818] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.5 ms
+[1695884046.704301] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=16.6 ms
+[1695884047.705166] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.8 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5686ms
+rtt min/avg/max/mdev = 15.229/15.676/16.628/0.515 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695887644.114736] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=17.4 ms
+[1695887644.135772] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.1 ms
+[1695887645.138039] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.3 ms
+[1695887646.139777] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.0 ms
+[1695887647.143129] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.4 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 15.013/15.834/17.381/0.925 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695891244.969864] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.0 ms
+[1695891244.986293] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.8 ms
+[1695891245.987262] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.1 ms
+[1695891246.989713] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.7 ms
+[1695891247.989979] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=14.7 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5183ms
+rtt min/avg/max/mdev = 14.743/15.266/15.832/0.427 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695894845.168740] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.7 ms
+[1695894845.184675] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.4 ms
+[1695894846.186624] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.0 ms
+[1695894847.189561] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.8 ms
+[1695894848.190836] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.7 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5142ms
+rtt min/avg/max/mdev = 15.046/15.518/15.765/0.272 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695898444.509702] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.0 ms
+[1695898444.526363] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.7 ms
+[1695898445.526714] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.5 ms
+[1695898446.528116] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=14.8 ms
+[1695898447.530373] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.3 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4430ms
+rtt min/avg/max/mdev = 14.794/15.457/16.037/0.414 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695902047.004127] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=14.6 ms
+[1695902047.021015] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.3 ms
+[1695902048.024941] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=17.8 ms
+[1695902049.023977] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.5 ms
+[1695902050.024563] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=14.9 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6376ms
+rtt min/avg/max/mdev = 14.616/15.807/17.800/1.155 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695905643.208472] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=14.6 ms
+[1695905643.236940] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=28.2 ms
+[1695905644.225984] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.1 ms
+[1695905645.231198] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=18.7 ms
+[1695905646.229564] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.6 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5045ms
+rtt min/avg/max/mdev = 14.647/18.427/28.159/5.065 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695909245.374035] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.0 ms
+[1695909245.391202] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.5 ms
+[1695909246.391896] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=16.0 ms
+[1695909247.396528] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=18.9 ms
+[1695909248.397643] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=18.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4849ms
+rtt min/avg/max/mdev = 14.975/16.987/18.917/1.496 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695912843.773615] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.8 ms
+[1695912843.789165] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.1 ms
+[1695912844.791105] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.3 ms
+[1695912845.792615] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=14.9 ms
+[1695912846.891624] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=112 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4690ms
+rtt min/avg/max/mdev = 14.853/34.703/112.457/38.878 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695916445.567343] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.8 ms
+[1695916445.584925] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.9 ms
+[1695916446.584498] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=14.6 ms
+[1695916447.587309] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=16.1 ms
+[1695916448.588631] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.2 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5645ms
+rtt min/avg/max/mdev = 14.574/15.706/16.823/0.772 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695920044.428432] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.8 ms
+[1695920044.445219] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.3 ms
+[1695920045.446489] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.6 ms
+[1695920046.449627] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=17.4 ms
+[1695920047.450163] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.1 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4987ms
+rtt min/avg/max/mdev = 15.635/16.237/17.381/0.613 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695923645.692404] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.1 ms
+[1695923645.706982] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=13.9 ms
+[1695923646.708525] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=13.9 ms
+[1695923647.711956] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.4 ms
+[1695923648.715357] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.7 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5066ms
+rtt min/avg/max/mdev = 13.904/15.201/16.653/1.117 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695927242.924116] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=10.6 ms
+[1695927242.934583] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=10.2 ms
+[1695927243.936460] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=10.6 ms
+[1695927244.939466] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=12.3 ms
+[1695927245.939458] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=10.00 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4635ms
+rtt min/avg/max/mdev = 9.998/10.769/12.345/0.824 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695930844.459242] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.5 ms
+[1695930844.476469] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.8 ms
+[1695930845.479032] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=16.0 ms
+[1695930846.480159] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.4 ms
+[1695930847.482747] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.1 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5004ms
+rtt min/avg/max/mdev = 15.355/15.945/16.452/0.365 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695934443.362229] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.2 ms
+[1695934443.379655] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.9 ms
+[1695934444.381837] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=16.0 ms
+[1695934445.383721] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=16.1 ms
+[1695934446.385643] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.1 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4548ms
+rtt min/avg/max/mdev = 15.167/15.845/16.122/0.351 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695938044.803842] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=17.4 ms
+[1695938044.820470] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.0 ms
+[1695938045.822255] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.6 ms
+[1695938046.823647] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.4 ms
+[1695938047.826611] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.2 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5265ms
+rtt min/avg/max/mdev = 15.407/16.121/17.448/0.714 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695941643.702904] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.2 ms
+[1695941643.719576] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.7 ms
+[1695941644.721034] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.4 ms
+[1695941645.722221] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=14.9 ms
+[1695941646.723263] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=14.8 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4420ms
+rtt min/avg/max/mdev = 14.754/15.374/16.184/0.515 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695945245.062541] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.8 ms
+[1695945245.079580] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.6 ms
+[1695945246.081431] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.6 ms
+[1695945247.083607] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=16.0 ms
+[1695945248.086152] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.4 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4924ms
+rtt min/avg/max/mdev = 15.557/15.870/16.403/0.314 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695948843.835003] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.4 ms
+[1695948843.852166] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.8 ms
+[1695948844.852931] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=14.9 ms
+[1695948845.856050] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=16.2 ms
+[1695948846.858985] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=17.2 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4260ms
+rtt min/avg/max/mdev = 14.893/15.873/17.153/0.766 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695952444.550584] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=23.5 ms
+[1695952444.567378] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.7 ms
+[1695952445.567908] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=14.6 ms
+[1695952446.569750] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=14.6 ms
+[1695952447.576249] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=19.0 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5423ms
+rtt min/avg/max/mdev = 14.574/17.466/23.520/3.430 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695956044.946727] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=25.7 ms
+[1695956044.961846] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.6 ms
+[1695956045.964794] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=16.0 ms
+[1695956046.976629] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=26.4 ms
+[1695956047.966615] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.2 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5417ms
+rtt min/avg/max/mdev = 14.586/19.568/26.413/5.323 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695959644.106281] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.4 ms
+[1695959644.126580] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=19.0 ms
+[1695959645.125174] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.8 ms
+[1695959646.131705] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=20.5 ms
+[1695959647.129544] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.3 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4393ms
+rtt min/avg/max/mdev = 15.404/17.400/20.505/1.984 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695963245.615765] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=26.6 ms
+[1695963245.630294] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=13.9 ms
+[1695963246.632807] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=14.5 ms
+[1695963247.635609] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.3 ms
+[1695963248.636263] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=14.3 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5560ms
+rtt min/avg/max/mdev = 13.864/16.902/26.598/4.869 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695966844.474758] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.5 ms
+[1695966844.495026] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=19.7 ms
+[1695966845.496241] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=19.1 ms
+[1695966846.503167] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=24.3 ms
+[1695966847.498806] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=18.6 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4525ms
+rtt min/avg/max/mdev = 16.489/19.633/24.265/2.557 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695970446.668447] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=30.0 ms
+[1695970446.686257] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.3 ms
+[1695970447.688211] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=16.8 ms
+[1695970448.800525] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=128 ms
+[1695970449.693551] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=18.4 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5875ms
+rtt min/avg/max/mdev = 16.343/41.845/127.648/43.195 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695974045.066120] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.8 ms
+[1695974045.082715] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.8 ms
+[1695974046.085254] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.9 ms
+[1695974047.086792] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.4 ms
+[1695974048.088963] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5282ms
+rtt min/avg/max/mdev = 15.402/15.655/15.854/0.175 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695977643.323558] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.5 ms
+[1695977643.341302] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.3 ms
+[1695977644.342290] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.0 ms
+[1695977645.345132] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.6 ms
+[1695977646.347396] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.9 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4427ms
+rtt min/avg/max/mdev = 15.027/15.658/16.289/0.415 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695981245.426959] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.2 ms
+[1695981245.441706] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.3 ms
+[1695981246.443459] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=14.1 ms
+[1695981247.445755] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=14.9 ms
+[1695981248.447567] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.3 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5330ms
+rtt min/avg/max/mdev = 14.127/14.768/15.298/0.480 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695984845.410547] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.3 ms
+[1695984845.425993] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.0 ms
+[1695984846.429335] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=16.1 ms
+[1695984847.429911] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.2 ms
+[1695984848.432635] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.0 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5986ms
+rtt min/avg/max/mdev = 15.024/15.731/16.345/0.510 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695988444.099093] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.4 ms
+[1695988444.116195] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.8 ms
+[1695988445.118188] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=17.5 ms
+[1695988446.118366] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.6 ms
+[1695988447.118282] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=14.2 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4125ms
+rtt min/avg/max/mdev = 14.197/15.894/17.470/1.139 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695992044.985533] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.5 ms
+[1695992045.002076] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.2 ms
+[1695992046.004694] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=16.8 ms
+[1695992047.005495] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=16.9 ms
+[1695992048.004164] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.2 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5495ms
+rtt min/avg/max/mdev = 15.157/15.916/16.923/0.771 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695995645.385392] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.7 ms
+[1695995645.402608] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.6 ms
+[1695995646.404725] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=17.0 ms
+[1695995647.404862] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.3 ms
+[1695995648.405433] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=14.7 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5073ms
+rtt min/avg/max/mdev = 14.707/15.870/17.013/0.842 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1695999245.900128] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.0 ms
+[1695999245.915891] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.4 ms
+[1695999246.917428] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=14.9 ms
+[1695999247.919502] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.5 ms
+[1695999248.922710] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5372ms
+rtt min/avg/max/mdev = 14.932/15.652/16.453/0.517 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696002843.468841] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=17.5 ms
+[1696002843.485047] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.7 ms
+[1696002844.487173] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.8 ms
+[1696002845.489633] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=16.6 ms
+[1696002846.490249] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.9 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4739ms
+rtt min/avg/max/mdev = 15.692/16.300/17.488/0.668 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696006443.854643] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=17.1 ms
+[1696006443.871077] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.9 ms
+[1696006444.872368] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.4 ms
+[1696006445.873722] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=14.9 ms
+[1696006446.876279] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.4 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4174ms
+rtt min/avg/max/mdev = 14.949/15.930/17.070/0.748 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696010045.059774] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.4 ms
+[1696010045.074699] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.4 ms
+[1696010046.079439] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=16.3 ms
+[1696010047.081091] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=15.9 ms
+[1696010048.084440] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=17.3 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5118ms
+rtt min/avg/max/mdev = 14.433/15.877/17.261/0.939 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696013643.956458] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.0 ms
+[1696013643.975145] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=17.2 ms
+[1696013645.009823] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=48.6 ms
+[1696013646.018453] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=56.9 ms
+[1696013647.012297] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=49.8 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4516ms
+rtt min/avg/max/mdev = 15.048/37.503/56.887/17.715 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696017246.526246] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.6 ms
+[1696017246.542170] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.5 ms
+[1696017247.566487] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=38.1 ms
+[1696017248.561813] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=26.7 ms
+[1696017249.617161] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=80.8 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6465ms
+rtt min/avg/max/mdev = 15.494/35.333/80.778/24.206 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696020843.039290] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.0 ms
+[1696020843.055800] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.2 ms
+[1696020844.083167] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=41.1 ms
+[1696020845.115181] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=71.1 ms
+[1696020846.144505] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=98.6 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4150ms
+rtt min/avg/max/mdev = 15.236/48.405/98.627/32.380 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696024446.321713] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.9 ms
+[1696024446.337865] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.8 ms
+[1696024447.339034] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.8 ms
+[1696024448.344248] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=19.5 ms
+[1696024449.343447] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.8 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5510ms
+rtt min/avg/max/mdev = 15.776/16.969/19.537/1.374 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696028046.318464] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=14.2 ms
+[1696028046.336846] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=17.1 ms
+[1696028047.408097] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=86.7 ms
+[1696028048.367277] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=44.8 ms
+[1696028049.356085] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=32.1 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4888ms
+rtt min/avg/max/mdev = 14.210/38.980/86.686/26.260 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696031643.495349] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.2 ms
+[1696031643.512306] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.5 ms
+[1696031644.533470] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=34.5 ms
+[1696031645.582074] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=81.1 ms
+[1696031646.546267] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=43.6 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4292ms
+rtt min/avg/max/mdev = 15.493/38.183/81.141/24.020 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696035246.205967] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.7 ms
+[1696035246.224890] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=18.4 ms
+[1696035247.316768] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=108 ms
+[1696035248.341822] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=132 ms
+[1696035249.367994] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=157 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5562ms
+rtt min/avg/max/mdev = 15.701/86.153/156.724/58.481 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696038844.727317] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=14.9 ms
+[1696038844.957794] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=230 ms
+[1696038845.770389] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=41.5 ms
+[1696038846.797841] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=67.1 ms
+[1696038847.764485] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=32.3 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5648ms
+rtt min/avg/max/mdev = 14.900/77.201/230.166/78.316 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696042445.043589] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=26.6 ms
+[1696042445.059418] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.3 ms
+[1696042446.063575] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=17.1 ms
+[1696042447.089629] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=41.2 ms
+[1696042448.156262] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=106 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5069ms
+rtt min/avg/max/mdev = 15.268/41.133/105.502/33.472 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696046044.249222] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.5 ms
+[1696046044.339835] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=90.2 ms
+[1696046045.274664] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=23.5 ms
+[1696046046.311881] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=59.6 ms
+[1696046047.390070] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=137 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4758ms
+rtt min/avg/max/mdev = 15.472/65.084/136.644/44.656 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696049644.006902] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=19.4 ms
+[1696049644.043592] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=36.3 ms
+[1696049645.023891] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=14.9 ms
+[1696049646.082276] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=71.8 ms
+[1696049647.088842] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=76.9 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4954ms
+rtt min/avg/max/mdev = 14.930/43.863/76.871/25.927 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696053243.882414] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=29.3 ms
+[1696053243.897080] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.4 ms
+[1696053244.933952] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=49.5 ms
+[1696053246.008626] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=122 ms
+[1696053247.032202] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=145 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4554ms
+rtt min/avg/max/mdev = 14.372/72.079/145.054/51.959 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696056845.226380] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=17.1 ms
+[1696056845.242103] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.4 ms
+[1696056846.273190] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=43.6 ms
+[1696056847.285469] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=53.9 ms
+[1696056848.287704] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=54.8 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5059ms
+rtt min/avg/max/mdev = 14.414/36.748/54.783/17.621 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696060444.185672] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=18.4 ms
+[1696060445.226453] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=14.9 ms
+[1696060446.273574] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=60.4 ms
+[1696060447.276222] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=61.2 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 4 received, 20% packet loss, time 4527ms
+rtt min/avg/max/mdev = 14.912/38.707/61.181/22.095 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696064043.873871] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.1 ms
+[1696064043.896324] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=20.8 ms
+[1696064044.937266] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=60.1 ms
+[1696064045.913353] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=34.7 ms
+[1696064046.952998] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=73.2 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4486ms
+rtt min/avg/max/mdev = 16.094/40.982/73.198/22.218 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696067644.394525] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.6 ms
+[1696067644.411176] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.6 ms
+[1696067645.413186] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.6 ms
+[1696067646.416674] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=17.6 ms
+[1696067647.448220] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=47.8 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5871ms
+rtt min/avg/max/mdev = 15.586/22.454/47.848/12.720 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696071245.490735] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.0 ms
+[1696071245.506308] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.2 ms
+[1696071246.548594] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=54.9 ms
+[1696071247.571818] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=76.8 ms
+[1696071248.602857] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=107 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5029ms
+rtt min/avg/max/mdev = 14.242/53.496/106.601/35.747 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696074845.462922] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.3 ms
+[1696074845.489099] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=25.6 ms
+[1696074846.486571] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=21.6 ms
+[1696074847.494650] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=28.5 ms
+[1696074848.494180] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=26.0 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4798ms
+rtt min/avg/max/mdev = 15.341/23.421/28.521/4.605 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696078443.198709] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.1 ms
+[1696078443.214463] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.2 ms
+[1696078444.245750] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=44.2 ms
+[1696078445.268068] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=64.9 ms
+[1696078446.298822] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=93.9 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4300ms
+rtt min/avg/max/mdev = 15.166/46.872/93.884/29.979 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696082045.036414] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.7 ms
+[1696082045.053006] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.0 ms
+[1696082046.112255] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=72.6 ms
+[1696082047.106347] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=65.0 ms
+[1696082048.134563] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=92.0 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5334ms
+rtt min/avg/max/mdev = 14.987/52.075/92.040/31.270 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696085644.040681] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.1 ms
+[1696085644.056562] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.4 ms
+[1696085645.090304] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=48.0 ms
+[1696085646.134819] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=91.2 ms
+[1696085647.094015] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=48.7 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4581ms
+rtt min/avg/max/mdev = 15.065/43.675/91.158/27.988 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696089248.922366] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.5 ms
+[1696089248.937683] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.8 ms
+[1696089249.963329] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=39.0 ms
+[1696089250.990776] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=64.8 ms
+[1696089251.942542] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.2 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5054ms
+rtt min/avg/max/mdev = 14.832/30.071/64.784/19.610 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696092843.694911] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.9 ms
+[1696092844.286727] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.3 ms
+[1696092845.289228] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=16.9 ms
+[1696092846.303526] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=29.8 ms
+[1696092847.299068] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=24.2 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4006ms
+rtt min/avg/max/mdev = 15.890/20.616/29.790/5.510 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696096443.867233] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.2 ms
+[1696096443.885027] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.3 ms
+[1696096444.887944] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=16.9 ms
+[1696096445.896053] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=23.9 ms
+[1696096446.896849] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=23.4 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4735ms
+rtt min/avg/max/mdev = 15.237/19.131/23.853/3.701 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696100044.417030] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.2 ms
+[1696100044.434691] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.0 ms
+[1696100045.447701] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=27.7 ms
+[1696100046.477255] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=56.0 ms
+[1696100047.480248] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=57.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5626ms
+rtt min/avg/max/mdev = 15.979/34.657/57.473/18.519 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696103643.927429] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=17.0 ms
+[1696103643.943021] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.0 ms
+[1696103644.968937] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=37.9 ms
+[1696103645.986895] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=54.4 ms
+[1696103647.011559] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=77.0 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4703ms
+rtt min/avg/max/mdev = 13.986/40.062/76.966/23.593 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696107244.520750] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.7 ms
+[1696107244.536758] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.3 ms
+[1696107245.553585] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=31.0 ms
+[1696107246.607485] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=83.4 ms
+[1696107247.620187] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=94.3 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5905ms
+rtt min/avg/max/mdev = 15.340/47.973/94.339/34.062 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696110846.272925] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.3 ms
+[1696110846.288927] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.3 ms
+[1696110847.361919] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=85.2 ms
+[1696110848.398405] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=120 ms
+[1696110849.427103] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=147 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5930ms
+rtt min/avg/max/mdev = 14.299/76.619/147.307/53.788 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696114444.012068] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=26.4 ms
+[1696114444.030897] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.0 ms
+[1696114445.032243] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.4 ms
+[1696114446.075277] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=56.1 ms
+[1696114447.096159] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=74.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4005ms
+rtt min/avg/max/mdev = 15.389/37.671/74.536/23.629 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696118043.552253] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.0 ms
+[1696118043.567708] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.9 ms
+[1696118044.568521] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=13.8 ms
+[1696118045.574512] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=18.0 ms
+[1696118046.574563] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=16.2 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4988ms
+rtt min/avg/max/mdev = 13.840/15.589/18.025/1.424 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696121644.198825] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.3 ms
+[1696121644.216386] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.8 ms
+[1696121645.230815] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=29.1 ms
+[1696121646.261457] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=58.0 ms
+[1696121647.220487] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4899ms
+rtt min/avg/max/mdev = 15.541/26.968/58.046/16.366 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696125245.351776] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.5 ms
+[1696125245.518750] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=166 ms
+[1696125246.430898] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=77.0 ms
+[1696125247.393170] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=38.1 ms
+[1696125248.372160] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=15.4 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5649ms
+rtt min/avg/max/mdev = 15.444/62.500/166.495/56.652 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696128843.130505] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=23.6 ms
+[1696128843.181553] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=50.1 ms
+[1696128844.189452] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=56.4 ms
+[1696128845.221629] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=86.4 ms
+[1696128846.249060] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=112 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4514ms
+rtt min/avg/max/mdev = 23.555/65.650/111.848/30.539 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696132444.424263] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.0 ms
+[1696132444.441487] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.7 ms
+[1696132445.444871] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=17.4 ms
+[1696132446.448629] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=18.8 ms
+[1696132447.517511] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=86.0 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5213ms
+rtt min/avg/max/mdev = 14.978/30.572/86.030/27.760 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696136045.532126] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.5 ms
+[1696136045.549337] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.6 ms
+[1696136046.585955] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=50.1 ms
+[1696136047.689321] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=151 ms
+[1696136048.650372] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=111 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5269ms
+rtt min/avg/max/mdev = 15.450/68.785/151.498/54.151 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696139643.882095] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.8 ms
+[1696139643.899685] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.0 ms
+[1696139644.980174] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=95.2 ms
+[1696139645.936497] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=49.7 ms
+[1696139646.959916] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=71.7 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4153ms
+rtt min/avg/max/mdev = 15.815/49.691/95.242/31.117 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696143244.935083] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=18.1 ms
+[1696143244.951538] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.0 ms
+[1696143246.013200] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=74.6 ms
+[1696143246.983202] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=43.2 ms
+[1696143248.011795] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=70.1 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4849ms
+rtt min/avg/max/mdev = 14.985/44.207/74.583/25.011 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696146843.832625] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=17.8 ms
+[1696146843.847765] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=13.8 ms
+[1696146844.868293] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=33.0 ms
+[1696146845.902895] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=53.6 ms
+[1696146846.915310] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=64.0 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4461ms
+rtt min/avg/max/mdev = 13.813/36.423/63.986/19.617 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696150445.780180] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.1 ms
+[1696150445.795818] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.4 ms
+[1696150446.802264] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=18.8 ms
+[1696150447.840908] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=56.0 ms
+[1696150448.832788] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=46.4 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5207ms
+rtt min/avg/max/mdev = 14.407/30.154/55.966/17.508 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696154046.662731] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.2 ms
+[1696154046.676854] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=13.8 ms
+[1696154047.765835] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=101 ms
+[1696154048.711224] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=45.5 ms
+[1696154049.707144] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=40.3 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5612ms
+rtt min/avg/max/mdev = 13.776/43.238/101.402/31.778 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696157643.918744] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.9 ms
+[1696157643.935387] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.3 ms
+[1696157644.999460] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=77.8 ms
+[1696157646.021597] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=98.4 ms
+[1696157646.984152] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=60.6 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4827ms
+rtt min/avg/max/mdev = 15.299/53.585/98.404/33.254 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696161243.750888] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.0 ms
+[1696161243.768390] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.0 ms
+[1696161244.800780] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=46.8 ms
+[1696161245.848159] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=92.8 ms
+[1696161246.836102] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=79.1 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4687ms
+rtt min/avg/max/mdev = 14.989/49.947/92.824/31.837 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696164844.668287] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.7 ms
+[1696164844.683776] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.3 ms
+[1696164845.693064] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=22.8 ms
+[1696164846.695950] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=24.1 ms
+[1696164847.696724] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=23.0 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5064ms
+rtt min/avg/max/mdev = 15.258/20.178/24.137/3.855 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696168445.388551] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=14.4 ms
+[1696168445.405819] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.3 ms
+[1696168446.418530] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=27.1 ms
+[1696168447.435331] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=42.2 ms
+[1696168448.435329] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=40.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5199ms
+rtt min/avg/max/mdev = 14.376/28.101/42.233/11.675 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696172045.710261] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.3 ms
+[1696172045.726799] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.7 ms
+[1696172046.739405] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=26.9 ms
+[1696172047.778521] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=64.7 ms
+[1696172048.799815] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=83.9 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5491ms
+rtt min/avg/max/mdev = 15.251/41.285/83.854/27.918 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696175643.168202] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=42.1 ms
+[1696175643.208123] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=39.6 ms
+[1696175644.236138] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=66.5 ms
+[1696175645.550966] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=380 ms
+[1696175646.415853] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=244 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4672ms
+rtt min/avg/max/mdev = 39.595/154.406/380.080/135.968 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696179244.771738] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.1 ms
+[1696179244.788240] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.6 ms
+[1696179245.814943] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=40.8 ms
+[1696179246.829317] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=53.8 ms
+[1696179247.804782] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=28.0 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5308ms
+rtt min/avg/max/mdev = 15.118/30.653/53.788/14.910 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696182843.534548] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.0 ms
+[1696182843.551445] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=16.1 ms
+[1696182844.573872] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=36.6 ms
+[1696182845.629688] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=90.7 ms
+[1696182846.637930] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=96.9 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4418ms
+rtt min/avg/max/mdev = 16.042/51.262/96.909/35.592 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696186446.229765] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.2 ms
+[1696186446.247572] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=17.1 ms
+[1696186447.269995] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=37.6 ms
+[1696186448.288032] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=53.5 ms
+[1696186449.314324] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=78.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6071ms
+rtt min/avg/max/mdev = 16.224/40.590/78.453/23.466 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696190043.202728] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=21.1 ms
+[1696190043.218439] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.8 ms
+[1696190044.275262] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=69.9 ms
+[1696190045.313116] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=106 ms
+[1696190046.317133] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=108 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4449ms
+rtt min/avg/max/mdev = 14.838/64.132/108.488/40.162 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696193644.637957] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=17.6 ms
+[1696193644.653403] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.9 ms
+[1696193645.655959] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.8 ms
+[1696193646.684912] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=43.4 ms
+[1696193647.716914] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=73.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5257ms
+rtt min/avg/max/mdev = 14.867/33.022/73.501/22.850 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696197245.383059] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.4 ms
+[1696197245.407595] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=23.1 ms
+[1696197246.460809] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=74.3 ms
+[1696197247.457140] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=69.0 ms
+[1696197248.473461] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=83.3 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5445ms
+rtt min/avg/max/mdev = 15.358/53.015/83.328/28.078 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696200843.305161] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.0 ms
+[1696200843.321731] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.1 ms
+[1696200844.329205] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=20.9 ms
+[1696200845.393587] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=83.6 ms
+[1696200846.394068] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=82.7 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4770ms
+rtt min/avg/max/mdev = 14.974/43.458/83.648/32.495 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696204446.941347] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=19.9 ms
+[1696204446.966736] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=24.7 ms
+[1696204448.023947] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=80.1 ms
+[1696204449.017490] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=72.6 ms
+[1696204450.206274] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=261 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6244ms
+rtt min/avg/max/mdev = 19.948/91.720/261.220/88.169 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696208042.495646] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=21.3 ms
+[1696208042.521112] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=25.1 ms
+[1696208043.541082] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=43.8 ms
+[1696208044.590031] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=90.4 ms
+[1696208045.621193] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=120 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4024ms
+rtt min/avg/max/mdev = 21.347/60.070/119.700/38.629 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696211646.679304] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=21.1 ms
+[1696211646.694464] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.7 ms
+[1696211647.740522] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=58.7 ms
+[1696211648.818601] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=135 ms
+[1696211649.867515] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=182 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 6251ms
+rtt min/avg/max/mdev = 14.682/82.372/182.148/65.809 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696215243.827084] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=19.5 ms
+[1696215244.036976] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=58.2 ms
+[1696215245.104841] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=125 ms
+[1696215246.120154] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=140 ms
+[1696215247.173792] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=193 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4002ms
+rtt min/avg/max/mdev = 19.456/107.035/192.654/61.296 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696218845.030194] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.8 ms
+[1696218845.044335] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=13.7 ms
+[1696218846.100762] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=69.0 ms
+[1696218847.112440] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=79.4 ms
+[1696218848.070155] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=35.3 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5201ms
+rtt min/avg/max/mdev = 13.652/42.628/79.426/27.061 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696222445.380999] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.8 ms
+[1696222445.396306] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.7 ms
+[1696222446.431049] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=48.2 ms
+[1696222447.405552] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=21.1 ms
+[1696222448.413790] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=27.8 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5329ms
+rtt min/avg/max/mdev = 14.688/25.508/48.170/12.240 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696226043.931204] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=29.2 ms
+[1696226043.947211] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.1 ms
+[1696226044.989373] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=55.9 ms
+[1696226045.995348] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=60.4 ms
+[1696226046.962546] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=26.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5080ms
+rtt min/avg/max/mdev = 15.094/37.402/60.364/17.633 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696229643.555363] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=14.9 ms
+[1696229643.570753] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.0 ms
+[1696229644.597241] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=39.9 ms
+[1696229645.619160] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=59.7 ms
+[1696229646.646816] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=85.9 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4864ms
+rtt min/avg/max/mdev = 14.947/43.086/85.909/27.191 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696233245.396554] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.9 ms
+[1696233245.411897] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=14.8 ms
+[1696233246.417250] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=18.7 ms
+[1696233247.428648] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=28.7 ms
+[1696233248.465139] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=63.9 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5563ms
+rtt min/avg/max/mdev = 14.842/28.413/63.924/18.416 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696236844.267698] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=17.3 ms
+[1696236844.283297] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.1 ms
+[1696236845.304826] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=35.1 ms
+[1696236846.315349] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=44.0 ms
+[1696236847.303993] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=31.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4312ms
+rtt min/avg/max/mdev = 15.068/28.602/44.046/10.969 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696240443.152432] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=15.3 ms
+[1696240443.172227] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=18.3 ms
+[1696240444.187790] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=32.3 ms
+[1696240445.199301] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=41.9 ms
+[1696240446.202564] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=43.7 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4425ms
+rtt min/avg/max/mdev = 15.324/30.304/43.656/11.726 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696244044.798672] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.2 ms
+[1696244044.814614] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=15.3 ms
+[1696244045.816553] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=15.5 ms
+[1696244046.893860] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=91.7 ms
+[1696244047.848294] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=44.6 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 5560ms
+rtt min/avg/max/mdev = 15.348/36.661/91.708/29.713 ms
+PING dns-st.bahnhof.net (79.136.119.20) 56(84) bytes of data.
+[1696247644.321468] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=1 ttl=55 time=16.4 ms
+[1696247644.336461] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=2 ttl=55 time=13.8 ms
+[1696247645.370363] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=3 ttl=55 time=46.5 ms
+[1696247646.362759] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=4 ttl=55 time=37.1 ms
+[1696247647.363546] 64 bytes from dns-st.bahnhof.net (79.136.119.20): icmp_seq=5 ttl=55 time=36.5 ms
+
+--- dns-st.bahnhof.net ping statistics ---
+5 packets transmitted, 5 received, 0% packet loss, time 4882ms
+rtt min/avg/max/mdev = 13.754/30.028/46.476/12.748 ms

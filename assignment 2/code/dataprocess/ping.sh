@@ -1,0 +1,3 @@
+ awk -F'[=/ ]+' '/rtt/ {print $7}' dns-st.bahnhof.net.txt | awk '{sum+=$1; count++} END {print "Mean:", sum/count}'
+ awk -F'[=/ ]+' '/rtt/ {print $7}' dns-st.bahnhof.net.txt | sort -n | awk '{a[i++]=$1} END {if (i%2==0) print "Median:", (a[int(i/2-1)] + a[int(i/2)])/2; else print "Median:", a[int(i/2)]}'
+ awk -F'[=/ ]+' '/rtt/ {print $7}' dns-st.bahnhof.net.txt | sort -n | awk 'BEGIN{percentile=0.75; count=0} {data[count++]=$1} END{idx=int(count*percentile); diff=data[idx]-data[int(count*(1-percentile))]; print "Average Deviation:", diff}'
