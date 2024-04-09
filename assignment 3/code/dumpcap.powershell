@@ -1,0 +1,5 @@
+# Get network adapter information
+Get-NetAdapter
+
+# Capture network traffic using dumpcap
+Start-Process -FilePath "dumpcap" -ArgumentList "-i", "WLAN", "-w", "D:\data\ass3.pcap" -NoNewWindow -Wait
