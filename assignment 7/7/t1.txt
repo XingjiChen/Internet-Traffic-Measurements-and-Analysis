@@ -1,0 +1,22 @@
+D:\1itma\ITMA6\venv\Scripts\python.exe D:\1itma\ITMA6\task1_1.py 
+The mean inter-arrival time is: 16432.250672819187
+
+D:\1itma\ITMA6\venv\Scripts\python.exe D:\1itma\ITMA6\task1_2.py 
+The mean inter-arrival time of the original data is: 16432.250672819187
+The mean inter-arrival time of the 5000 samples is: 16320.122172017602
+
+D:\1itma\ITMA6\venv\Scripts\python.exe D:\1itma\ITMA6\task1_3.py 
+For n=10:
+Mean of sample means: 16487.195322728265
+Standard deviation of sample means: 5242.126912961678
+Sampling error: 54.94464990907727
+
+For n=100:
+Mean of sample means: 16420.533266579536
+Standard deviation of sample means: 1655.9228922710108
+Sampling error: -11.71740623965161
+
+For n=1000:
+Mean of sample means: 16426.684004789146
+Standard deviation of sample means: 521.513739527369
+Sampling error: -5.56666803004191

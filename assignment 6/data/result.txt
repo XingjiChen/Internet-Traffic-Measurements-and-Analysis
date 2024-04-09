@@ -1,0 +1,89 @@
+D:\1itma\ITMA6\venv\Scripts\python.exe D:\1itma\ITMA6\3_1.py 
+Maximum Average Packet Size for 1000 Random Samples: 1358.21 bytes/packet
+Average Throughput for the 1000 sample (excluding zero-time flows): 1820777.64 bytes/second
+
+Process finished with exit code 0
+
+
+D:\1itma\ITMA6\venv\Scripts\python.exe D:\1itma\ITMA6\3_2_1.py 
+Maximum Average Packet Size for Original Dataset: 1500.00 bytes/packet
+Number of flows transferred in zero time: 95909
+Average Throughput (excluding zero-time flows): 1128591.57 bytes/second
+
+Process finished with exit code 0
+
+
+
+D:\1itma\ITMA6\venv\Scripts\python.exe D:\1itma\ITMA6\2_1.py 
+[distfit] >INFO> fit
+[distfit] >INFO> transform
+[distfit] >INFO> [norm      ] [0.00 sec] [RSS: 9.84458] [loc=1.147 scale=2.220]
+[distfit] >INFO> [expon     ] [0.00 sec] [RSS: 6.2506] [loc=0.000 scale=1.147]
+[distfit] >INFO> [pareto    ] [0.00 sec] [RSS: 0.757524] [loc=-0.016 scale=0.016]
+          value
+0  2.236967e-09
+1  5.479587e+00
+2  3.998972e-02
+3  1.312768e-02
+4  5.494544e-03
+[distfit] >INFO> [dweibull  ] [0.22 sec] [RSS: 6.05357] [loc=0.000 scale=0.770]
+[distfit] >INFO> [t         ] [0.20 sec] [RSS: 3.1662] [loc=0.011 scale=0.030]
+[distfit] >INFO> [genextreme] [0.34 sec] [RSS: 2.82731] [loc=0.023 scale=0.076]
+[distfit] >INFO> [gamma     ] [0.16 sec] [RSS: 1.89699] [loc=0.000 scale=1.541]
+[distfit] >INFO> [lognorm   ] [0.00 sec] [RSS: 2.52195] [loc=-0.000 scale=0.094]
+[distfit] >INFO> [beta      ] [0.26 sec] [RSS: 0.963583] [loc=0.000 scale=125.780]
+[distfit] >INFO> [uniform   ] [0.00 sec] [RSS: 11.0723] [loc=0.000 scale=24.788]
+[distfit] >INFO> [loggamma  ] [0.07 sec] [RSS: 9.89923] [loc=-994.810 scale=125.422]
+Distribution: pareto
+Parameters: (0.3671697261087662, -0.015529498528188095, 0.015529498529021512)
+
+Process finished with exit code 0
+
+
+D:\1itma\ITMA6\venv\Scripts\python.exe D:\1itma\ITMA6\2_1.py 
+   value
+0      5
+1      6
+2      5
+3     10
+4      6
+[distfit] >INFO> fit
+[distfit] >INFO> transform
+[distfit] >INFO> [norm      ] [0.00 sec] [RSS: 0.120892] [loc=6.052 scale=2.543]
+[distfit] >INFO> [expon     ] [0.00 sec] [RSS: 0.219055] [loc=0.000 scale=6.052]
+[distfit] >INFO> [pareto    ] [0.00 sec] [RSS: 0.219055] [loc=-1073741824.000 scale=1073741824.000]
+[distfit] >INFO> [dweibull  ] [0.02 sec] [RSS: 0.135504] [loc=5.630 scale=2.234]
+[distfit] >INFO> [t         ] [0.29 sec] [RSS: 0.120931] [loc=6.014 scale=2.445]
+[distfit] >INFO> [genextreme] [0.08 sec] [RSS: 0.120738] [loc=5.010 scale=2.317]
+[distfit] >INFO> [gamma     ] [0.02 sec] [RSS: 0.120589] [loc=-4.353 scale=0.623]
+[distfit] >INFO> [lognorm   ] [0.03 sec] [RSS: 0.120624] [loc=-9.400 scale=15.246]
+[distfit] >INFO> [beta      ] [0.07 sec] [RSS: 0.120484] [loc=-2.555 scale=48.728]
+[distfit] >INFO> [uniform   ] [0.00 sec] [RSS: 0.197791] [loc=0.000 scale=16.000]
+[distfit] >INFO> [loggamma  ] [0.05 sec] [RSS: 0.121026] [loc=-728.228 scale=100.080]
+Distribution: beta
+Parameters: (9.252203593352178, 43.12746028487105, -2.5547819163354797, 48.727754588960416)
+
+Process finished with exit code 0
+
+
+D:\1itma\ITMA6\venv\Scripts\python.exe D:\1itma\ITMA6\2_1.py 
+          value
+0  5.534067e+05
+1  6.209289e+06
+2  5.461372e+04
+3  2.255549e+09
+4  6.680244e+08
+[distfit] >INFO> fit
+[distfit] >INFO> transform
+[distfit] >INFO> [norm      ] [0.05 sec] [RSS: 1.0466e-14] [loc=6785925289.021 scale=88649550719.865]
+[distfit] >INFO> [expon     ] [0.04 sec] [RSS: 1.04335e-14] [loc=0.006 scale=6785925289.015]
+[distfit] >INFO> [pareto    ] [0.06 sec] [RSS: 6.86481e-15] [loc=-4788.347 scale=4788.353]
+[distfit] >INFO> [dweibull  ] [0.23 sec] [RSS: 7.65242e-15] [loc=60.392 scale=44671299.022]
+[distfit] >INFO> [t         ] [0.62 sec] [RSS: 8.67949e-15] [loc=4724.006 scale=14439.276]
+[distfit] >INFO> [genextreme] [0.46 sec] [RSS: 9.11684e-15] [loc=3.560 scale=34.646]
+[distfit] >INFO> [gamma     ] [0.18 sec] [RSS: 9.77155e-15] [loc=0.006 scale=1271224920487.997]
+[distfit] >INFO> [lognorm   ] [0.08 sec] [RSS: 5.64665e-15] [loc=0.006 scale=1406024.683]
+[distfit] >INFO> [beta      ] [0.31 sec] [RSS: 7.15044e-15] [loc=0.006 scale=8399542389770.129]
+[distfit] >INFO> [uniform   ] [0.03 sec] [RSS: 1.04671e-14] [loc=0.006 scale=3199111619846.530]
+[distfit] >INFO> [loggamma  ] [0.12 sec] [RSS: 1.04662e-14] [loc=-40401549125895.375 scale=5306499338792.770]
+

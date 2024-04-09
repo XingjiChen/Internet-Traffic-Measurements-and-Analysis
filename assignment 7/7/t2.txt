@@ -1,0 +1,5 @@
+D:\1itma\ITMA6\venv\Scripts\python.exe D:\1itma\ITMA6\task2_1.py 
+Mean of packets: 7.7614
+Median of packets: 1.0
+Mean of bytes: 6015.6893
+Median of bytes: 40.0
