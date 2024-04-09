@@ -1,0 +1,24 @@
+1.1	ping*8 dig*3 (这两个include/ex *2) curl*2 
+pdf cdf ping*8 dig*3 (ex) curl*2
+summarize ping*8 dig*3 (ex) curl*2
+1.2	pdf cdf ping*8 dig*3 (ex) curl*2
+自相关 ping*2(自选) curl*1
+1.3	iperf*2
+1.4	iperf*2 自相关iperf*2
+
+	Latency measurements (data sets AS1.x), where x includes:
+AS1.d1: Name server1 with DNS: dns-st.bahnhof.net.txt
+AS1.d2: Name server2 with DNS: ns1.bahnhof.net.txt
+AS1.d3: Name server3 with DNS: southeast-2.dns-au.st.txt
+AS1.n1: Name server1 with ICMP: dns-st.bahnhof.net.txt
+AS1.n2: Name server2 with ICMP: ns1.bahnhof.net.txt
+AS1.n3: Name server3 with ICMP: southeast-2.dns-au.st.txt
+AS1.r1: Research server1: cbg-uk.ark.caida.org.txt
+AS1.r2: Research server2: bjl-gm.ark.caida.org.txt
+AS1.r3: Research server3: msy-us.ark.caida.org.txt
+AS1.i1: Iperf server1: ok1.iperf.comnet-student.eu.txt
+AS1.i2: Iperf server2: blr1.iperf.comnet-student.eu.txt
+
+	Throughput measurements (data sets AS2.x), where x includes:
+AS2.i1: Iperf server1: ok1.iperf.comnet-student.eu.txt
+AS2.i2: Iperf server2: blr1.iperf.comnet-student.eu.txt
